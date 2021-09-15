@@ -5,8 +5,8 @@
 ## Governance
 
 * [Joining the DAO](governance/joining-the-dao.md)
-* [Making a vote](governance/making-a-vote.md)
 * [Staking MAHA for MAHAX](governance/staking-maha-for-mahax.md)
+* [Making a vote](governance/making-a-vote.md)
 * [Governance Portal](governance/governance-portal.md)
 
 ## Products
