@@ -4,5 +4,5 @@ description: >-
   valuecoin.
 ---
 
-# MahaLend
+# Maha Lend
 

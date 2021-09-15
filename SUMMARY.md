@@ -13,6 +13,6 @@
 ## Products
 
 * [ARTH Valuecoin](products/arth-valuecoin.md)
-* [MahaLend](products/mahalend.md)
+* [Maha Lend](products/mahalend.md)
 * [Maha Oracles](products/maha-oracles.md)
 
