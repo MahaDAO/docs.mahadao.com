@@ -18,7 +18,10 @@
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Making a vote](governance/governance-portal/making-a-vote.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts/README.md)
+  * [Setting up your profile](governance/coordinape-for-payouts/setting-up-your-profile.md)
+  * [What are Epochs](governance/coordinape-for-payouts/what-are-epochs.md)
   * [Making a Contribution](governance/coordinape-for-payouts/making-a-suggestion.md)
+  * [Getting Paid and checking your balance](governance/coordinape-for-payouts/getting-paid-and-checking-your-balance.md)
 
 ## Products
 
