@@ -6,5 +6,7 @@ description: >-
 
 # Welcome
 
-test
+MahaDAO is a DAO that is driven by the people, for the people. This documentation explains various parts of the DAO and what new joinees
+
+
 
