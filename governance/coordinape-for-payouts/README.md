@@ -24,3 +24,11 @@ The graph is a visual representation of how rewards flow from one member to anot
 
 This brings a deep level of transparency that otherwise would be impossible.
 
+## Scaling up DAO operations <a id="0318"></a>
+
+We’d like to think of DAOs as ant colonies, where members in the ant colony work together to grow the colony as a whole without any instructions or general command whatsoever from a queen ant.
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+A tool like Coordinape helps MahaDAO scale its operations and become a truly decentralized DAO.
+

@@ -17,7 +17,7 @@
 * [Making a vote](governance/making-a-vote.md)
 * [Governance Portal](governance/governance-portal.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts/README.md)
-  * [Making a suggestion](governance/coordinape-for-payouts/making-a-suggestion.md)
+  * [Making a Contribution](governance/coordinape-for-payouts/making-a-suggestion.md)
 
 ## Products
 
