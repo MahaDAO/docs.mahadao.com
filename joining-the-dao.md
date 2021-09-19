@@ -15,7 +15,7 @@ DAO members are contributors who actively participate in discussion and to the g
 
 The biggest benefit of becoming a DAO member is that you will get paid in MAHA tokens for the activities that you'll do to promote/grow the ecosystem and the community.
 
-Every month 5,000 MAHA tokens is allocated to DAO members rewarding them for their work that they've done. This allocation is distributed using Coordinape \(See[ Getting paid in MAHA](governance/getting-paid-in-maha.md)\)  that ensures everyone is paid out in a fair and decentralised way as per how much they've contributed. 
+Every month 5,000 MAHA tokens is allocated to DAO members rewarding them for their work that they've done. This allocation is distributed using Coordinape \(See[ Earning MAHA](the-maha-token/getting-paid-in-maha.md)\)  that ensures everyone is paid out in a fair and decentralised way as per how much they've contributed. 
 
 ## Keeping the process fair and decentralised
 

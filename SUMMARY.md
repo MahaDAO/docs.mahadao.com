@@ -9,14 +9,15 @@
 * [Overview](the-maha-token/overview.md)
 * [Distribution & Inflation](the-maha-token/distribution.md)
 * [Staking, Voting and MAHAX](the-maha-token/staking-voting-and-mahax.md)
-* [Earning MAHA](the-maha-token/earning-maha.md)
+* [Earning MAHA](the-maha-token/getting-paid-in-maha.md)
 
 ## Governance
 
 * [Staking MAHA for MAHAX](governance/staking-maha-for-mahax.md)
 * [Making a vote](governance/making-a-vote.md)
 * [Governance Portal](governance/governance-portal.md)
-* [Getting Paid in MAHA](governance/getting-paid-in-maha.md)
+* [Coordinape for Payouts](governance/coordinape-for-payouts/README.md)
+  * [Making a suggestion](governance/coordinape-for-payouts/making-a-suggestion.md)
 
 ## Products
 
