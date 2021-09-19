@@ -15,6 +15,7 @@
 ## Governance
 
 * [MAHAX Staking](governance/mahax-staking/README.md)
+  * [Inflation Control](governance/mahax-staking/inflation-control.md)
   * [Earning Platform Fees](governance/mahax-staking/earning-platform-fees.md)
   * [Voting](governance/mahax-staking/voting.md)
   * [Locking Mechanism](governance/mahax-staking/locking-mechanism.md)
