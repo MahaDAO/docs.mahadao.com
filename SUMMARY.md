@@ -14,8 +14,8 @@
 ## Governance
 
 * [Staking MAHA for MAHAX](governance/staking-maha-for-mahax.md)
-* [Making a vote](governance/making-a-vote.md)
-* [Governance Portal](governance/governance-portal.md)
+* [Governance Portal](governance/governance-portal/README.md)
+  * [Making a vote](governance/governance-portal/making-a-vote.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts/README.md)
   * [Making a Contribution](governance/coordinape-for-payouts/making-a-suggestion.md)
 
