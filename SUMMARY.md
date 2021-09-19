@@ -16,3 +16,7 @@
 * [Maha Lend](products/mahalend.md)
 * [Maha Oracles](products/maha-oracles.md)
 
+## The MAHA Token
+
+* [Distribution](the-maha-token/distribution.md)
+
