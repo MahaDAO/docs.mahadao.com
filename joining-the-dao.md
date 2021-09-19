@@ -17,7 +17,7 @@ To become a DAO member, all you have to do is:
 
 The biggest benefit of becoming a DAO member is that you will get paid in MAHA tokens for the activities that you'll do to promote the ecosystem and the community.
 
-Every month 50,000 MAHA tokens are released into circulation to be used by DAO members for various activities that can be used to promote the ecosystem. 
+Every month 5,000 MAHA tokens is allocated to be used by DAO members for various activities that can be used to promote the ecosystem. 
 
 ## Keeping the process fair and decentralised
 
