@@ -10,13 +10,14 @@
 * [Making a vote](governance/making-a-vote.md)
 * [Governance Portal](governance/governance-portal.md)
 
+## The MAHA Token
+
+* [Overview](the-maha-token/overview.md)
+* [Distribution & Inflation](the-maha-token/distribution.md)
+
 ## Products
 
 * [ARTH Valuecoin](products/arth-valuecoin.md)
 * [Maha Lend](products/mahalend.md)
 * [Maha Oracles](products/maha-oracles.md)
-
-## The MAHA Token
-
-* [Distribution](the-maha-token/distribution.md)
 
