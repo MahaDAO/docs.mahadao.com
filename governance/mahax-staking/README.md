@@ -4,6 +4,8 @@ description: This page talks more about what is MAHAX Staking and the benefits o
 
 # MAHAX Staking
 
+Introducing MAHAX, converting MAHA into a fee-earning asset with governance properties similar to Curve’s veCRV, Frax’s veFXS, iceCream etc…
+
 Why Introduce MAHAX?
 
 * Allocate voting power to long-term holders of MAHA through MAHAX.
