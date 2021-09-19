@@ -4,7 +4,7 @@ description: >-
   make an effective contribution to the ecosystem.
 ---
 
-# Joining the DAO
+# Join the DAO
 
 DAO members are contributors who actively participate in discussion and to the growth of the DAO. Becoming a DAO member is a very simple process. All you have to do is:
 

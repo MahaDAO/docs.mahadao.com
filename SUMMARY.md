@@ -2,8 +2,8 @@
 
 * [Welcome](README.md)
 * [Philosophy](philosophy.md)
-* [Joining the DAO](joining-the-dao.md)
 * [Participate & Earn](participate-and-earn.md)
+* [Join the DAO](joining-the-dao.md)
 
 ## The MAHA Token
 
@@ -14,7 +14,11 @@
 
 ## Governance
 
-* [MAHAX Staking](governance/mahax-staking.md)
+* [MAHAX Staking](governance/mahax-staking/README.md)
+  * [Earning Platform Fees](governance/mahax-staking/earning-platform-fees.md)
+  * [Voting](governance/mahax-staking/voting.md)
+  * [Locking Mechanism](governance/mahax-staking/locking-mechanism.md)
+  * [Boosting Staking Rewards](governance/mahax-staking/boosting-staking-rewards.md)
 * [Governance Portal](governance/governance-portal/README.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Making a vote](governance/governance-portal/making-a-vote.md)
