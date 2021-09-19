@@ -1,18 +1,20 @@
 ---
 description: >-
   This page demonstrates various tutorials for new users that enter into DAO and
-  are looking to get paid out in MAHA,
+  are looking to get paid out in MAHA.
 ---
 
 # Coordinape for Payouts
 
-Every month, the MahaDAO Ecosystem gets 50,000 MAHA tokens to spend on various ecosystem activities. For the first month, the budget allocated to the Coordinape platform will be 5,000 MAHA tokens per month. Post the first month, the budget will scale slowly up to a maximum of 15,000 MAHA tokens per month based on the growth of the DAO.
+Every month, the MahaDAO Ecosystem gets 50,000 MAHA tokens to spend on various activities that will help grow the DAO. To ensure that tokens are distributed out to contributors in a fair and transparent way, the MahaDAO uses a tool called as Coordinape to handle payouts.
 
 [Coordinape](https://coordinape.com/) is a platform initially developed by the Yearn Finance team for organising payouts and bringing transparency to how the DAOs operated.
 
-With Coordinape, coordinating and incentivizing various members within the MahaDAO community becomes as simple as a few button clicks \(even at scale\).
+With Coordinape, coordinating and incentivizing various members within the MahaDAO community becomes as simple as a few button clicks \(even when done at a scale of a 1000 DAO members\).
 
 Every member within the platform gets a budget of MAHA tokens every month using which he/she can reward other community members in the platform for their contributions. Community members can also leave reasons as to why he/she has decided to reward a community member a certain amount giving an extra level of transparency.
+
+For the initial few months, the budget allocated to the Coordinape platform will be 5,000 MAHA tokens per month. This budget can change as per the community's decisions.
 
 ## Using the Community Graph to Understand Payouts and Eliminating Cartels <a id="d8f7"></a>
 
@@ -30,5 +32,5 @@ We’d like to think of DAOs as ant colonies, where members in the ant colony wo
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-A tool like Coordinape helps MahaDAO scale its operations and become a truly decentralized DAO.
+A tool like Coordinape helps MahaDAO scale its operations and become a truly decentralised DAO.
 
