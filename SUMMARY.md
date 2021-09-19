@@ -15,6 +15,7 @@
 
 * [Staking MAHA for MAHAX](governance/staking-maha-for-mahax.md)
 * [Making a vote](governance/making-a-vote.md)
+* [Getting Paid in MAHA](governance/getting-paid-in-maha.md)
 * [Governance Portal](governance/governance-portal.md)
 
 ## Products

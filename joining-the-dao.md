@@ -10,14 +10,14 @@ DAO members are contributors who actively participate in discussion and to the g
 
 To become a DAO member, all you have to do is:
 
-* Fill in this application form, giving information about what you can contribute and how you can bring value to the ecosystem.
+* Fill out this application form, giving information about what you can contribute and how you can bring value to the ecosystem.
 * Get approved by the community through a governance vote.
 
 ## Why become a DAO member?
 
-The biggest benefit of becoming a DAO member is that you will get paid in MAHA tokens for the activities that you'll do to promote the ecosystem and the community.
+The biggest benefit of becoming a DAO member is that you will get paid in MAHA tokens for the activities that you'll do to promote/grow the ecosystem and the community.
 
-Every month 5,000 MAHA tokens is allocated to be used by DAO members for various activities that can be used to promote the ecosystem. 
+Every month 5,000 MAHA tokens is allocated to DAO members for their work. This allocation is distributed in a decentralised fashion using Coordinape \(See Getting paid in MAHA\).
 
 ## Keeping the process fair and decentralised
 
