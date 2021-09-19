@@ -3,6 +3,7 @@
 * [Welcome](README.md)
 * [Philosophy](philosophy.md)
 * [Joining the DAO](joining-the-dao.md)
+* [Participate & Earn](participate-and-earn.md)
 
 ## The MAHA Token
 
