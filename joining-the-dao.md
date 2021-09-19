@@ -10,8 +10,8 @@ DAO members are contributors who actively participate in discussion and to the g
 
 To become a DAO member, all you have to do is:
 
-* Fill in this application form, giving information about what you can contribute and how you can spare your time.
-* Get voted in, by the community from the governance vote.
+* Fill in this application form, giving information about what you can contribute and how you can bring value to the ecosystem.
+* Get approved by the community through a governance vote.
 
 ## Why become a DAO member?
 
@@ -29,5 +29,5 @@ This vote will allow all MAHAX holders to decide if the applicants are eligible 
 
 Finally, after the vote has gone through, the new applicants are now added into the DAO and will start receiving payouts in MAHA for their contributions.
 
-_\(At the initial stages, DAO members will review applicants every week. As the DAO grows, the review period will extend to a month or even longer\)._
+_\(At the initial stages, DAO members will review applicants once every week. As the DAO grows, the review period will extend to a month to accommodate newer members\)._
 
