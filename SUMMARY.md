@@ -21,7 +21,7 @@
   * [Boosting Staking Rewards](governance/mahax-staking/boosting-staking-rewards.md)
 * [Governance Portal](governance/governance-portal/README.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
-  * [Making a vote](governance/governance-portal/making-a-vote.md)
+  * [Creating a Proposal / Vote](governance/governance-portal/making-a-vote.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts/README.md)
   * [Setting up your profile](governance/coordinape-for-payouts/setting-up-your-profile.md)
   * [What are Epochs](governance/coordinape-for-payouts/what-are-epochs.md)

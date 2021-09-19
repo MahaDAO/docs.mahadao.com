@@ -1,2 +1,2 @@
-# Making a vote
+# Creating a Proposal / Vote
 
