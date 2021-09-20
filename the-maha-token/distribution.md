@@ -26,7 +26,5 @@ _\(It is estimated that by the year 3 or 4, the token distribution would be spre
 
 For those who'd like to take precise numbers on how much MAHA will get added into the circulation, month by month, an excel sheet \(linked [here](https://docs.google.com/spreadsheets/d/1MY3___VHDXJc-I4mTNPFQghmVCUo4gONT882QlCSuX4/edit?usp=sharing)\) has been created which goes into depth on how much new tokens get added into circulation.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1MY3\_\_\_VHDXJc-I4mTNPFQghmVCUo4gONT882QlCSuX4/edit?usp=sharing" %}
-
-
+{% embed url="https://docs.google.com/spreadsheets/d/1MY3\_\_\_VHDXJc-I4mTNPFQghmVCUo4gONT882QlCSuX4/edit?usp=sharing" caption="An interactive excel sheet which showcases token supply month by month" %}
 
