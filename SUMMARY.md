@@ -4,6 +4,7 @@
 * [Philosophy](philosophy.md)
 * [Participate & Earn](participate-and-earn.md)
 * [Join the DAO](joining-the-dao.md)
+* [Roadmap](https://trello.com/b/LmrbSl6z)
 
 ## The MAHA Token
 
