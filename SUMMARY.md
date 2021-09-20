@@ -22,6 +22,7 @@
   * [Locking Mechanism](governance/mahax-staking/locking-mechanism.md)
   * [Boosting Staking Rewards](governance/mahax-staking/boosting-staking-rewards.md)
 * [Governance Portal](governance/governance-portal/README.md)
+  * [Untitled](governance/governance-portal/untitled.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Creating a Proposal / Vote](governance/governance-portal/making-a-vote.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts/README.md)
