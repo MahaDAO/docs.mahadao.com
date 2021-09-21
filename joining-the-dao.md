@@ -8,7 +8,7 @@ description: >-
 
 DAO members are contributors who actively participate in discussion and to the growth of the DAO. Becoming a DAO member is a very simple process. All you have to do is:
 
-* Fill out this application form, giving information about what you can contribute and how you can bring value to the ecosystem.
+* Fill out this [application form](https://form.typeform.com/to/ac01nSJG), giving information about what you can contribute and how you can bring value to the ecosystem.
 * Get approved by the community through a governance vote.
 
 ## Why become a DAO member?
