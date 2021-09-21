@@ -4,7 +4,11 @@ description: Here we show step by step on how you can stake MAHA for MAHAX.
 
 # Staking MAHA for MAHAX
 
+## Staking MAHA for MAHAX
+
 Step 1: Click on the locker tab. After which the user needs to click on lock MAHA. The details about the wallet and the previous MAHA locked if any by the user is displayed.
+
+_&lt;Add Landscape high res screenshot here&gt;_
 
 Step 2: After clicking on lock MAHA the user needs to input the number of MAHA tokens the user wants to lock and also select the time period.
 
@@ -12,8 +16,17 @@ Step 3: Given below is a use case where a user is locking 10 MAHA for a period o
 
 Step 4: In case a user wants to select a different time frame they can accordingly make the changes. The time frame can vary from any time between one week to 4 years and also the user can customize the time frame according to their requirements.
 
-Step 6: This final submit will confirm the lock on the number of tokens the user has locked and the changes will be reflected on the following home page.  
-  
-  
+Step 6: This final submit will confirm the lock on the number of tokens the user has locked and the changes will be reflected on the following home page.
 
+## Extending lock for already locked MAHAX
+
+Step 1: ...
+
+Step 2: ...
+
+## Withdrawing MAHAX for MAHA
+
+Step 1: ...
+
+Step 2: ...
 
