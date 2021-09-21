@@ -17,10 +17,10 @@
 ## Governance
 
 * [MAHAX Staking](governance/mahax-staking/README.md)
+  * [Locking Mechanism](governance/mahax-staking/locking-mechanism.md)
   * [Inflation Control](governance/mahax-staking/inflation-control.md)
   * [Earning Platform Fees](governance/mahax-staking/earning-platform-fees.md)
   * [Voting](governance/mahax-staking/voting.md)
-  * [Locking Mechanism](governance/mahax-staking/locking-mechanism.md)
   * [Boosting Staking Rewards](governance/mahax-staking/boosting-staking-rewards.md)
 * [Governance Portal Tutorials](governance/governance-portal/README.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
