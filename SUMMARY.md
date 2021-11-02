@@ -24,6 +24,8 @@
   * [Boosting Staking Rewards](governance/mahax-staking/boosting-staking-rewards.md)
 * [Governance Portal Tutorials](governance/governance-portal/README.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
+  * [Extending lock for already locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
+  * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
   * [Creating a Proposal / Vote](governance/governance-portal/making-a-vote.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts/README.md)
   * [Setting up your profile](governance/coordinape-for-payouts/setting-up-your-profile.md)
@@ -36,4 +38,3 @@
 * [ARTH Valuecoin](products/arth-valuecoin.md)
 * [Maha Lend](products/mahalend.md)
 * [Maha Oracles](products/maha-oracles.md)
-
