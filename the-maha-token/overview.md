@@ -12,6 +12,10 @@ MAHA token holders can vote to allocate MAHA towards grants, strategic partnersh
 
 To learn more about MAHA's tokenomics, view [Distribution & Inflation](distribution.md).
 
+{% embed url="https://youtu.be/TUk17M6Ww-I" %}
+Everything you need to know about MAHA.
+{% endembed %}
+
 ## Use-cases of MAHA
 
 How to get MAHA?\
