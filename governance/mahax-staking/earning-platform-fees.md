@@ -1,2 +1,0 @@
-# Earning Platform Fees
-

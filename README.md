@@ -6,7 +6,7 @@ description: >-
 
 # Welcome
 
-**Welcome to MahaDAO. **
+**Welcome to MahaDAO.**&#x20;
 
 MahaDAO is a DAO that is driven by the people, for the people. This document explains various parts of the DAO and how new contributors can join & influence the DAO.
 
