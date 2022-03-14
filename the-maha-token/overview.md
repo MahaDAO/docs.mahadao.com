@@ -16,7 +16,6 @@ To learn more about MAHA's tokenomics, view [Distribution & Inflation](distribut
 Everything you need to know about MAHA.
 {% endembed %}
 
-## Use-cases of MAHA
 
-How to get MAHA?\
 
+## &#x20;
