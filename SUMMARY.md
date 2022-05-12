@@ -20,6 +20,7 @@
   * [Extending lock for already locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts.md)
+* [Vesting](governance/vesting.md)
 
 ## Products
 
