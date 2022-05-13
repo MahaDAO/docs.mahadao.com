@@ -21,7 +21,7 @@
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts.md)
 * [Vesting](governance/vesting/README.md)
-  * [Untitled](governance/vesting/untitled.md)
+  * [How to operate a locker?](governance/vesting/how-to-operate-a-locker.md)
 
 ## Products
 
