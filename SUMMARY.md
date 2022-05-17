@@ -3,7 +3,6 @@
 * [Welcome](README.md)
 * [Join the DAO](joining-the-dao.md)
 * [DAO Application Form](https://form.typeform.com/to/ac01nSJG)
-* [Pulbic Roadmap](https://trello.com/b/LmrbSl6z)
 
 ## The MAHA Token
 
