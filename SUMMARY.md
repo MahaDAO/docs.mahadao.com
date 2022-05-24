@@ -21,6 +21,7 @@
 * [Coordinape for Payouts](governance/coordinape-for-payouts.md)
 * [Vesting](governance/vesting/README.md)
   * [How to operate a locker?](governance/vesting/how-to-operate-a-locker.md)
+  * [Bribes](governance/vesting/bribes.md)
 
 ## Products
 

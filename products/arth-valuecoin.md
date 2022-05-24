@@ -2,7 +2,7 @@
 
 ## What is ARTH? <a href="#what-is-arth" id="what-is-arth"></a>
 
-[ARTH ](https://arthcoin.com)is a new type of currency designed to not be pegged to government-owned currencies (like US Dollar, Euro, or Chinese Yuan), but still remain relatively stable (unlike Gold and Bitcoin).
+[ARTH ](https://arthcoin.com/)is a new type of currency designed to not be pegged to government-owned currencies (like US Dollar, Euro, or Chinese Yuan), but still remain relatively stable (unlike Gold and Bitcoin).
 
 Without being influenced by government-owned currencies, ARTH will be immune to inflation. Through stability, ARTH also becomes a superior choice of currency for means of trade. This is unlike Gold or Bitcoin, which are used more as a store of value rather than a medium of exchange.
 
@@ -24,7 +24,7 @@ One of the biggest differentiators of ARTH amongst other stablecoins is that it 
 
 #### Taking Leverage loans on ETH & other volatile currencies (Upcoming)
 
-With ARTH Loans, the protocol allows users to mint ARTH tokens by placing down some amount of collateral. You can now take out a loan on our [dAPP ](https://polygon.arthcoin.com)below.&#x20;
+With ARTH Loans, the protocol allows users to mint ARTH tokens by placing down some amount of collateral. You can now take out a loan on our [dAPP ](https://polygon.arthcoin.com/)below.&#x20;
 
 {% embed url="https://youtu.be/BD3jG3QsDio" %}
 ARTH use-cases

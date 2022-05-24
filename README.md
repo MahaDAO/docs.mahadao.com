@@ -14,7 +14,7 @@ MahaDAO is a DAO that is driven by the people, for the people. This document exp
 
 MahaDAO is a community-powered, decentralized autonomous organization on a mission to empower billions to preserve their purchasing power through the world’s first valuecoin, [ARTH](products/arth-valuecoin.md).
 
-MahaDAO has a dual token system - governance token [MAHA](the-maha-token/overview.md), and the value coin ARTH. ARTH maintains its purchasing power regardless of which direction the market moves. More about ARTH can be read on documentation for ARTH valuecoin [here](https://docs.arthcoin.com).&#x20;
+MahaDAO has a dual token system - governance token [MAHA](the-maha-token/overview.md), and the value coin ARTH. ARTH maintains its purchasing power regardless of which direction the market moves. More about ARTH can be read on documentation for ARTH valuecoin [here](https://docs.arthcoin.com/).&#x20;
 
 ## Envisioning the perfect DAO&#x20;
 

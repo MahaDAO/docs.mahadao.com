@@ -8,7 +8,7 @@ Step 1: Go to the site and navigate to the locker section on the left.&#x20;
 
 Step 2: A first time user needs to click on 'create a lock'.
 
-![Create a lock requires a user to input an amount and select a time frame for the amount to be locked.](../../.gitbook/assets/1.jpg)
+![Create a lock requires a user to input an amount and select a time frame for the amount to be locked.](<../../.gitbook/assets/1 (1).jpg>)
 
 
 
@@ -27,7 +27,7 @@ Step 6: Once you have approved the MAHA to be locked you will get a transaction 
 
 Step 7: Once you get a transaction approval regarding the MAHA being locked you have successfully opened a locker.&#x20;
 
-![The details about each locker opened by the user is displayed on the home page along with the NFT ID's assigned to each locker. ](../../.gitbook/assets/3.jpg)
+![The details about each locker opened by the user is displayed on the home page along with the NFT ID's assigned to each locker. ](<../../.gitbook/assets/3 (1).jpg>)
 
 
 
