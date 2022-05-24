@@ -8,7 +8,7 @@ Step 1: Go to the site and navigate to the locker section on the left.&#x20;
 
 Step 2: A first time user needs to click on 'create a lock'.
 
-![Create a lock requires a user to input an amount and select a time frame for the amount to be locked.](<../../.gitbook/assets/1 (1).jpg>)
+![Create a lock requires a user to input an amount and select a time frame for the amount to be locked.](<../../.gitbook/assets/1 (2).jpg>)
 
 
 

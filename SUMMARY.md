@@ -23,6 +23,10 @@
   * [How to operate a locker?](governance/vesting/how-to-operate-a-locker.md)
   * [Bribes](governance/vesting/bribes.md)
 
+***
+
+* [Bribes](bribes.md)
+
 ## Products
 
 * [ARTH Valuecoin](products/arth-valuecoin.md)
