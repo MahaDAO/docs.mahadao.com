@@ -16,23 +16,20 @@ Step 3: Once you navigate to the 'Inflation vote' section you will see different
 
 **NOTE:**&#x20;
 
-* The scroll bar will help the user select the percentage amount that they want to use for voting for that specific pool. \
-
-* The user can select the percentage value for multiple pools at the same time. \
-
-* The user can vote any number of times they want. \
-
-* The user can vote for a specific pool as long as the voting rate is less than 100 percent.&#x20;
+* The scroll bar will helps you select the percentage amount that you want to use for voting for that specific pool.&#x20;
+* You can select the percentage value for multiple pools at the same time.&#x20;
+* You can vote any number of times they want.
+* You can vote for a specific pool as long as the voting rate is less than 100 percent.&#x20;
 
 Step 4: Once you select a pool; use the scroll bar to select the voting power percentage you want to cast.&#x20;
 
-![The voting power selected by the user is displayed alongside the Cast Votes button.](.gitbook/assets/2.jpg)
+![The voting power selected by the you is displayed alongside the Cast Votes button.](.gitbook/assets/2.jpg)
 
 
 
-Step 5: If the voting power is more than 100 percent the 'Cast Vote' button will not be highlighted. If it is less than 100 percent the 'Cast Vote' button will be highlighted.&#x20;
+Step 5: The 'Cast Vote' button will be highlighted for a user only when the voting power is less than 100 percent. If it is anything more than the allowed percentage the user will not be able to vote.
 
-![ When the voting power selected by the user is more than 100 percent the user will be warned about the same and will not be allowed to cast their vote. ](.gitbook/assets/3.jpg)
+![ When the voting power selected by you is more than 100 percent you will be warned about the same and will not be allowed to cast your vote. ](.gitbook/assets/3.jpg)
 
 
 
@@ -40,7 +37,7 @@ Step 6: To cast the vote you just need to click on 'Cast vote'.&#x20;
 
 Step 7: You will get a confirmation box regarding the pools you have selected along with the voting percentage that you are casting for each pool.&#x20;
 
-![The confirm vote pop up will come up so that the user can verify the details and click on confirm. ](.gitbook/assets/4.jpg)
+![The confirm vote pop up will come up so that you can verify the details and click on confirm. ](.gitbook/assets/4.jpg)
 
 
 
