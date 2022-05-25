@@ -17,7 +17,7 @@ Step 3: Once a user clicks on 'create lock'  they need to input an amount of MAH
 Step 4: After which the user needs to select the time period for which they want to lock the MAHA for. The time frame varies from one week to a maximum period of four years. The users  can also customize the time frame according to their requirements. \
 NOTE: The time frame cannot exceed for more than four years.&#x20;
 
-![Once the user has input the details to create a lock they need to click on lock MAHA.](../../.gitbook/assets/2.jpg)
+![Once the user has input the details to create a lock they need to click on lock MAHA.](<../../.gitbook/assets/2 (1).jpg>)
 
 
 
@@ -27,7 +27,7 @@ Step 6: Once you have approved the MAHA to be locked you will get a transaction 
 
 Step 7: Once you get a transaction approval regarding the MAHA being locked you have successfully opened a locker.&#x20;
 
-![The details about each locker opened by the user is displayed on the home page along with the NFT ID's assigned to each locker. ](<../../.gitbook/assets/3 (1).jpg>)
+![The details about each locker opened by the user is displayed on the home page along with the NFT ID's assigned to each locker. ](<../../.gitbook/assets/3 (1) (1).jpg>)
 
 
 

@@ -26,6 +26,7 @@
 ***
 
 * [Bribes](bribes.md)
+* [Inflation Vote](inflation-vote.md)
 
 ## Products
 
