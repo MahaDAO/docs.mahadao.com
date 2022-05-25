@@ -6,7 +6,7 @@ description: Use MAHAX to vote on pool incentives
 
 Step 1: You need to visit [https://gov.mahadao.com/](https://gov.mahadao.com/) and navigate to the 'Inflation Vote' section on the left.&#x20;
 
-Step 2: You need to have MAHA to use it for voting in any of the pools.&#x20;
+Step 2: You need to have MAHAX NFT's to use it for voting in any of the pools.&#x20;
 
 Step 3: Once you navigate to the 'Inflation vote' section you will see different pools that are displayed along with a scroll bar.&#x20;
 
