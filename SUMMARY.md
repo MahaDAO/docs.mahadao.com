@@ -19,14 +19,13 @@
   * [Extending lock for already locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts.md)
-* [Vesting](governance/vesting/README.md)
-  * [How to operate a locker?](governance/vesting/how-to-operate-a-locker.md)
-  * [Bribes](governance/vesting/bribes.md)
+* [Vesting](governance/vesting.md)
 
 ***
 
-* [Bribes](bribes.md)
-* [Pools Vote](pools-vote.md)
+* [How to Create a Lock?](how-to-create-a-lock.md)
+* [How to create a Bribe?](how-to-create-a-bribe.md)
+* [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
 
 ## Products
 
