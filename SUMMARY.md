@@ -30,3 +30,7 @@
 ## Products
 
 * [ARTH Valuecoin](products/arth-valuecoin.md)
+
+***
+
+* [Exchange doc](exchange-doc.md)
