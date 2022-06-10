@@ -107,3 +107,81 @@ sdk:[https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/s
 
 </details>
 
+| Name              | Type    | Example   | Description                     |
+| ----------------- | ------- | --------- | ------------------------------- |
+| symbol            | string  | `BTCUSDT` | Name of the symbol              |
+| baseAsset         | string  | `BTC`     | Underlying asset for the symbol |
+| quoteAsset        | string  | `USDT`    | Quote asset for the symbol      |
+| pricePrecision    | integer | `2`       | Precision of the price          |
+| quantityPrecision | integer | `6`       | Precision of the quantity       |
+
+## Market
+
+### Security Type: [None](broken-reference)
+
+**Market** section can be accessed freely without requiring any API-key or signatures.
+
+<details>
+
+<summary>Depth</summary>
+
+#### market depth data
+
+sdk:[https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/Depth.java](https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/Depth.java)
+
+#### Parameters
+
+#### Query
+
+limit                             integer                                                   Default 100; Max 100&#x20;
+
+symbol                        string                                                     Symbol Name E.g. BTCUSDT
+
+#### Responses
+
+* 200                              Successfully retrieved market depth data&#x20;
+
+</details>
+
+| Name  | Type  | Example         | Description                                                     |
+| ----- | ----- | --------------- | --------------------------------------------------------------- |
+| time  |  long | `1595563624731` | Current timestamp (ms)                                          |
+| birds | list  | ;               | List of all bids, best bids first. See below for entry details. |
+| asks  | list  | ;               | List of all asks, best asks first. See below for entry details. |
+
+The fields bids and asks are lists of order book price level entries, sorted from best to worst.
+
+| Name | Type  | Example | Description                                       |
+| ---- | ----- | ------- | ------------------------------------------------- |
+| ' '  | float | `131.1` | price level                                       |
+| ' '  | float | `2.3`   | The total quantity of orders for this price level |
+
+<details>
+
+<summary>24 hours ticker</summary>
+
+24 hour price change statistics.
+
+sdk:[https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/Ticker.java](https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/Ticker.java)
+
+#### Parameters
+
+#### Query
+
+symbol                             string                                      Symbol Name. E.g. `BTCUSDT`
+
+#### Responses
+
+* 200                              Successfully retrieved market ticker data&#x20;
+
+</details>
+
+
+
+| Name | Type  | Example         | Description  |
+| ---- | ----- | --------------- | ------------ |
+| time | long  | `1595563624731` | Open Time    |
+| high | float | `9900`          | High Price   |
+| low  | float | `8800.34`       | Low price    |
+| last | float | `8900`          | Last price   |
+| vol  | float | `4999`          | Trade Volume |
