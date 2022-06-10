@@ -35,3 +35,4 @@
 
 * [Exchange doc](exchange-doc/README.md)
   * [Enum](exchange-doc/enum.md)
+  * [Spot](exchange-doc/spot.md)
