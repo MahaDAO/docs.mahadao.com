@@ -33,4 +33,5 @@
 
 ***
 
-* [Exchange doc](exchange-doc.md)
+* [Exchange doc](exchange-doc/README.md)
+  * [Enum](exchange-doc/enum.md)
