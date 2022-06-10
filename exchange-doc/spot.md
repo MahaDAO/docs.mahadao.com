@@ -174,6 +174,17 @@ symbol                             string                                      S
 
 * 200                              Successfully retrieved market ticker data&#x20;
 
+```
+{
+    "high": "9279.0301",
+    "vol": "1302",
+    "last": "9200",
+    "low": "9279.0301",
+    "rose": "0",
+    "time": 1595563624731
+}
+```
+
 </details>
 
 
@@ -185,3 +196,65 @@ symbol                             string                                      S
 | low  | float | `8800.34`       | Low price    |
 | last | float | `8900`          | Last price   |
 | vol  | float | `4999`          | Trade Volume |
+
+<details>
+
+<summary>Recent Traders List</summary>
+
+sdk:[https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/RecentTradesList.java](https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/RecentTradesList.java)
+
+#### Parameters
+
+#### Query
+
+symbol                             string                                      Symbol Name. E.g. `BTCUSDT`
+
+Limit                                 string                                      Default 100;MAX 1000
+
+#### Responses
+
+* 200 &#x20;
+
+```
+[
+  {
+    "price": "3.00000100",
+    "qty": "11.00000000",
+    "time": 1499865549590,
+    "side": "BUY"
+  },...
+]
+```
+
+</details>
+
+| Name    | Type   | Example       | Description            |
+| ------- | ------ | ------------- | ---------------------- |
+| `price` | float  | `0.055`       | The price of the trade |
+| `time`  | long   | 1537797044116 | Current timestamp (ms) |
+| `qty`   | float  | `5`           | The quantity traded    |
+| `side`  | string | `BUY/SELL`    | Taker side             |
+
+<details>
+
+<summary>Kline/Candlestick data</summary>
+
+sdk:[https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/KlineCandlestickData.java](https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/KlineCandlestickData.java)
+
+### Parameters
+
+#### Query
+
+symbol-string- String-Symbol Name  E.g. `BTCUSDT`
+
+Interval-
+
+
+
+
+
+
+
+
+
+</details>
