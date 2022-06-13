@@ -379,3 +379,27 @@ recvWindow         integer                Time window
 | `side`          | string  | `BUY`                | <p><br>Order side：<code>BUY, SELL</code></p>                                                                    |
 | `status`        | string  | NEW                  | The state of the order.Possible values include `NEW`, `PARTIALLY_FILLED`, `FILLED`, `CANCELED`, and `REJECTED`. |
 
+<details>
+
+<summary>Test New Order</summary>
+
+Test new order creation and signature/recvWindow length. Creates and validates a new order but does not send the order into the matching engine.
+
+sdk：[https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/TestNewOrder.java\
+](https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/TestNewOrder.java)
+
+### Parameters
+
+#### Header
+
+X-CH-SIGN                          string                 Sign&#x20;
+
+X-CH-APIKEY                      string                 Your API-key&#x20;
+
+X-CH-TS                              integer                timestamp
+
+#### Body
+
+
+
+</details>
