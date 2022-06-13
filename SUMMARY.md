@@ -37,3 +37,4 @@
   * [Enum](exchange-doc/enum.md)
   * [Spot](exchange-doc/spot.md)
   * [Margin](exchange-doc/margin.md)
+  * [Web Socket](exchange-doc/web-socket.md)
