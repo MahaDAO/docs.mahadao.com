@@ -247,14 +247,67 @@ sdk:[https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/s
 
 symbol-string- String-Symbol Name  E.g. `BTCUSDT`
 
-Interval-
+Interval-string-Interval of the Kline. Possible values include: `1min`,`5min`,`15min`,`30min`,`60min`,`1day`,`1week`,`1month`
 
+limit-integer-Default 100;MAX 300
 
+#### Responses
 
+* 200
 
+```
+[
+    {
+        "high": "6228.77",
+        "vol": "111",
+        "low": "6228.77",
+        "idx": 1594640340,
+        "close": "6228.77",
+        "open": "6228.77"
+    },
+    {
+        "high": "6228.77",
+        "vol": "222",
+        "low": "6228.77",
+        "idx": 1587632160,
+        "close": "6228.77",
+        "open": "6228.77"
+    },
+    {
+        "high": "6228.77",
+        "vol": "333",
+        "low": "6228.77",
+        "idx": 1587632100,
+        "close": "6228.77",
+        "open": "6228.77"
+    }
+]
+```
 
 
 
 
 
 </details>
+
+### Responses
+
+
+
+| Name    | Type  | Example         | Description  |
+| ------- | ----- | --------------- | ------------ |
+| `IDX`   | long  | `1538728740000` | Open time    |
+| `open`  | float | `36.00000`      | Open price   |
+| `close` | float | `33.00000`      | close price  |
+| `high`  | float | `36.00000`      | high price   |
+| `low`   | float | `30.00000`      | low price    |
+| `vol`   | float | `2456.111`      | volume       |
+
+## Trade
+
+### Security Type: [TRADE](broken-reference)
+
+Endpoints under **Trade** require an [API-key and a signature.](broken-reference)
+
+
+
