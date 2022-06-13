@@ -175,6 +175,19 @@ Every once in a while, the server will send a `PING` message. The client needs t
 * Payload
 
 ```
+{
+    "channel":"market_$symbol_ticker",
+    "ts":1506584998239,//request time
+    "tick":{
+        "amount":123.1221,
+        "vol":1212.12211,
+        "open":2233.22,//open price
+        "close":1221.11,//close price
+        "high":22322.22,//high price
+        "low":2321.22,//low price
+        "rose":-0.2922,//increase
+    }
+}
 ```
 
 
@@ -182,12 +195,84 @@ Every once in a while, the server will send a `PING` message. The client needs t
 ### Request Kline History Data
 
 * Subscription message structure
+
+```
+{
+    "event":"req",
+    "params":{
+        "channel":"market_$symbol_kline_[1min/5min/15min/30min/60min/1day/1week/1month]",
+        "cb_id":"1",
+        "endIdx":"1506602880", //Return pageSize data before endIdx Not required
+        "pageSize":100 // Not required
+    }
+}
+```
+
 * Payload
+
+```
+{
+    "event_rep":"rep","channel":"market_$symbol_kline_5min",
+    "ts":1506584998239,//request time
+    "data":[ //up to 300
+        {
+            "id":1506602880,//kline start time
+            "amount":123.1221,
+            "vol":1212.12211,
+            "open":2233.22,//open price
+            "close":1221.11,//close price
+            "high":22322.22,//high price
+            "low":2321.22//low price
+        },
+        {
+            "id":1506602880,//kline start time
+            "amount":123.1221,
+            "vol":1212.12211,
+            "open":2233.22,//open price
+            "close":1221.11,//close price
+            "high":22322.22,//high price
+            "low":2321.22//low price
+        }
+    ]
+}
+```
 
 
 
 ### Request History Trade
 
 * Subscription message structure
+
+```
+{
+    "event":"req",
+    "params":{
+        "channel":"market_$symbol_trade_ticker", // $symbol E.g. btcusdt 
+        "cb_id":"1" // Business ID is not required
+    }
+}
+```
+
 * Payload
+
+```
+{
+    "event_rep":"rep","channel":"market_$symbol_trade_ticker",
+    "ts":1506584998239,"status":"ok",
+    "data":[
+        {
+            "side":"buy",//buy,sell
+            "price":32.233,//trade price
+            "vol":232,//trade vol
+            "amount":323//trade amount
+        },
+        {
+            "side":"buy",//buy,sell
+            "price":32.233,//trade price
+            "vol":232,//trade vol
+            "amount":323//trade amount
+        }
+    ]
+}
+```
 
