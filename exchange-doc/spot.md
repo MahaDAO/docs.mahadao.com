@@ -713,6 +713,123 @@ X-CH-TS integer timestamp
 
 **sdk:**[**https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/Trades.java**](https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/Trades.java)
 
+### **Parameters**
 
+**Query**&#x20;
+
+symbol ****             string               Symbol Name. E.g. BTCUSDT
+
+Limit                Integer             Default 100; Max 1000
+
+fromId             Integer             Trade ID to fetch from
+
+**Header**
+
+X-CH-SIGN string Sign
+
+X-CH-APIKEY string Your API-key
+
+X-CH-TS integer timestamp
+
+#### Responses
+
+* 200
+
+```
+[
+  {
+    "symbol": "ETHBTC",
+    "id": 100211,
+    "bidId": 150695552109032492,
+    "askId": 150695552109032493,
+    "price": "4.00000100",
+    "qty": "12.00000000",
+    "time": 1499865549590,
+    "isBuyer": true,
+    "isMaker": false,
+    "feeCoin": "ETH",
+    "fee":"0.001"
+  },...
+]
+```
 
 </details>
+
+### Response:
+
+| Name      | Type    | Example              | Description                  |
+| --------- | ------- | -------------------- | ---------------------------- |
+| `symbol`  | String  | `ETHBTC`             | Symbol Name                  |
+| `id`      | Integer | `28457`              | Trade ID                     |
+| `bidId`   | long    | `150695552109032492` | Bid Order ID                 |
+| `askId`   | long    | `150695552109032493` | Ask order ID                 |
+| `price`   | integer | 4.01                 | Price of the trade           |
+| `qty`     | Float   | `12`                 | Quantity of the trade        |
+| `time`    | number  | 1499865549590        | Timestamp of the trade       |
+| `isBuyer` | bool    | true                 | `true`= Buyer `false`= Selle |
+| `isMaker` | bool    | `false`              | `true`=Maker `false`=Taker   |
+| `isMaker` | string  | ETH                  | Trading fee coin             |
+| `isMaker` | number  | `0.001`              | Trading fee                  |
+
+## Account
+
+### Security Type:[ USER\_DATA](broken-reference)
+
+Endpoints under Account require an [API-key and a signature.](broken-reference)
+
+<details>
+
+<summary>Account information</summary>
+
+**Rate Limit: 20times/2s**
+
+**sdk:**[**https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/AccountInformation.java**](https://github.com/exchange2021/openapidemo/blob/master/src/main/java/com/spot/AccountInformation.java)
+
+### Parameters
+
+#### **Header**
+
+X-CH-SIGN string Sign
+
+X-CH-APIKEY string Your API-key
+
+X-CH-TS integer timestamp
+
+Responses
+
+* 200                            Successfully retrieved account information.&#x20;
+
+```
+{
+    'balances': 
+        [
+            {
+                'asset': 'BTC', 
+                'free': '0', 
+                'locked': '0'
+                }, 
+            {
+                'asset': 'ETH', 
+                'free': '0', 
+                'locked': '0'
+                },...
+        ]
+}
+```
+
+</details>
+
+Response:&#x20;
+
+| Name       | Type | Description            |
+| ---------- | ---- | ---------------------- |
+| `balances` | \[ ] |  Show balance details  |
+
+#### `balances` field:
+
+| Name     | Type   | Example | Description                     |
+| -------- | ------ | ------- | ------------------------------- |
+| `asset`  | string | `USDT`  | Name of the asset               |
+| `free`   | float  | 1000.30 | Amount available for use        |
+| `locked` | float  | 400     | Amount locked (for open orders) |
+
