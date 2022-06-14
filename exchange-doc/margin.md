@@ -189,6 +189,44 @@ X-CH-TS integer timestamp
 
 <summary>Trades</summary>
 
+### **Rate Limit: 20times/2sParameters**
 
+**Query**&#x20;
+
+symbol ****             string               Symbol Name. E.g. BTCUSDT
+
+Limit                Integer             Default 100; Max 1000
+
+fromId             Integer             Trade ID to fetch from
+
+**Header**
+
+X-CH-SIGN string Sign
+
+X-CH-APIKEY string Your API-key
+
+X-CH-TS integer timestamp
+
+#### Responses
+
+* 200
+
+```
+[
+  {
+    "symbol": "ETHBTC",
+    "id": 100211,
+    "bidId": 150695552109032492,
+    "askId": 150695552109032493,
+    "price": "4.00000100",
+    "qty": "12.00000000",
+    "time": 1499865549590,
+    "isBuyer": true,
+    "isMaker": false,
+    "feeCoin": "ETH",
+    "fee":"0.001"
+  },...
+]
+```
 
 </details>
