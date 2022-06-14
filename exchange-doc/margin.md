@@ -8,7 +8,7 @@ Endpoints under **Trade** require an [API-key and a signature.​](broken-refere
 
 <details>
 
-<summary>New Order</summary>
+<summary>New Order<br></summary>
 
 &#x20;**Rate Limit：100times/2s**
 
