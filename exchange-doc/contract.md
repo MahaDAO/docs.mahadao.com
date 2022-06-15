@@ -414,7 +414,31 @@ triggerType            string              trigger type `3UP/4DOWN`
 
 <summary>Cancel order</summary>
 
+### **Parameters**&#x20;
 
+**Header**
+
+X-CH-SIGN                                  string                                                     Sign&#x20;
+
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+#### Body
+
+orderId                   string               Order ID
+
+contractName       string               Contract name E.g. `E-BTC-USDT`
+
+#### Responses
+
+* 200
+
+```
+{
+    "orderId": 256609229205684228
+}
+```
 
 </details>
 
@@ -422,7 +446,35 @@ triggerType            string              trigger type `3UP/4DOWN`
 
 <summary>Order details</summary>
 
+### Parameters
 
+#### Body
+
+contractName       string   &#x20;
+
+#### Responses
+
+* 200
+
+```
+[
+    {
+       "side": "BUY",
+       "executedQty": 0,
+       "orderId": 259396989397942275,
+       "price": 10000.0000000000000000,
+       "origQty": 1.0000000000000000,
+       "avgPrice": 0E-8,
+       "transactTime": "1607702400000",
+       "action": "OPEN",
+       "contractName": "E-BTC-USDT",
+       "type": "LIMIT",
+       "status": "INIT"
+    }
+]
+
+
+```
 
 </details>
 
