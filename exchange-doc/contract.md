@@ -314,9 +314,51 @@ interval                         string                      K-line interval, id
 
 <summary>Order creation</summary>
 
+Creation of single new orders
 
+### **Parameters**&#x20;
+
+**Header**
+
+X-CH-SIGN                                  string                                                     Sign&#x20;
+
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+#### Body
+
+volume                   number            Order quantity
+
+price                       number            Order price
+
+contractName       string               Contract name E.g. `E-BTC-USDT`
+
+type                        string               Order type, `LIMIT/MARKET`
+
+side                        string               trade direction, `BUY/SELL`
+
+open                       string               Open balancing direction, `OPEN/CLOSE`
+
+positionType          number           Hold-up position, 1 Full position 2 restrictive position
+
+clientOrderId          string              Client order identity, a string with length less than 32 bit ``&#x20;
+
+timeInForce             string              `IOC, FOK, POST_ONLYBody`
+
+#### Responses
+
+* 200&#x20;
+
+```
+{
+    "orderId": 256609229205684228
+}
+```
 
 </details>
+
+
 
 <details>
 
