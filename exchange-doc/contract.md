@@ -235,8 +235,6 @@ limit                           integer                            Default 100, 
 
 </details>
 
-
-
 | Name              | Type   | Example      | Description       |
 | ----------------- | ------ | ------------ | ----------------- |
 | `indexPrice`      | float  | 0.055        | Index price       |
@@ -295,7 +293,16 @@ interval                         string                      K-line interval, id
 
 </details>
 
+### Response:
 
+| Name    | Type  | Example         | Description  |
+| ------- | ----- | --------------- | ------------ |
+| `IDX`   | long  | `1538728740000` | Start time   |
+| `open`  | float | `36.00000`      | Open price   |
+| `close` | float | `33.00000`      | close price  |
+| `high`  | float | `36.00000`      | MAX price    |
+| `low`   | float | `30.00000`      | MIN price    |
+| `vol`   | float | `2456.111`      | Trade volume |
 
 ## Trading <a href="#jiao-yi-xiang-guan" id="jiao-yi-xiang-guan"></a>
 
