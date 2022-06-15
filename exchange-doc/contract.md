@@ -248,9 +248,54 @@ limit                           integer                            Default 100, 
 
 <summary>Kline/Charts data</summary>
 
+**Parameters**
 
+**Query**
+
+Contract Name            string                      Contract Name. E.g. BTCUSDT
+
+Limit                             Integer                    Default 100; Max 1000
+
+interval                         string                      K-line interval, identifies the sent value as:\
+&#x20;                                                                    `1min`,`5min`,`15min`,`30min`,`1h`, `1day,`\
+&#x20;                                                                    `1week`,`1month`
+
+#### Responses
+
+* 200&#x20;
+
+```
+[
+    {
+        "high": "6228.77",
+        "vol": "111",
+        "low": "6228.77",
+        "idx": 1594640340,
+        "close": "6228.77",
+        "open": "6228.77"
+    },
+    {
+        "high": "6228.77",
+        "vol": "222",
+        "low": "6228.77",
+        "idx": 1587632160,
+        "close": "6228.77",
+        "open": "6228.77"
+    },
+    {
+        "high": "6228.77",
+        "vol": "333",
+        "low": "6228.77",
+        "idx": 1587632100,
+        "close": "6228.77",
+        "open": "6228.77"
+    }
+]
+```
 
 </details>
+
+
 
 ## Trading <a href="#jiao-yi-xiang-guan" id="jiao-yi-xiang-guan"></a>
 
