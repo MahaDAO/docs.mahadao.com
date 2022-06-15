@@ -43,9 +43,7 @@ This endpoint checks connectivity to the host.&#x20;
 
 </details>
 
-Response:
-
-
+### Response:
 
 | Name       | Type   | Example             | Description      |
 | ---------- | ------ | ------------------- | ---------------- |
@@ -175,15 +173,65 @@ The fields bids and asks are lists of order book price level entries, sorted fro
 
 24 hour price change statistics
 
+### Parameters
 
+**Query**
+
+symbol                 string                              Symbol Name. E.g. BTCUSDT
+
+#### Responses
+
+* &#x20;200                                                       Successfully obtain ticker info
+
+```
+{
+    "high": "9279.0301",
+    "vol": "1302",
+    "last": "9200",
+    "low": "9279.0301",
+    "rose": "0",
+    "time": 1595563624731
+}
+```
 
 </details>
+
+### Response
+
+| Name | Type   | Example         | Description     |
+| ---- | ------ | --------------- | --------------- |
+| time | long   | `1595563624731` | Open Time       |
+| high | float  | `9900`          | High Price      |
+| low  | float  | `8800.34`       | Low price       |
+| last | float  | `8900`          | Last price      |
+| vol  | float  | `4999`          | Trade Volume    |
+| rose | string | +0.5            | Price variation |
 
 <details>
 
 <summary>Get index/marked price</summary>
 
+### Parameters
 
+#### Query&#x20;
+
+limit                           integer                            Default 100, Max 100
+
+&#x20;Contract name        string                              Contract Name E.g. E-BTC-USDT
+
+#### Responses
+
+* 200&#x20;
+
+```
+{
+    "markPrice": 581.5,
+    "indexPrice": 646.3933333333333,
+    "lastFundingRate": 0.001,
+    "contractName": "E-ETH-USDT",
+    "time": 1608273554063
+}
+```
 
 </details>
 
