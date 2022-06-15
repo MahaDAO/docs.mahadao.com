@@ -370,6 +370,44 @@ timeInForce             string              `IOC, FOK, POST_ONLYBody`
 
 ****
 
+**Header**
+
+X-CH-SIGN                                  string                                                     Sign&#x20;
+
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+#### Body
+
+volume                  number           Order quantity
+
+price                      number          Order price
+
+contractName       string              Contract name E.g. `E-BTC-USDT`
+
+type                       string              Order type, `LIMIT/MARKET`
+
+side                       string               trade direction, `BUY/SELL`
+
+open                      string               Open balancing direction, `OPEN/CLOSE`
+
+positionType         number            Hold-up position, 1 Full position 2 restrictive position
+
+triggerPrice           string               trigger price
+
+triggerType            string              trigger type `3UP/4DOWN`
+
+#### Responses
+
+* 200                                           OK
+
+```
+{
+     "orderId": 256609229205684228
+}
+```
+
 </details>
 
 <details>
