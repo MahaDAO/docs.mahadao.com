@@ -162,6 +162,13 @@ limit                           integer                            Default 100, 
 | birds | list  | look below      | Order book purchase info |
 | asks  | list  | look below      | Order book selling info  |
 
+
+
+| Name | Type  | Example | Description                                       |
+| ---- | ----- | ------- | ------------------------------------------------- |
+| ' '  | float | `131.1` | price level                                       |
+| ' '  | float | `2.3`   | The total quantity of orders for this price level |
+
 <details>
 
 <summary>24 hours ticker</summary>
