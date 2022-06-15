@@ -143,11 +143,11 @@ symbol                        string                                            
 
 </details>
 
-| Name  | Type  | Example         | Description                                                     |
-| ----- | ----- | --------------- | --------------------------------------------------------------- |
-| time  |  long | `1595563624731` | Current timestamp (ms)                                          |
-| birds | list  | ;               | List of all bids, best bids first. See below for entry details. |
-| asks  | list  | ;               | List of all asks, best asks first. See below for entry details. |
+| Name | Type  | Example         | Description                                                     |
+| ---- | ----- | --------------- | --------------------------------------------------------------- |
+| time |  long | `1595563624731` | Current timestamp (ms)                                          |
+| bids | list  | ;               | List of all bids, best bids first. See below for entry details. |
+| asks | list  | ;               | List of all asks, best asks first. See below for entry details. |
 
 The fields bids and asks are lists of order book price level entries, sorted from best to worst.
 
