@@ -173,6 +173,8 @@ The fields bids and asks are lists of order book price level entries, sorted fro
 
 <summary>24 hours ticker</summary>
 
+24 hour price change statistics
+
 
 
 </details>
