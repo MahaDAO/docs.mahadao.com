@@ -358,13 +358,17 @@ timeInForce             string              `IOC, FOK, POST_ONLYBody`
 
 </details>
 
-
+| Name    | Type   | Example            | Description |
+| ------- | ------ | ------------------ | ----------- |
+| orderId | string | 256609229205684228 | Order ID    |
 
 <details>
 
 <summary>Condition order creation</summary>
 
+### **Parameters**&#x20;
 
+****
 
 </details>
 
