@@ -235,6 +235,15 @@ limit                           integer                            Default 100, 
 
 </details>
 
+
+
+| Name              | Type   | Example      | Description       |
+| ----------------- | ------ | ------------ | ----------------- |
+| `indexPrice`      | float  | 0.055        | Index price       |
+| `markPrice`       | float  | 0.0578       | Marked price      |
+| `contractName`    | string | `E-BTC-USDT` | Contract name     |
+| `lastFundingRate` | float  | `0.123`      | Current fund rate |
+
 <details>
 
 <summary>Kline/Charts data</summary>
