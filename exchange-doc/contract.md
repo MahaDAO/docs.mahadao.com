@@ -156,7 +156,11 @@ limit                           integer                            Default 100, 
 
 </details>
 
-
+| Name  | Type  | Example         | Description              |
+| ----- | ----- | --------------- | ------------------------ |
+| time  |  long | `1595563624731` | Current timestamp (ms)   |
+| birds | list  | look below      | Order book purchase info |
+| asks  | list  | look below      | Order book selling info  |
 
 <details>
 
