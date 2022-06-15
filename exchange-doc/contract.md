@@ -162,7 +162,7 @@ limit                           integer                            Default 100, 
 | birds | list  | look below      | Order book purchase info |
 | asks  | list  | look below      | Order book selling info  |
 
-
+The fields bids and asks are lists of order book price level entries, sorted from best to worst.
 
 | Name | Type  | Example | Description                                       |
 | ---- | ----- | ------- | ------------------------------------------------- |
