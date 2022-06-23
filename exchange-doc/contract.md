@@ -358,6 +358,8 @@ timeInForce             string              `IOC, FOK, POST_ONLYBody`
 
 </details>
 
+#### Response:
+
 | Name    | Type   | Example            | Description |
 | ------- | ------ | ------------------ | ----------- |
 | orderId | string | 256609229205684228 | Order ID    |
@@ -478,6 +480,22 @@ contractName       string   &#x20;
 
 </details>
 
+#### Response:
+
+| Name           | Type   | Example              | Description                                                                                                                                                                           |
+| -------------- | ------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| orderId        | long   | `150695552109032492` | Order ID                                                                                                                                                                              |
+| `contractName` | string | E-BTC-USDT           | Contract name                                                                                                                                                                         |
+| `price`        | float  | 10.5                 | Order price                                                                                                                                                                           |
+| `origQty`      | float  | 10.5                 | Order quantity                                                                                                                                                                        |
+| `executedQty`  | float  | 20                   | Order quantity                                                                                                                                                                        |
+| `avgPrice`     | float  | 10.5                 | Average transaction price                                                                                                                                                             |
+| `symbol`       | string | BHTUSDT              | Coin pair name                                                                                                                                                                        |
+| `status`       | string | `NEW`                | Order status. Possible values are：`NEW`(new order，not filled)、`PARTIALLY_FILLED`（partially filled）、`FILLED`（fully filled）、`CANCELLED`（already cancelled）and`REJECTED`（order rejected） |
+| `side`         | string | `NEW`                | Order direction. Possible values can only be：BUY（buy long）and SELL（sell short）                                                                                                        |
+| `action`       | string | `OPEN`               | `OPEN/CLOSE`                                                                                                                                                                          |
+| `transactTime` | long   | 1607702400000        | Order creation time                                                                                                                                                                   |
+
 <details>
 
 <summary>Open order</summary>
@@ -486,6 +504,22 @@ contractName       string   &#x20;
 
 </details>
 
+#### Response:
+
+| Name           | Type   | Example              | Description                                                                                                                                                                           |
+| -------------- | ------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| orderId        | long   | `150695552109032492` | Order ID                                                                                                                                                                              |
+| `contractName` | string | E-BTC-USDT           | Contract name                                                                                                                                                                         |
+| `price`        | float  | 10.5                 | Order price                                                                                                                                                                           |
+| `origQty`      | float  | 10.5                 | Order quantity                                                                                                                                                                        |
+| `executedQty`  | float  | 20                   | Order quantity                                                                                                                                                                        |
+| `avgPrice`     | float  | 10.5                 | Average transaction price                                                                                                                                                             |
+| `symbol`       | string | BHTUSDT              | Coin pair name                                                                                                                                                                        |
+| `status`       | string | `NEW`                | Order status. Possible values are：`NEW`(new order，not filled)、`PARTIALLY_FILLED`（partially filled）、`FILLED`（fully filled）、`CANCELLED`（already cancelled）and`REJECTED`（order rejected） |
+| `side`         | string | `NEW`                | Order direction. Possible values can only be：BUY（buy long）and SELL（sell short）                                                                                                        |
+| `action`       | string | `OPEN`               | `OPEN/CLOSE`                                                                                                                                                                          |
+| `transactTime` | long   | 1607702400000        | Order creation time                                                                                                                                                                   |
+
 <details>
 
 <summary>Order history</summary>
@@ -493,6 +527,8 @@ contractName       string   &#x20;
 
 
 </details>
+
+
 
 <details>
 
