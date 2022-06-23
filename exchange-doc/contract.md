@@ -500,7 +500,45 @@ contractName       string   &#x20;
 
 <summary>Open order</summary>
 
+**Speed limit rules:**\
+**Obtain open contract, the user's current order**
 
+### **Parameters**
+
+**Query**&#x20;
+
+contractName                string           Contract name `E-BTC-USDT`&#x20;
+
+**Header**
+
+X-CH-SIGN                                  string                                                     Sign&#x20;
+
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+#### Responses:
+
+* 200&#x20;
+
+```
+[
+    {
+       "side": "BUY",
+       "executedQty": 0,
+       "orderId": 259396989397942275,
+       "price": 10000.0000000000000000,
+       "origQty": 1.0000000000000000,
+       "avgPrice": 0E-8,
+       "transactTime": "1607702400000",
+       "action": "OPEN",
+       "contractName": "E-BTC-USDT",
+       "type": "LIMIT",
+       "status": "INIT"
+    }
+]
+
+```
 
 </details>
 
@@ -524,17 +562,109 @@ contractName       string   &#x20;
 
 <summary>Order history</summary>
 
+### **Parameters**
 
+**Header:**
+
+X-CH-SIGN                                  string                                                     Sign&#x20;
+
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+#### **Body**
+
+**Query**&#x20;
+
+contractName                string           Contract name `E-BTC-USDT`&#x20;
+
+limit                                 string           Lines per page, default 100, max 1000
+
+fromID                             long             Start retrieving from this Id
+
+#### Responses:
+
+* 200                    **OK**
+
+```
+[
+    {
+        "side":"BUY",
+        "clientId":"0",
+        "ctimeMs":1632903411000,
+        "positionType":2,
+        "orderId":777293886968070157,
+        "avgPrice":41000,
+        "openOrClose":"OPEN",
+        "leverageLevel":26,
+        "type":4,
+        "closeTakerFeeRate":0.00065,
+        "volume":2,
+        "openMakerFeeRate":0.00025,
+        "dealVolume":1,
+        "price":41000,
+        "closeMakerFeeRate":0.00025,
+        "contractId":1,
+        "ctime":"2021-09-29T16:16:51",
+        "contractName":"E-BTC-USDT",
+        "openTakerFeeRate":0.00065,
+        "dealMoney":4.1,
+        "status":4
+    }
+]
+```
 
 </details>
-
-
 
 <details>
 
 <summary>Profit history</summary>
 
+### Parameters
 
+#### Header&#x20;
+
+X-CH-SIGN                                  string                                                     Sign&#x20;
+
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+#### Body
+
+contractName                string           Contract name `E-BTC-USDT`&#x20;
+
+limit                                 string           Lines per page, default 100, max 1000
+
+fromID                             long             Start retrieving from this Id
+
+#### Responses:
+
+* 200                        OK
+
+```
+[
+    {
+        "side":"SELL",
+        "positionType":2,
+        "tradeFee":-5.23575,
+        "realizedAmount":0,
+        "leverageLevel":26,
+        "openPrice":44500,
+        "settleProfit":0,
+        "mtime":1632882739000,
+        "shareAmount":0,
+        "openEndPrice":44500,
+        "closeProfit":-45,
+        "volume":900,
+        "contractId":1,
+        "historyRealizedAmount":-50.23575,
+        "ctime":1632882691000,
+        "id":8764,
+        "capitalFee":0
+    }
+]
+```
 
 </details>
 
@@ -542,9 +672,54 @@ contractName       string   &#x20;
 
 <summary>Order record</summary>
 
+**Speed limit rules: 20 times/ 2s**
 
+**Parameters**
+
+#### **Query**&#x20;
+
+contractName                string           Contract name `E-BTC-USDT`&#x20;
+
+limit                                 string           Lines per page, default 100, max 1000
+
+fromID                             long             Start retrieving from this Id
+
+#### Header&#x20;
+
+X-CH-SIGN                                  string                                                     Sign&#x20;
+
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+**Responses**
+
+* 200&#x20;
+
+```
+[
+  {
+    "symbol": "ETHBTC",
+    "id": 100211,
+    "bidId": 150695552109032492,
+    "askId": 150695552109032493,
+    "price": "4.00000100",
+    "qty": "12.00000000",
+    "time": 1499865549590,
+    "isBuyer": true,
+    "isMaker": false,
+    "fee":"0.001"
+  },...
+]
+```
 
 </details>
+
+
+
+| Name    | Type   | Example            | Description |
+| ------- | ------ | ------------------ | ----------- |
+| orderId | string | 256609229205684228 | Order ID    |
 
 ## Account <a href="#zhang-hu" id="zhang-hu"></a>
 
