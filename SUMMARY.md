@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Join the DAO](joining-the-dao.md)
+* [Joining the DAO](joining-the-dao.md)
 * [DAO Application Form](https://form.typeform.com/to/ac01nSJG)
 
 ## The MAHA Token
@@ -18,14 +18,10 @@
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Extending lock for already locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
+  * [How to create a bribe?](governance/governance-portal/how-to-create-a-bribe.md)
+  * [How to vote for a pool?](governance/governance-portal/how-to-vote-for-a-pool.md)
+  * [How to create a lock?](governance/governance-portal/how-to-create-a-lock.md)
 * [Coordinape for Payouts](governance/coordinape-for-payouts.md)
-* [Vesting](governance/vesting.md)
-
-***
-
-* [How to Create a Lock?](how-to-create-a-lock.md)
-* [How to create a Bribe?](how-to-create-a-bribe.md)
-* [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
 
 ## Products
 
