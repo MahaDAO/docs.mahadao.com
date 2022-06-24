@@ -10,7 +10,7 @@ Step 1: You need to visit [https://gov.mahadao.com/](https://gov.mahadao.com/) a
 
 Step 2: You need to have MAHA to deposit into any of the pools.&#x20;
 
-![The user needs to select the pool they want to invest a bribe in. ](../../.gitbook/assets/1.jpg)
+![The user needs to select the pool they want to invest a bribe in. ](.gitbook/assets/1.jpg)
 
 Step 3: Once you have selected the pool you want to make the bribe for you need to click on the deposit button.&#x20;
 
@@ -18,9 +18,9 @@ NOTE: The concept of the bribe works by the user depositing an amount larger tha
 
 Step 4: Once you have clicked on deposit; you need to input an amount more than the total bribe amount and click on deposit.&#x20;
 
-![The user needs to input an amount that they want to input as a bribe.](<../../.gitbook/assets/3 (1).jpg>)
+![The user needs to input an amount that they want to input as a bribe.](<.gitbook/assets/3 (1).jpg>)
 
 Step 5: Once you click on the deposit and get a confirmation regarding the transaction; then the user has successfully completed the bribe process.&#x20;
 
-![The user will get a successful confirmation about the transaction.](<../../.gitbook/assets/4 (1).jpg>)
+![The user will get a successful confirmation about the transaction.](<.gitbook/assets/4 (1).jpg>)
 
