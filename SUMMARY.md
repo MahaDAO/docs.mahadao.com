@@ -13,16 +13,16 @@
 
 ## Governance
 
-* [MAHAX Staking](governance/mahax-staking/README.md)
-  * [Locking Mechanism](governance/mahax-staking/locking-mechanism.md)
-* [Governance Portal Tutorials](governance/governance-portal/README.md)
+* [MAHAX Staking](governance/mahax-staking.md)
+* [Locking Mechanism](governance/locking-mechanism.md)
+* [Coordinape for Payouts](governance/coordinape-for-payouts.md)
+* [Tutorials](governance/governance-portal/README.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Extending lock for already locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
   * [How to create a bribe?](how-to-create-a-bribe.md)
   * [How to vote for a pool?](how-to-vote-for-a-pool.md)
   * [How to create a lock?](how-to-create-a-lock.md)
-* [Coordinape for Payouts](governance/coordinape-for-payouts.md)
 
 ## Products
 

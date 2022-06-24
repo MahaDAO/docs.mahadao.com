@@ -749,7 +749,153 @@ All interfaces under the account require [signature and API-key verification​.
 
 #### Header
 
+X-CH-SIGN                                  string                                                     Sign&#x20;
 
+X-CH-APIKEY                              string                                                     Your API-key&#x20;
+
+X-CH-TS                                      integer                                                   timestamp
+
+#### Responses
+
+* 200&#x20;
+
+```
+{
+    "account": [
+        {
+            "marginCoin": "USDT",
+            "accountNormal": 999.5606,
+            "accountLock": 23799.5017,
+            "partPositionNormal": 9110.7294,
+            "totalPositionNormal": 0,
+            "achievedAmount": 4156.5072,
+            "unrealizedAmount": 650.6385,
+            "totalMarginRate": 0,
+            "totalEquity": 99964804.560,
+            "partEquity": 13917.8753,
+            "totalCost": 0,
+            "sumMarginRate": 873.4608,
+            "positionVos": [
+                {
+                    "contractId": 1,
+                    "contractName": "E-BTC-USDT",
+                    "contractSymbol": "BTC-USDT",
+                    "positions": [
+                        {
+                            "id": 13603,
+                            "uid": 10023,
+                            "contractId": 1,
+                            "positionType": 2,
+                            "side": "BUY",
+                            "volume": 69642.0,
+                            "openPrice": 11840.2394,
+                            "avgPrice": 11840.3095,
+                            "closePrice": 12155.3005,
+                            "leverageLevel": 24,
+                            "holdAmount": 7014.2111,
+                            "closeVolume": 40502.0,
+                            "pendingCloseVolume": 0,
+                            "realizedAmount": 8115.9125,
+                            "historyRealizedAmount": 1865.3985,
+                            "tradeFee": -432.0072,
+                            "capitalFee": 2891.2281,
+                            "closeProfit": 8117.6903,
+                            "shareAmount": 0.1112,
+                            "freezeLock": 0,
+                            "status": 1,
+                            "ctime": "2020-12-11T17:42:10",
+                            "mtime": "2020-12-18T20:35:43",
+                            "brokerId": 21,
+                            "marginRate": 0.2097,
+                            "reducePrice": 9740.8083,
+                            "returnRate": 0.3086,
+                            "unRealizedAmount": 2164.5289,
+                            "openRealizedAmount": 2165.0173,
+                            "positionBalance": 82458.2839,
+                            "settleProfit": 0.4883,
+                            "indexPrice": 12151.1175,
+                            "keepRate": 0.005,
+                            "maxFeeRate": 0.0025
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+```
 
 </details>
 
+Response:&#x20;
+
+| Name     | Type | Description        |
+| -------- | ---- | ------------------ |
+| account  | \[]  | Balance collection |
+
+#### `account` field:
+
+
+
+| Name                | Type   | Example | Description                        |
+| ------------------- | ------ | ------- | ---------------------------------- |
+| marginCoin          | string | USDT    | Margin coin                        |
+| accountNormal       | float  | 10.05   | Balance account                    |
+| accountLock         | float  | 10.07   | Margin frozen account              |
+| partPositionNormal  | float  | 10.07   | Restricted position margin balance |
+| totalPositionNormal | float  | 10.07   | Full position initial margin       |
+| achievedAmount      | float  | 10.07   | Profit and losses occurred         |
+| unrealizedAmount    | float  | 10.05   | Unfilled profit and losses         |
+| totalMarginRate     | float  | 10.05   | Full position margin rate          |
+| totalEquity         | float  | 10.07   | Full position equity               |
+| partEquity          | float  | 10.07   | Restricted position equity         |
+| totalCost           | float  | 10.07   | Full position costs                |
+| sumMarginRate       | float  | 10.07   | All accounts margin rate           |
+| positionVos         | \[]    |         | Position contract record           |
+
+#### `positionVos` field:
+
+| Name           | Type    | Example    | Description        |
+| -------------- | ------- | ---------- | ------------------ |
+| contractId     | integer | 2          | Contract ID        |
+| contractName   | string  | E-BTC-USDT | Contract name      |
+| contractSymbol | string  | BTC-USDT   | Contract coin pair |
+| positions      | \[]     |            | Position Details   |
+
+#### `positions` field:
+
+| Name                  | Type    | Example | Description                                                               |
+| --------------------- | ------- | ------- | ------------------------------------------------------------------------- |
+| Id                    | Integer | 2       | Position ID                                                               |
+| uid                   | Integer | 10023   | User ID                                                                   |
+| positionType          | Integer | 1       | Hold position type(1 full，2 restrictive)                                  |
+| side                  | string  | SELL    | Hold position direction SELL sell long, BUY buy short                     |
+| volume                | float   | 1.05    | Hold quantity                                                             |
+| openPrice             | float   | 1.05    | Open position price                                                       |
+| avgPrice              | float   | 1.05    | Hold average price                                                        |
+| closePrice            | float   | 1.05    | Balancing average price                                                   |
+| leverageLevel         | float   | 1.05    | Leverage multiple                                                         |
+| holdAmount            | float   | 1.05    | Hold position margin                                                      |
+| closeVolume           | float   | 1.05    | Balanced quantity                                                         |
+| PendingcloseVolume    | float   | 1.05    | The number of pending closing orders                                      |
+| realizedAmount        | float   | 1.05    | Profit and losses occurred                                                |
+| historyRealizedAmount | float   | 1.05    | Historic accumulated profit and losses                                    |
+| tradeFee              | float   | 1.05    | Trading fees                                                              |
+| capitalFee            | float   | 1.05    | Capital costs                                                             |
+| closeProfit           | float   | 1.05    | Balancing profit and loss                                                 |
+| shareAmount           | float   | 1.05    | Amount to share                                                           |
+| freezeLock            | integer | 0       | Position freeze status: 0 normal, 1 liquidation freeze, 2 delivery freeze |
+| status                | integer | 0       | Position effectiveness，0 ineffective 1 effective                          |
+| ctime                 | time    |         | Creation time                                                             |
+| mtime                 | time    |         | Update time                                                               |
+| brokerID              | integer | 1023    | Client id                                                                 |
+| lockTime              | time    |         | liquidation lock time                                                     |
+| MarginRate            | float   | 1.05    | Margin rate                                                               |
+| reducePrice           | float   | 1.05    | Price reduction                                                           |
+| returnRate            | float   | 1.05    | Return rate (profit rate)                                                 |
+| unRealizedAmount      | float   | 1.05    | Unfilled profit and losses                                                |
+| openRealizedAmount    | float   | 1.05    | Open position unfilled profit and losses                                  |
+| positionBalance       | float   | 1.05    | Position value                                                            |
+| indexPrice            | float   | 1.05    | Newest marked price                                                       |
+| keepRate              | float   | 1.05    | Scaled minimum kept margin rate                                           |
+| maxFeeRate            | float   | 1.05    | Balancing maximum fees rate                                               |
