@@ -717,9 +717,23 @@ X-CH-TS                                      integer                            
 
 
 
-| Name    | Type   | Example            | Description |
-| ------- | ------ | ------------------ | ----------- |
-| orderId | string | 256609229205684228 | Order ID    |
+| Name         | Type    | Example            | Description                                         |
+| ------------ | ------- | ------------------ | --------------------------------------------------- |
+| symbol       | string  | ETHBTC             | Coin name(trade pair)                               |
+| tradeId      | number  | 28457              | Trade ID                                            |
+| bidid        | long    | 150695552109032492 | Buyer order ID                                      |
+| askid        | long    | 150695552109032493 | Seller order ID                                     |
+| bidUserId    | integer | 10024              | Buyer user ID                                       |
+| askUserId    | integer | 10025              | Seller user ID                                      |
+| price        | float   | 4.01               | Filled price                                        |
+| qty          | float   | 12                 | Trade quantity                                      |
+| amount       | float   | 5.38               | Filled amount                                       |
+| time         | number  | 1499865549590      | Trade time stamp                                    |
+| fee          | number  | 0.001              | Trading fees                                        |
+| side         | string  | buy                | Current order direction BUY purchase, SELL  selling |
+| contractName | string  | E-BTC-USDT         | Contract name                                       |
+| isMaker      | Boolean | true               | is it maker?                                        |
+| isBuyer      | Boolean | true               | is it buyer?                                        |
 
 ## Account <a href="#zhang-hu" id="zhang-hu"></a>
 
@@ -730,6 +744,10 @@ All interfaces under the account require [signature and API-key verification​.
 <details>
 
 <summary>Account info</summary>
+
+### Parameters
+
+#### Header
 
 
 
