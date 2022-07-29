@@ -2,7 +2,7 @@
 description: This section talks about the various products of the MahaDAO
 ---
 
-# Products
+# Overview
 
 ## ARTH Valuecoin
 
@@ -12,7 +12,7 @@ Without being influenced by government-owned currencies, ARTH will be immune to 
 
 ARTH is implemented using decentralized smart-contracts and it is accessible via the main [frontend](https://arth.mahadao.com/#/loans/overview) with documentation over at [docs.arthcoin.com](https://docs.arthcoin.com/)&#x20;
 
-## Governance
+## Governance Portal
 
 The governance portal is the second product of the MahaDAO. Through the governance portal, MAHA token holders can vote for the better of the protocol.
 

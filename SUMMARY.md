@@ -1,21 +1,22 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Joining the DAO](joining-the-dao.md)
-* [Products](products.md)
-* [DAO Application Form](https://form.typeform.com/to/ac01nSJG)
 
 ## The MAHA Token
 
-* [Overview](the-maha-token/overview.md)
+* [MAHA Overview](the-maha-token/overview.md)
 * [Distribution & Inflation](the-maha-token/distribution.md)
-* [Staking, Voting and MAHAX](the-maha-token/staking-voting-and-mahax.md)
 
 ## Governance
 
-* [MAHAX Staking](governance/mahax-staking.md)
+* [Governance Overview](governance/governance-overview.md)
+* [Locking MAHA for NFTs](governance/mahax-staking.md)
+* [Voting Portal](governance/voting-portal.md)
+* [Earning Fees](governance/earning-fees.md)
+* [Pool Incentives](governance/pool-incentives.md)
+* [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
 * [Locking Mechanism](governance/locking-mechanism.md)
-* [Coordinape for Payouts](governance/coordinape-for-payouts.md)
+* [Boosting Staking Rewards](governance/boosting-staking-rewards.md)
 * [Tutorials](governance/governance-portal/README.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Extending lock for already locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
@@ -24,6 +25,12 @@
   * [How to vote for a pool?](how-to-vote-for-a-pool.md)
   * [How to create a lock?](how-to-create-a-lock.md)
 
+## The DAO
+
+* [Joining the DAO](the-dao/joining-the-dao.md)
+* [Coordinape for Payouts](the-dao/coordinape-for-payouts.md)
+
 ## Products
 
-* [ARTH Valuecoin](products-1/arth-valuecoin.md)
+* [Overview](products/overview.md)
+* [ARTH Valuecoin](https://docs.arthcoin.com/)

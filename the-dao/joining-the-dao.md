@@ -26,3 +26,5 @@ Every week, existing DAO members will go through all the new applicants to asses
 Once the governance vote has gone through, the new applicants are now officially DAO members and will start receiving payouts in MAHA for their contributions.
 
 _(At the initial stages, DAO members will review applicants once every week. As the DAO grows, the review period will extend to a month to accommodate newer members)._
+
+{% embed url="https://form.typeform.com/to/ac01nSJG?typeform-source=app.gitbook.com" %}
