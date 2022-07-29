@@ -1,8 +1,8 @@
 ---
 description: >-
-  MahaDAO is a mission that is driven by the people, for the people. This
-  document explains various parts of the DAO and how new contributors can join &
-  influence the DAO.
+  MahaDAO is a mission to create a decentralized and stable economy. that is
+  driven by the people, for the people. This document explains various parts of
+  the DAO and it's governance.
 ---
 
 # Welcome
