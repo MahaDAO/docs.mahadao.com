@@ -12,7 +12,7 @@
 * [Governance Overview](governance/governance-overview.md)
 * [Locking MAHA for NFTs](governance/mahax-staking.md)
 * [Voting Portal](governance/voting-portal.md)
-* [Earning Fees](governance/earning-fees.md)
+* [Earning Fees & Rewards](governance/earning-fees-and-rewards.md)
 * [Pool Incentives](governance/pool-incentives.md)
 * [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
 * [Locking Mechanism](governance/locking-mechanism.md)
@@ -34,3 +34,4 @@
 
 * [Overview](products/overview.md)
 * [ARTH Valuecoin](https://docs.arthcoin.com/)
+* [Voting Portal](https://www.tally.xyz/governance/eip155:1:0x50332193e7ef92aD1ED13cE826F87730aeAF4Fa9)
