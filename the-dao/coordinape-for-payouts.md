@@ -20,7 +20,7 @@ For the initial few months, the budget allocated to the Coordinape platform will
 
 To avoid situations where members attempt to create cartels and try to reward each other with no active contribution to the DAO, the Coordinape tool offers a graph view to visualise the entire contribution network.
 
-![A simple contribution graph; showing rewards done by various users. Bringing in transparency and eliminating cartels.](<../.gitbook/assets/image (1) (2).png>)
+![A simple contribution graph; showing rewards done by various users. Bringing in transparency and eliminating cartels.](<../.gitbook/assets/image (1).png>)
 
 The graph is a visual representation of how rewards flow from one member to another. Because of its nature, it can easily help identify cartels by observing circles of users who keep rewarding each other.
 

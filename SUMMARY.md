@@ -12,7 +12,7 @@
 * [Governance Overview](governance/governance-overview.md)
 * [Locking MAHA for NFTs](governance/mahax-staking.md)
 * [Voting Portal](governance/voting-portal.md)
-* [Earning Fees & Rewards](governance/earning-fees-and-rewards.md)
+* [Earning Fees & Rewards](governance/earning-fees.md)
 * [Pool Incentives](governance/pool-incentives.md)
 * [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
 * [Locking Mechanism](governance/locking-mechanism.md)

@@ -19,7 +19,7 @@ There are four kinds of fees/incentives that members receive.
 
 The table below gives a brief summary of what kind of activities receive what kind of rewards.
 
-<table><thead><tr><th>Reward Kind</th><th data-type="checkbox">Can be a passive member?</th><th data-type="checkbox">Can Rewards be Delegated?</th></tr></thead><tbody><tr><td>Inflation Rewards</td><td>true</td><td>true</td></tr><tr><td>Protocol Fees</td><td>true</td><td>false</td></tr><tr><td>Voting Rewards</td><td>false</td><td>true</td></tr><tr><td>Pool Incentives</td><td>false</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th>Reward Kind</th><th data-type="checkbox">Can be a passive member?</th><th data-type="checkbox">Can Rewards be Delegated?</th></tr></thead><tbody><tr><td>Inflation Rewards</td><td>true</td><td>false</td></tr><tr><td>Protocol Fees</td><td>true</td><td>false</td></tr><tr><td>Voting Rewards</td><td>false</td><td>true</td></tr><tr><td>Pool Incentives</td><td>false</td><td>false</td></tr></tbody></table>
 
 > In general, participants that are the most active in the DAO, will get the most amount of rewards.&#x20;
 
