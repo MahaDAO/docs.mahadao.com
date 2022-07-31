@@ -24,3 +24,5 @@ The table below gives a brief summary of what kind of activities receive what ki
 > In general, participants that are the most active in the DAO, will get the most amount of rewards.&#x20;
 
 Some rewards can be delegated (such as the voting rewards), whereas other rewards can be earned passively without doing anything besides just having their MAHAX staked (Inflation Rewards & Protocol fees).
+
+Pool Incentive rewards require members to be active and can not have rewards be delegated. Which means if you have delegated your voting power, the pool incentive rewards will go to your delegate instead of you. This is due to technical limitations of smart-contract code and reducing gas fees, although future revisions can update this feature. (To learn more, read [delegation](delegation-and-voting-rewards.md))
