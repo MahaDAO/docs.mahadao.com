@@ -21,7 +21,7 @@ Everything you need to know about MAHA.\
 
 The MAHA token is primarily deployed on the Ethereum chain with bridged version of the token available on other EVM-chains such as Polygon and Binance Smart Chain.
 
-Bridged version of the token can be accessed by using AnySwap
+Bridged version of the token can be accessed by using [AnySwap](https://anyswap.exchange/#/router).
 
 |                     | Address                                                                                                                |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
