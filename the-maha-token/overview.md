@@ -16,3 +16,16 @@ To learn more about MAHA's tokenomics, view [Distribution & Inflation](distribut
 Everything you need to know about MAHA.\
 
 {% endembed %}
+
+## Contract Addresses
+
+The MAHA token is primarily deployed on the Ethereum chain with bridged version of the token available on other EVM-chains such as Polygon and Binance Smart Chain.
+
+Bridged version of the token can be accessed by using AnySwap
+
+|                     | Address                                                                                                                |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Ethereum (Main)     | [0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)    |
+| Polygon             | [0xedd6ca8a4202d4a36611e2fff109648c4863ae19](https://polygonscan.com/token/0xedd6ca8a4202d4a36611e2fff109648c4863ae19) |
+| Binance Smart Chain | [0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b](https://bscscan.com/token/0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b)     |
+
