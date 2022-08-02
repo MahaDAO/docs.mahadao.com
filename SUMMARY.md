@@ -5,15 +5,19 @@
 ## The MAHA Token
 
 * [MAHA Overview](the-maha-token/overview.md)
-* [Distribution & Inflation](the-maha-token/distribution.md)
 
 ## Governance
 
 * [Governance Overview](governance/governance-overview.md)
-* [Locking MAHA for NFTs](governance/mahax-staking.md)
+* [Network Contracts](governance/network-contracts.md)
+* [Distribution & Inflation](governance/distribution.md)
 * [Voting Portal](governance/voting-portal.md)
+* [The Triage Principal](governance/the-triage-principal.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
+* [C1 - Coin Weighted](governance/c1-coin-weighted.md)
 * [Pool Incentives](governance/pool-incentives.md)
+* [C2 - Delegation](governance/c2-delegation.md)
+* [C3 - Polling](governance/c3-polling.md)
 * [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
 * [Locking Mechanism](governance/locking-mechanism.md)
 * [Boosting Staking Rewards](governance/boosting-staking-rewards.md)
@@ -28,10 +32,10 @@
 ## The DAO
 
 * [Joining the DAO](the-dao/joining-the-dao.md)
-* [Coordinape for Payouts](the-dao/coordinape-for-payouts.md)
 
-## Products
+## Products & Services <a href="#products" id="products"></a>
 
+* [MAHA NFT's](products/maha-nfts.md)
 * [Overview](products/overview.md)
 * [ARTH Valuecoin](https://docs.arthcoin.com/)
 * [Voting Portal](https://www.tally.xyz/governance/eip155:1:0x50332193e7ef92aD1ED13cE826F87730aeAF4Fa9)
