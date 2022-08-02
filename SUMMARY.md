@@ -14,7 +14,6 @@
   * [C1 - Coin Weighted](governance/categories-of-proposals/c1-coin-weighted.md)
   * [C2 - Delegation](governance/categories-of-proposals/c2-delegation.md)
   * [C3 - Polling](governance/categories-of-proposals/c3-polling.md)
-* [Network Contracts](governance/network-contracts.md)
 * [Voting Portal](governance/voting-portal.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
 * [Pool Incentives](governance/pool-incentives.md)
@@ -35,7 +34,6 @@
 
 ## Products & Services <a href="#products" id="products"></a>
 
-* [MAHA NFT's](products/maha-nfts.md)
 * [Overview](products/overview.md)
 * [ARTH Valuecoin](https://docs.arthcoin.com/)
 * [Voting Portal](https://www.tally.xyz/governance/eip155:1:0x50332193e7ef92aD1ED13cE826F87730aeAF4Fa9)

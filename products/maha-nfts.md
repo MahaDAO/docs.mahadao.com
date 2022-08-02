@@ -1,2 +1,0 @@
-# MAHA NFT's
-
