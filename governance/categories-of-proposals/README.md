@@ -1,4 +1,6 @@
-# The Triage Principal
+# Categories of Proposals
+
+## The Triage Principal
 
 More commonly known for its use in the medical field, 'Triage' is a system of classification that helps coordinate the prioritization of response, and type of response. In a similar way, we can apply this approach to blockchain governance in order to achieve a more optimized and efficient outcome. \
 \

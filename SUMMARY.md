@@ -9,13 +9,13 @@
 ## Governance
 
 * [Governance Overview](governance/governance-overview.md)
+* [Categories of Proposals](governance/categories-of-proposals/README.md)
+  * [C1 - Coin Weighted](governance/categories-of-proposals/c1-coin-weighted.md)
+  * [C2 - Delegation](governance/categories-of-proposals/c2-delegation.md)
+  * [C3 - Polling](governance/categories-of-proposals/c3-polling.md)
 * [Network Contracts](governance/network-contracts.md)
-* [Distribution & Inflation](governance/distribution.md)
+* [Distribution & Inflation](the-maha-token/distribution.md)
 * [Voting Portal](governance/voting-portal.md)
-* [The Triage Principal](governance/the-triage-principal/README.md)
-  * [C1 - Coin Weighted](governance/the-triage-principal/c1-coin-weighted.md)
-  * [C2 - Delegation](governance/the-triage-principal/c2-delegation.md)
-  * [C3 - Polling](governance/the-triage-principal/c3-polling.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
 * [Pool Incentives](governance/pool-incentives.md)
 * [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
