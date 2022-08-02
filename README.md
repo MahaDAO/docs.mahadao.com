@@ -5,7 +5,7 @@ description: >-
   the DAO and it's governance.
 ---
 
-# Welcome
+# Introduction
 
 MahaDAO is a community-powered, decentralized organization on a mission to empower billions with a stable economy through the world’s first valuecoin, [ARTH](broken-reference).
 
@@ -23,8 +23,8 @@ In the next few sections of the documentation, you will find many more about the
 [overview.md](the-maha-token/overview.md)
 {% endcontent-ref %}
 
-{% content-ref url="governance/governance-overview.md" %}
-[governance-overview.md](governance/governance-overview.md)
+{% content-ref url="governance/overview.md" %}
+[overview.md](governance/overview.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

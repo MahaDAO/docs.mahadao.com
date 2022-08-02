@@ -5,16 +5,16 @@
 ## The MAHA Token
 
 * [MAHA Overview](the-maha-token/overview.md)
+* [Distribution & Inflation](the-maha-token/distribution.md)
 
 ## Governance
 
-* [Governance Overview](governance/governance-overview.md)
+* [Overview](governance/overview.md)
 * [Categories of Proposals](governance/categories-of-proposals/README.md)
   * [C1 - Coin Weighted](governance/categories-of-proposals/c1-coin-weighted.md)
   * [C2 - Delegation](governance/categories-of-proposals/c2-delegation.md)
   * [C3 - Polling](governance/categories-of-proposals/c3-polling.md)
 * [Network Contracts](governance/network-contracts.md)
-* [Distribution & Inflation](the-maha-token/distribution.md)
 * [Voting Portal](governance/voting-portal.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
 * [Pool Incentives](governance/pool-incentives.md)
