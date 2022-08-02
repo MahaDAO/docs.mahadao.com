@@ -1,6 +1,6 @@
 ---
 description: >-
-  CLASSIFICATION 1 - (C-1) The Proposal may impact any or all of the following; 
+  CLASSIFICATION 1 - (C1) The Proposal may impact any or all of the following; 
   -- Nominated distribution of "Maha Emissions" via Gauge Vote --
   Inclusion/removal of "Maha Emission Gauges" (Bribes)
 ---
