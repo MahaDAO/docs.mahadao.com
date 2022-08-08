@@ -7,21 +7,21 @@ description: >-
 
 # C1 - Coin Weighted
 
-Expansion points & order
+## Expansion Points & Order
 
-* what is coin weighted voting (brief)
+* What is coin-weighted voting (brief)
 * Advantages
-* Share holder theory&#x20;
-* Limitations / Vulnerabilities&#x20;
+* Shareholder theory&#x20;
+* Limitations/Vulnerabilities&#x20;
 * Pay to Play
 
-Use cases
+## Use cases
 
 * Emissions (inflation into deflation mechanic)&#x20;
 * Gauge/Pool votes
 * Bribes
 
-Optimal Incentive Goals
+## Optimal Incentive Goals
 
 * To funnel buying demand
 * To choke circulating supply of MAHA

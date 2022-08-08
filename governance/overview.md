@@ -2,7 +2,7 @@
 description: An overview of how MahaDAO's governance is laid out
 ---
 
-# Governance Overview
+# Overview
 
 MahaDAO's governance model is designed to keep malicious attackers out of the way and ensure that the project is kept to be as decentralized as possible.
 
@@ -10,7 +10,7 @@ The model described in this section is designed takes inspiration from best prac
 
 * Meant to be as decentralized as possible
 * Allows for delegation to encourage high voter participation
-* Has a time-lock to ensure that malicious proposals can get rejected/veto'd in time.
+* Has a time-lock to ensure that malicious proposals can get rejected/voted in time.
 
 ![Security model of MahaDAO's governance](<../.gitbook/assets/image (16).png>)
 

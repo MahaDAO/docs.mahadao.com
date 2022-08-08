@@ -22,11 +22,11 @@
 * [Boosting Staking Rewards](governance/boosting-staking-rewards.md)
 * [Tutorials](governance/governance-portal/README.md)
   * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
-  * [Extending lock for already locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
+  * [Extending Lock for Already Locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
-  * [How to create a bribe?](how-to-create-a-bribe.md)
-  * [How to vote for a pool?](how-to-vote-for-a-pool.md)
-  * [How to create a lock?](how-to-create-a-lock.md)
+  * [How to Create a Bribe?](how-to-create-a-bribe.md)
+  * [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
+  * [How to Create a Lock?](how-to-create-a-lock.md)
 
 ## The DAO
 

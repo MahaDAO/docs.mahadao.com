@@ -1,12 +1,12 @@
 # Locking Mechanism
 
-With MAHAX we get the power to vote for the proposals. The longer you lock your MAHA for, the more voting power you have (and the bigger boost you can reach).
+With MAHAX we get the power to vote for the proposals. The longer you lock your MAHA, the more voting power you have (and the bigger boost you can reach).
 
-To get a tutorial on how to vote lock your MAHA, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
+To get a tutorial on how to vote to lock your MAHA, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
 
-## How does locking works?
+## How Does Locking Work?
 
-MAHA holders can  lock their MAHA on the [Governance Portal](governance-portal/) to receive MAHAX. The longer they lock for, the more MAHAX they receive.&#x20;
+MAHA holders can lock their MAHA on the [Governance Portal](governance-portal/) to receive MAHAX. The longer they lock for, the more MAHAX they receive.&#x20;
 
 The minimum locking time is one week and the maximum locking time is four years. Your MAHAX weight gradually decreases as your escrowed tokens approach their lock expiry.
 
@@ -21,4 +21,4 @@ The minimum locking time is one week and the maximum locking time is four years.
 | 21.23  | 1 month       |
 | 4.79   | 1 week        |
 
-_(Note: This table is just an estimate of the locking of MAHA. Users can choose any interval in between 2 weeks to 4 years)_
+_(Note: This table is just an estimate of the locking of MAHA. Users can choose any interval between 2 weeks to 4 years)_

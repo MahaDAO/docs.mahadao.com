@@ -23,4 +23,4 @@ By utilizing proposal classifications, we can then leverage more appropriate vot
 2. **DELEGATION - Pegged to 'C2' Proposals:** Expanding on 'Coin Weighted' -- Delegation introduces the capability to nominate voting power to one another.&#x20;
 3. **POLLING SYSTEM - Pegged to 'C3' Proposals:** Similar to democratic elections, utilizing 1 individual as 1 vote. However, the MahaDAO Polling system does this in a way that also preserves individual privacy needs.&#x20;
 
-_Please continue to read further as we cover the rational behind implementing the 'Triage Principal' into DAO Governance._
+_Please continue to read further as we cover the rationale behind implementing the 'Triage Principal' into DAO Governance._

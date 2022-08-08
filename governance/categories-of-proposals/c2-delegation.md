@@ -7,18 +7,18 @@ description: >-
 
 # C2 - Delegation
 
-Expansion points & order
+## Expansion Points & Order
 
 * What is Delegation?
 * Theory Overview
 * Meritocracy, Plutocracy, Oligarchies&#x20;
 
-Use cases
+## Use Cases
 
-* Examples of positive outcomes (Which generally associate with Triage Classification 2).
+* Examples of positive outcomes (Which are generally associated with Triage Classification 2).
 * Examples of negative outcomes (Which generally have been isolated into other classifications)
 
-Optimal Incentive Goals
+## Optimal Incentive Goals
 
 * To leverage subject matter expertise for critical and sensitive proposals
 * To leverage community voting power behind subject matter experts/credibility.&#x20;

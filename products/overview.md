@@ -6,11 +6,11 @@ description: This section talks about the various products of the MahaDAO
 
 ## ARTH Valuecoin
 
-The first very core product of the MahaDAO is the ARTH valuecoin. [ARTH ](https://arthcoin.com/)is a new type of currency designed to not be pegged to government-owned currencies (like US Dollar, Euro, or Chinese Yuan), but still remain relatively stable (unlike Gold and Bitcoin).
+The first very core product of MahaDAO is the ARTH valuecoin. [ARTH ](https://arthcoin.com/)is a new type of currency designed to not be pegged to government-owned currencies (like the US Dollar, Euro, or Chinese Yuan), but still remain relatively stable (unlike Gold and Bitcoin).
 
 Without being influenced by government-owned currencies, ARTH will be immune to inflation. Through stability, ARTH also becomes a superior choice of currency for means of trade. This is unlike Gold or Bitcoin, which are used more as a store of value rather than a medium of exchange.
 
-ARTH is implemented using decentralized smart-contracts and it is accessible via the main [frontend](https://arth.mahadao.com/#/loans/overview) with documentation over at [docs.arthcoin.com](https://docs.arthcoin.com/)&#x20;
+ARTH is implemented using decentralized smart contracts and it is accessible via the main [frontend](https://arth.mahadao.com/#/loans/overview) with documentation over at [docs.arthcoin.com](https://docs.arthcoin.com/)&#x20;
 
 ## Governance Portal
 

@@ -4,7 +4,7 @@ description: This section briefly summaries the MAHA token.
 
 # MAHA Overview
 
-MAHA is the governance and utility token that regulates the ARTH valuecoin, the MAHA community and other products governed by the DAO.
+MAHA is the governance and utility token that regulates the ARTH valuecoin, the MAHA community, and other products governed by the DAO.
 
 ![](../.gitbook/assets/image.png)
 
@@ -19,7 +19,7 @@ Everything you need to know about MAHA.\
 
 ## Contract Addresses
 
-The MAHA token is primarily deployed on the Ethereum chain with bridged version of the token available on other EVM-chains such as Polygon and Binance Smart Chain.
+The MAHA token is primarily deployed on the Ethereum chain with a bridged version of the token available on other EVM chains such as Polygon and Binance Smart Chain.
 
 Bridged version of the token can be accessed by using [AnySwap](https://anyswap.exchange/#/router).
 
