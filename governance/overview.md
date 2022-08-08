@@ -12,7 +12,7 @@ The model described in this section is designed takes inspiration from best prac
 * Allows for delegation to encourage high voter participation
 * Has a time-lock to ensure that malicious proposals can get rejected/voted in time.
 
-![Security model of MahaDAO's governance](<../.gitbook/assets/image (16).png>)
+![Security model of MahaDAO's governance](<../.gitbook/assets/image (16) (1).png>)
 
 Besides just securing the protocol, governance participants also get additional benefits such as:
 

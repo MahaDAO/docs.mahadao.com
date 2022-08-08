@@ -10,10 +10,10 @@
 ## Governance
 
 * [Overview](governance/overview.md)
-* [Categories of Proposals](governance/categories-of-proposals/README.md)
-  * [C1 - Coin Weighted](governance/categories-of-proposals/c1-coin-weighted.md)
-  * [C2 - Delegation](governance/categories-of-proposals/c2-delegation.md)
-  * [C3 - Polling](governance/categories-of-proposals/c3-polling.md)
+* [Proposal Classifications](governance/proposal-classifications/README.md)
+  * [C.1 - Coin Voting](governance/proposal-classifications/c.1-coin-voting.md)
+  * [C.2 - Delegation](governance/proposal-classifications/c.2-delegation.md)
+  * [C.3 - Consensus Hybrid](governance/proposal-classifications/c.3-consensus-hybrid.md)
 * [Voting Portal](governance/voting-portal.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
 * [Pool Incentives](governance/pool-incentives.md)
@@ -27,10 +27,6 @@
   * [How to Create a Bribe?](how-to-create-a-bribe.md)
   * [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
   * [How to Create a Lock?](how-to-create-a-lock.md)
-
-## The DAO
-
-* [Joining the DAO](the-dao/joining-the-dao.md)
 
 ## Products & Services <a href="#products" id="products"></a>
 
