@@ -16,7 +16,7 @@ The model described in this section is designed takes inspiration from best prac
 
 Besides just securing the protocol, governance participants also get additional benefits such as:
 
-* [Voting and earning from pool incentives](pool-incentives.md)
+* [Voting and earning from pool incentives](pool-incentives/)
 * [Earning fees from the protocol](earning-fees.md)
 * [Boosting their farming rewards](boosting-staking-rewards.md)
 
