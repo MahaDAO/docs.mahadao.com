@@ -11,12 +11,6 @@ description: >-
 
 There is many definitions and refinements around this particular approach; quadradic voting, and even delegation methods utilize a coin weighted vote. Within context, we're referencing the calculation of '1 coin = 1 vote' (excluding delegation).&#x20;
 
-* What is coin-weighted voting (brief)
-* Advantages
-* Shareholder theory&#x20;
-* Limitations/Vulnerabilities&#x20;
-* Pay to Play
-
 ![Coin Weighted Governance Model](<../../.gitbook/assets/image (12).png>)
 
 ### Theory&#x20;
@@ -29,7 +23,7 @@ What we have witnessed is capitalism and the free market become undermined by ba
 
 It's important to understand that we're opportunistic creatures, and so great diligence is required in order to design the right strategy for the intended outcome. The issue here is not profit seeking -- but rather when that purpose undermines broader consensus on all other matters. \
 \
-As written in the following [article](https://vitalik.ca/general/2021/08/16/voting3.html) by Vitalik, he references many of the pitfalls for coin-voting; vote buying, malicious governance attacks, and token centralization. In our view, to give complete governance power to coin-voting, runs the risk of creating a plutocracy and centralizing supply. This impact however can be mitigated through adequate distribution, or by utilizing the 'Triage Principal' that MahaDAO deploys.
+As written in the following [article](https://vitalik.ca/general/2021/08/16/voting3.html) by Vitalik, he references many of the pitfalls for coin-voting; vote buying, malicious governance attacks, and token centralization. In our view, to give complete governance power to coin-voting, runs the risk of creating a plutocracy and centralizing supply. This impact however can be mitigated through adequate dispersion of the supply among holders.
 
 ### C.1 - Proposal Applications
 

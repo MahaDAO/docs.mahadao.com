@@ -19,9 +19,6 @@ In practical application, not always will the 'wisdom of the crowd' lead to the 
 \
 The traditional beliefs held around plutocracies, don't really apply within the context of on-chain delegation. The reason being, is unlike traditional election cycles and governments; a delegates power may also be revoked at any time. This introduces additional and ongoing accountability on a proposal-by-proposal basis. In a way, on-chain delegation is a form of representative democracy that has a much more responsive adjustment to individual preference. Even so, delegation still remains a more or less a passive involvement for most; one where consensus is generally only evaluated in hindsight.
 
-* Examples of positive outcomes (Which are generally associated with Triage Classification 2).
-* Examples of negative outcomes (Which generally have been isolated into other classifications)
-
 ### C.2 - Proposal Applications (MIP's)
 
 <mark style="color:blue;">CLASSIFICATION 2 - (C-2) The Proposal may impact any or all of the following;</mark> \ <mark style="color:blue;"></mark>_<mark style="color:blue;">1. Security and Functionality of Protocol/Ecosystem Contracts</mark>_\
