@@ -1,11 +1,11 @@
 ---
 description: >-
-  CLASSIFICATION 2 - (C-2) The Proposal may impact any or all of the following; 
+  CLASSIFICATION 2 - (C2) The Proposal may impact any or all of the following; 
   -- Security and Functionality of Protocol/Ecosystem Contracts -- Partnership
   and Service integrations to MahaDAO
 ---
 
-# C.2 - Delegation
+# C2 - Delegation
 
 ### What is Delegation?
 

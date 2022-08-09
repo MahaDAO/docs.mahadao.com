@@ -11,9 +11,9 @@
 
 * [Overview](governance/overview.md)
 * [Proposal Classifications](governance/proposal-classifications/README.md)
-  * [C.1 - Coin Voting](governance/proposal-classifications/c.1-coin-voting.md)
-  * [C.2 - Delegation](governance/proposal-classifications/c.2-delegation.md)
-  * [C.3 - Consensus Hybrid](governance/proposal-classifications/c.3-consensus-hybrid.md)
+  * [C1 - Coin Voting](governance/proposal-classifications/c1-coin-voting.md)
+  * [C2 - Delegation](governance/proposal-classifications/c2-delegation.md)
+  * [C3 - Consensus Hybrid](governance/proposal-classifications/c3-consensus-hybrid.md)
 * [Voting Portal](governance/voting-portal.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
 * [Pool Incentives](governance/pool-incentives.md)
