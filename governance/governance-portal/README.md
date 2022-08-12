@@ -4,22 +4,17 @@ description: >-
   like to use the Governance portal.
 ---
 
-# Governance Portal Tutorials
+# Portal Tutorials
 
-The governance portal is the one-stop place for all MAHA holders to interact with the DAO, earn from it and track other DAO members.
+The governance portal is the one-stop place for all `MAHA` holders to interact with the DAO, earn from it, and track other DAO members.
 
-The governance portal is live at [gov.mahadao.com](https://gov.mahadao.com). The governance portal allows MAHA holders to:
+The governance portal is live at [gov.mahadao.com](https://gov.mahadao.com). The governance portal allows `MAHA` holders to:
 
-* Lock their MAHA tokens for MAHAX
-* Create new voting proposals 
+* Lock their `MAHA` tokens for MAHAX
+* Create new voting proposals&#x20;
 * Earn platform fees
-* Control the MAHA inflation every month
+* Control the `MAHA` inflation every month
 * Boost their staking rewards
-* Claim their vested MAHA tokens
+* Claim their vested `MAHA` tokens
 
-In this section we detail a bunch of different tutorials for people who'd like to interact with this portal.
-
-
-
- 
-
+In this section, we detail a bunch of different tutorials for people who'd like to interact with this portal.

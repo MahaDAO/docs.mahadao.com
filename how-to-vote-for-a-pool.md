@@ -19,7 +19,7 @@ _**NOTE:**_&#x20;
 * _You can vote any number of times you want._
 * _You can vote for a specific pool as long as the voting rate is less than 100 percent._&#x20;
 
-**Step 4:** Once you select a pool; use the scroll bar to select the voting power percentage you want to cast.&#x20;
+**Step 4:** Once you select a pool, use the scroll bar to select the voting power percentage you want to cast.&#x20;
 
 ![The voting power selected by the you is displayed alongside the Cast Votes button.](.gitbook/assets/2.jpg)
 
