@@ -16,7 +16,7 @@ _**NOTE:**_&#x20;
 
 * _The scroll bar will help you select the percentage amount that you want to use for voting for that specific pool._&#x20;
 * _You can select the percentage value for multiple pools at the same time._&#x20;
-* _You can vote any number of times they want._
+* _You can vote any number of times you want._
 * _You can vote for a specific pool as long as the voting rate is less than 100 percent._&#x20;
 
 **Step 4:** Once you select a pool; use the scroll bar to select the voting power percentage you want to cast.&#x20;
