@@ -15,10 +15,6 @@ At MahaDAO, we are constantly striving to achieve the ultimate decentralized gov
 
 In the next few sections of the documentation, you will find many more about the many methods MahaDAO tries to achieve decentralization, the philosophy behind MahaDAO, and ways in which you can become a contributor and join our journey.&#x20;
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="the-maha-token/overview.md" %}
 [overview.md](the-maha-token/overview.md)
 {% endcontent-ref %}
