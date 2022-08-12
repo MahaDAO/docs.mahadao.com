@@ -18,6 +18,7 @@
 * [Voting Portal](governance/voting-portal.md)
 * [Pool Incentives](governance/pool-incentives/README.md)
   * [Uniswap V3 Staking](governance/pool-incentives/uniswap-v3-staking.md)
+  * [Understanding Bribes](governance/pool-incentives/understanding-bribes.md)
 * [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
 * [Boosting Staking Rewards](governance/boosting-staking-rewards.md)
 * [Portal Tutorials](governance/governance-portal/README.md)
