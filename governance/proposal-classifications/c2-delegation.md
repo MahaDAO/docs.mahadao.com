@@ -1,13 +1,13 @@
 ---
 description: >-
-  CLASSIFICATION 2 - (C2) The Proposal may impact any or all of the following; 
-  -- Security and Functionality of Protocol/Ecosystem Contracts -- Partnership
-  and Service integrations to MahaDAO
+  The Proposal may impact any or all of the following; Security and
+  Functionality of Protocol/Ecosystem Contracts, Partnership and Service
+  integrations to MahaDAO
 ---
 
 # C2 - Delegation
 
-### What is Delegation?
+## What is Delegation?
 
 In the context of governance, 'Delegation' simply refers to mutual consent of bestowing one individual's voting power to another. This system can help counter the predominant voting power of whales, who may act in a biased position that is not aligned with the broader community. In addition, delegation introduces different elements of appeal, reputation, credibility, and expertise -- all of which can help put voting support behind one another, irrespective of their personal wealth.&#x20;
 
@@ -19,16 +19,17 @@ In practical application, not always will the 'wisdom of the crowd' lead to the 
 \
 The traditional beliefs held around plutocracies, don't really apply within the context of on-chain delegation. The reason being is unlike traditional election cycles and governments; a delegate's power may also be revoked at any time. This introduces additional and ongoing accountability on a proposal-by-proposal basis. In a way, an on-chain delegation is a form of representative democracy that has a much more responsive adjustment to individual preference. Even so, delegation still remains a more or less passive involvement for most; one where consensus is generally only evaluated in hindsight.
 
-### C.2 - Proposal Applications (MIPs)
+## Proposal Applications
 
-CLASSIFICATION 2 - (C-2) The Proposal may impact any or all of the following; \
-_1. Security and Functionality of Protocol/Ecosystem Contracts_\
-_2. Partnership and Service integrations to MahaDAO Ecosystem_\
+_The Proposal may impact any or all of the following_
+
+1. _Security and Functionality of Protocol/Ecosystem Contracts_
+2. _Partnership and Service integrations to MahaDAO Ecosystem_\
 
 
 `C.2 Proposal types may utilize delegation, without requirement of a consensus pass as outlined in the follow chapter; "C.3 - Consensus Hybrid".`
 
-![MahaDAO Delegate System](../../.gitbook/assets/image.png)
+![MahaDAO Delegate System](<../../.gitbook/assets/image (1).png>)
 
 In this classification, we're primarily focused on the security of the protocol, and the protection of our community. This demands an emphasis on being able to identify not only malicious risks but also unintended consequences. Ideally, we encourage both technical and strategic specialists to consider delegate nomination.&#x20;
 
@@ -36,15 +37,13 @@ In this classification, we're primarily focused on the security of the protocol,
 
 * <mark style="color:blue;">Partnership and Service integrations</mark>\ <mark style="color:blue;"></mark>As we have witnessed many exploits and hacks around bridges and oracles, we have included this proposal type as high risk and of technical specialization.&#x20;
 
-
-
 ### Safety Check
 
 If the DAO fails to protect the protocol from any malicious governance attack, then we have in place a 'Safety Check' that will ensure the protocol and community remains protected and secure. \
 \
 _**The 'Safety Check' is limited to the prevention of malicious proposals executing; it can not be used for an affirmative purpose to support a proposal.**_ This backup security feature will be operated by anonymous individuals; this is to ensure their protection and privacy, whilst eliminating the opportunity to solicit preferences.
 
-#### <mark style="color:blue;">Grace Period</mark>
+### Grace Period
 
 Once a submitted proposal has passed a vote, it will either observe a 7 or 30-day 'grace period' before execution. It is during this grace period that the proposal will be thoroughly evaluated for any malicious attack. If a threat is deemed present, the 'Safety Check' will be used to Veto the Proposal. In the unlikely event of this occurrence, a full disclosure report will be made available; detailing the prevented threat.   &#x20;
 

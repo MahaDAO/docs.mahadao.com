@@ -18,14 +18,14 @@ Besides just securing the protocol, governance participants also get additional 
 
 * [Voting and earning from pool incentives](pool-incentives/)
 * [Earning fees from the protocol](earning-fees.md)
-* [Boosting their farming rewards](boosting-staking-rewards.md)
+* [Boosting their farming rewards](pool-incentives/boosting-pool-incentives.md)
 
 MahaDAO's governance has various components to it, each of it briefly explained below.
 
-* MAHA NFT Locker: Lorem Ipmsum
-* NFT Staker: Lorem Ipmsum
-* Governance Portal: Lorem Ipmsum
-* Timelocks: Lorem Ipmsum
-* Emergency DAO: Lorem Ipmsum
-* Pool Voter: Lorem Ipmsum
-* Pool Gauge: Lorem Ipmsum
+* **MAHA NFT Locker**: Locks MAHA to create NFTs with voting power based on how much and long the MAHA tokens were locked for. (Read: [Locking Maha](locking-mechanism/))
+* **NFT Staker:** A staking contract that stakes a MAHA NFT to be used for various aspects of the governance.
+* **Governance Portal:** A web portal that allows users to create and vote on proposals that change various aspects of the DAO. (Read: [Voting Portal](voting-portal.md))
+* **Timelocks**: A smart-contract that puts all transactions into a queue before they are committed onto the blockchain.
+* **Emergency DAO**: A community-owned multi-sig wallet that has the ability to veto any malicious votes.
+* **Pool Voter:** A voting contract that votes and determines how much MAHA goes to what gauge.
+* **Pool Gauge:** A contract that stakes liquidity pool tokens and determines how much MAHA rewards should be given out.
