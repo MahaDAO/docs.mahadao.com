@@ -2,7 +2,7 @@
 description: An overview of how MahaDAO's governance is laid out
 ---
 
-# Overview
+# Governance Overview
 
 MahaDAO's governance model is designed to keep malicious attackers out of the way and ensure that the project is kept to be as decentralized as possible.
 
