@@ -18,7 +18,7 @@ Using a modified version of the [Uniswap V3 staking contract](https://github.com
 
 LP stakers will receive MAHA rewards for the time when the current price of the liquidity pair is within range of their liquidity position.&#x20;
 
-![An example of ARTH/MAHA Uniswap LP position where the min and max price can be specified by the user.](<../../.gitbook/assets/image (6).png>)
+![An example of ARTH/MAHA Uniswap LP position where the min and max price can be specified by the user.](<../../.gitbook/assets/image (12).png>)
 
 ## FAQs
 

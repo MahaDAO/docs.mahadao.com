@@ -15,7 +15,7 @@ In most cases smaller holders will tend to lock their tokens for longer periods 
 
 This allows us to have participants in the protocol to have the ability to have their voice represented by simply locking their tokens for longer periods of time but with smaller amounts instead.
 
-To get a tutorial on how to vote to lock your MAHA, visit the [Governance Portal Tutorials](../governance-portal/staking-maha-for-mahax.md).
+To get a tutorial on how to vote to lock your MAHA, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
 
 ## How is MAHAX calculated?
 
@@ -36,7 +36,7 @@ The below table showcases an example of how much MAHAX a person receives given 1
 | `21.23 MAHAX`        | 1 month       |
 | `4.79 MAHAX`         | 1 week        |
 
-![A graph showcasing the MAHAX power (y-axis) across the number of days locked (x-axis) for 1000 MAHA](../../.gitbook/assets/image.png)
+![A graph showcasing the MAHAX power (y-axis) across the number of days locked (x-axis) for 1000 MAHA](<../.gitbook/assets/image (1).png>)
 
 ## Voting power that decays over time
 

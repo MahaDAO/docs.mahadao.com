@@ -11,7 +11,7 @@ description: >-
 
 There are many definitions and refinements around this particular approach - quadratic voting, and delegation methods that utilize a coin weighted vote. Within context, we're referencing the calculation of **`'1 coin = 1 vote'`** (excluding delegation).&#x20;
 
-![Coin Weighted Governance Model](<../../.gitbook/assets/image (12).png>)
+![Coin Weighted Governance Model](<../../.gitbook/assets/image (12) (1).png>)
 
 ### Theory&#x20;
 
@@ -42,7 +42,7 @@ We've identified the similarities between shareholder theory and coin-weighted v
 
 As Maha has a reducing inflation rate over ten years, a specific amount of this is allocated for liquidity pools within the ecosystem. Here it is ideal to implement a coin voting strategy that helps leverage buying demand; this in turn counters the inflation aspect of `MAHA`, and instead _produces more scarcity as voters are required to time-lock `MAHA` into MAHAX for voting power_.&#x20;
 
-![Distribution of Maha Emissions to Liquidity Pools](<../../.gitbook/assets/image (14).png>)
+![Distribution of Maha Emissions to Liquidity Pools](<../../.gitbook/assets/image (14) (1).png>)
 
 * <mark style="color:blue;">**Gratuities (AKA 'Bribes') Proposals**</mark>\
   In this use case, external projects bid for inclusion into the MahaDAO ecosystem. In effect, expanding the farming options for liquidity pools. As with emission votes, new pools are also eligible to receive `MAHA` emissions as rewards. For the same considerations above, it makes sense to again use a coin-weighted strategy to induce more scarcity and demand.&#x20;

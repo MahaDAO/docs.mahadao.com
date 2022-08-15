@@ -12,17 +12,17 @@ The model described in this section is designed takes inspiration from best prac
 * Allows for delegation to encourage high voter participation
 * Has a time-lock to ensure that malicious proposals can get rejected/voted in time
 
-![Security model of MahaDAO's governance](<../.gitbook/assets/image (16) (1).png>)
+![Security model of MahaDAO's governance](<../.gitbook/assets/image (16).png>)
 
 Besides just securing the protocol, governance participants also get additional benefits such as:
 
 * [Voting and earning from pool incentives](pool-incentives/)
 * [Earning fees from the protocol](earning-fees.md)
-* [Boosting their farming rewards](pool-incentives/boosting-pool-incentives.md)
+* [Boosting their farming rewards](boosting-staking-rewards.md)
 
 MahaDAO's governance has various components to it, each of it briefly explained below.
 
-* **MAHA NFT Locker**: Locks MAHA to create NFTs with voting power based on how much and long the MAHA tokens were locked for. (Read: [Locking Maha](locking-mechanism/))
+* **MAHA NFT Locker**: Locks MAHA to create NFTs with voting power based on how much and long the MAHA tokens were locked for. (Read: [Locking Maha](locking-mechanism.md))
 * **NFT Staker:** A staking contract that stakes a MAHA NFT to be used for various aspects of the governance.
 * **Governance Portal:** A web portal that allows users to create and vote on proposals that change various aspects of the DAO. (Read: [Voting Portal](voting-portal.md))
 * **Timelocks**: A smart-contract that puts all transactions into a queue before they are committed onto the blockchain.
