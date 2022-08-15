@@ -14,6 +14,7 @@
   * [C1 - Coin Voting](governance/proposal-classifications/c1-coin-voting.md)
   * [C2 - Delegation](governance/proposal-classifications/c2-delegation.md)
   * [C3 - Consensus Hybrid](governance/proposal-classifications/c3-consensus-hybrid.md)
+* [Creating/Voting on Proposals](governance/creating-voting-on-proposals.md)
 * [Locking MAHA for NFTs](governance/locking-mechanism.md)
 * [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
 * [Pool Incentives](governance/pool-incentives/README.md)

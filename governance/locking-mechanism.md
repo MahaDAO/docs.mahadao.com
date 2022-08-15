@@ -13,6 +13,8 @@ The goal with this kind of mechanism is to create a fair and decentralized distr
 
 In most cases smaller holders will tend to lock their tokens for longer periods of time to get the same amount of voting power as whales who will tend to larger amounts of tokens but for lesser periods of time. This allows participants to have their voice recognized better by simply locking their tokens for longer periods of time.
 
+![A screenshot of the lock screen that allows a user to choose how much MAHA they'd like to lock, for how long and if they'd like to stake their NFT as well.](../.gitbook/assets/image.png)
+
 To get a tutorial on how to vote to lock your MAHA, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
 
 ## How is MAHAX calculated?
