@@ -24,9 +24,16 @@ LP stakers will receive MAHA rewards for the time when the current price of the 
 
 ### Will I suffer from Impermanent Loss from Uniswap V3 staking?
 
+Uniswap V3 minimizes impermanent loss by allowing liquidity providers to choose the range at which they'd like to provide liquidity for. To understand more about this mechanism read [https://uniswap.org/blog/uniswap-v3](https://uniswap.org/blog/uniswap-v3)&#x20;
+
 ### If the price of the liquidity pair goes out of range, will I stop earning rewards?
+
+Yes. The staking contract takes into account the seconds at which your pool was driving the most liquidity.
 
 ### If I provide more liquidity do I earn more rewards?
 
+Yes. You should aim to provide not just the most liquidity but also make sure your position is within the range of the current price to earn the most amount of rewards.
+
 ### If I have a staked a MAHAX NFT, does my APR get boosted?
 
+Yes. Based on the amount of MAHAX you hold, your staking APR can get boosted by upto 5x. For details on how this is calculated, visit [Boosting Pool Incentives](../boosting-staking-rewards.md).
