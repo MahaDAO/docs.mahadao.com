@@ -22,7 +22,7 @@
   * [Understanding Bribes](governance/pool-incentives/understanding-bribes.md)
   * [Boosting Pool Incentives](governance/boosting-staking-rewards.md)
 * [Portal Tutorials](governance/governance-portal/README.md)
-  * [Staking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
+  * [Locking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Extending Lock for Already Locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
   * [How to Create a Bribe?](how-to-create-a-bribe.md)

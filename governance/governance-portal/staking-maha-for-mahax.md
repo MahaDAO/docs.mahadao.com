@@ -1,10 +1,8 @@
 ---
-description: Here we show step by step on how you can stake MAHA for MAHAX.
+description: Here we show step by step on how you can lock your MAHA for MAHAX.
 ---
 
-# Staking MAHA for MAHAX
-
-## Staking MAHA for MAHAX
+# Locking MAHA for MAHAX
 
 **Step 1:** Click on the locker tab. After which, the user needs to click on **Lock MAHA**. The details about the wallet and the previous `MAHA` locked if any by the user is displayed.
 

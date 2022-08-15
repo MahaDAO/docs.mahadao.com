@@ -6,8 +6,8 @@ description: This section talks about the locking mechanism behind the MAHAX NFT
 
 `MAHAX` is a representation of the voting power a user gets when they lock their `MAHA`. It is calculated using two metrics:
 
-* How long is the MAHA locked for?
-* How much MAHA is locked?
+* How long is the `MAHA` locked for?
+* How much `MAHA` is locked?
 
 The goal with this kind of mechanism is to create a fair and decentralized distribution for voting power that gives as much as power for the common man as compared to a whale.&#x20;
 
@@ -15,7 +15,7 @@ In most cases smaller holders will tend to lock their tokens for longer periods 
 
 ![A screenshot of the lock screen that allows a user to choose how much MAHA they'd like to lock, for how long and if they'd like to stake their NFT as well.](<../.gitbook/assets/image (4).png>)
 
-To get a tutorial on how to vote to lock your MAHA, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
+To get a tutorial on how to lock your `MAHA`, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
 
 ## How is MAHAX calculated?
 
@@ -59,6 +59,7 @@ Once a NFT is staked:
 * It cannot be moved to another wallet address and its voting power (`MAHAX` balance) is frozen.
 * It cannot also be traded on third-party market places such as [OpenSea](https://opensea.io/).&#x20;
 * It can be unstaked at any point in time.
+* It will start earning fees and can be used for governance, voting and boosting.
 
 Unstaking a NFT allows the NFTs removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which will start to decay over time.
 
@@ -66,20 +67,20 @@ To claim the underlying `MAHA` behind a NFT or to merge a NFT with another NFT, 
 
 ## Merging NFTs
 
-`MAHAX` NFTs can be merged into one another, allowing for voting power to get combined and a greater MAHAX balance.
+`MAHAX` NFTs can be merged into one another, allowing for voting power to get combined and a greater `MAHAX` balance.
 
 When a NFT is merged the following steps take place:
 
 * A check is run if both NFTs are staked or not. Merging only happens if both NFTs are unstaked.
 * The first NFT is burnt
-* The second NFT is updated with the combined underlying MAHA balances for both NFTs
+* The second NFT is updated with the combined underlying `MAHA` balances for both NFTs
 * The second NFT is updated with a lock duration that is longer of the two NFTs
 
 Merging NFTs creates scarcity of NFT pieces and more powerful NFTs that have more voting power than before.
 
 ## Governance
 
-The MAHA NFT locker has various parameters that can be controlled by Governance:
+The `MAHAX NFT` locker has various parameters that can be controlled by Governance:
 
-* **The minimum amount of MAHA required for a lock:** This is currently set at 99 MAHAX (or rather 100 MAHA locked for 4 years). Ideally if the cost of minting a NFT becomes higher, lowering the minimum mint floor will allow for more NFTs to be minted as the cost of minting a piece becomes lower.
+* **The minimum amount of MAHA required for a lock:** This is currently set at `99 MAHAX` (or rather approximately `100 MAHA` locked for 4 years). If the cost of minting a NFT becomes higher, then ideally lowering the minimum mint floor will allow for more NFTs to be minted as the cost of minting a piece becomes lower.
 * **NFT minting privileges:** Currently only used for the migration of NTFs from the polygon, this function allows addresses/contracts to mint NFTs at will. Only to be used in rare scenarios.
