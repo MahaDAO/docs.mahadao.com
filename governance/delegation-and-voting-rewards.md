@@ -39,3 +39,5 @@ This example explains a little more in detail. Assume Alice delegates her voting
 | Alice         | `750  MAHAX` | `0    MAHAX`                  | `75  MAHA`                            |
 | Bob           | `250  MAHAX` | `1000 MAHAX`                  | `25  MAHA`                            |
 | Everyone Else | `9000 MAHAX` | `9000 MAHAX`                  | `900 MAHA`                            |
+
+_Voting Rewards are currently calculated off-chain using_ [_merkle proofs_](https://www.webopedia.com/definitions/merkle-proof/)_. Future implements will execute on-chain in a completely decentralized manner._&#x20;
