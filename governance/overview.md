@@ -26,6 +26,6 @@ MahaDAO's governance has various components to it, each of it briefly explained 
 * **NFT Staker:** A staking contract that stakes a MAHA NFT to be used for various aspects of the governance.
 * **Governance Portal:** A web portal that allows users to create and vote on proposals that change various aspects of the DAO. (Read: [Voting Portal](broken-reference))
 * **Timelocks**: A smart-contract that puts all transactions into a queue before they are committed onto the blockchain.
-* **Emergency DAO**: A community-owned multi-sig wallet that has the ability to veto any malicious votes.
+* **Emergency DAO**: A community-owned multi-sig wallet that has the ability to veto any malicious votes. (Read [Emergency DAO](creating-voting-on-proposals.md#emergency-dao))
 * **Pool Voter:** A voting contract that votes and determines how much MAHA goes to what gauge.
 * **Pool Gauge:** A contract that stakes liquidity pool tokens and determines how much MAHA rewards should be given out.

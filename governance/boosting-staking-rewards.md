@@ -22,5 +22,3 @@ If no liquidity stakers lock any MAHA (or simply don’t have any), the inflatio
 However, if a user [locks enough MAHA](locking-mechanism.md), they are able to boost their MAHA rewards by a factor of 5 (reducing it slightly for all users who are not doing that).
 
 Since [voting power decreases with time](broken-reference), it is favorable for users to apply a boost and do no further actions until they lock more tokens. However, once the lock expires, everyone can “kick” the user by creating a checkpoint for that user and, essentially, resetting the user to no boost if they have no voting power at that point already.
-
-## FAQs
