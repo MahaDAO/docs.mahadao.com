@@ -40,25 +40,27 @@ The below table showcases an example of how much MAHAX a person receives given 1
 
 ## Voting power that decays over time
 
-One of the most important properties of a true democracy is the right of members to secede from the group.
+One of the most important properties of a true democracy is the right of members to secede from the group. Transitioning of power is an important aspect of any future footed governance. Current participants need to give space for newer participants to come forward.&#x20;
 
-Transitioning of power is an important aspect of any future footed governance. Current participants need to give space for newer participants to come forward.&#x20;
+First-mover advantages within the MAHA ecosystem can often leads to governance structures that are centralized to early adopters which makes it harder for power to successful secede.&#x20;
 
-First-mover advantages which often leads to governance structures that are centralized to early adopters makes it harder for power to successful secede. Which is why having the voting power decay over time slowly is an important aspect in creating a future-footed governance.
+Which is why having the voting power decay over time slowly is an important aspect in creating a future-footed governance.
 
 Unless staked, every `MAHAX` NFT has its voting power decay over time if it is not participating in active governance. This creates an incentive for holders to not just stake their NFTs but also have voting power that secedes if unstaked.
 
+The end goal is to have a governance model that is fully decentralized, evenly spread out and allows room for new participants to join in.
+
 ## Staking NFTs
 
-`MAHAX` NFTs unless staked have no important or functionality within the governance platform. These include benefits like earning fees, exercising voting power and providing legitimacy to a group of individuals.
+`MAHAX` NFTs unless staked have no importance or functionality within the governance platform. These include benefits like earning fees, exercising voting power, providing legitimacy to a group of individuals and so on.
 
 Once a NFT is staked:
 
 * It cannot be moved to another wallet address and its voting power (`MAHAX` balance) is frozen.
 * It cannot also be traded on third-party market places such as [OpenSea](https://opensea.io/).&#x20;
-* It can however be unstaked at any point in time.
+* It can be unstaked at any point in time.
 
-Unstaking a NFT allows the NFTs removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which starts to decay over time.
+Unstaking a NFT allows the NFTs removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which will start to decay over time.
 
 To claim the underlying `MAHA` behind a NFT or to merge a NFT with another NFT, they both need to be unstaked.
 
