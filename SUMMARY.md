@@ -9,7 +9,7 @@
 
 ## Governance
 
-* [Overview](governance/overview.md)
+* [Governance Overview](governance/governance-overview.md)
 * [Proposal Classifications](governance/proposal-classifications/README.md)
   * [C1 - Coin Voting](governance/proposal-classifications/c1-coin-voting.md)
   * [C2 - Delegation](governance/proposal-classifications/c2-delegation.md)

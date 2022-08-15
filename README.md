@@ -19,8 +19,8 @@ In the next few sections of the documentation, you will find many more about the
 [overview.md](the-maha-token/overview.md)
 {% endcontent-ref %}
 
-{% content-ref url="governance/overview.md" %}
-[overview.md](governance/overview.md)
+{% content-ref url="governance/governance-overview.md" %}
+[governance-overview.md](governance/governance-overview.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
