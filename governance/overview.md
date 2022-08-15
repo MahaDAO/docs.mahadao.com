@@ -24,7 +24,7 @@ MahaDAO's governance has various components to it, each of it briefly explained 
 
 * **MAHA NFT Locker**: Locks MAHA to create NFTs with voting power based on how much and long the MAHA tokens were locked for. (Read: [Locking Maha](locking-mechanism.md))
 * **NFT Staker:** A staking contract that stakes a MAHA NFT to be used for various aspects of the governance.
-* **Governance Portal:** A web portal that allows users to create and vote on proposals that change various aspects of the DAO. (Read: [Voting Portal](voting-portal.md))
+* **Governance Portal:** A web portal that allows users to create and vote on proposals that change various aspects of the DAO. (Read: [Voting Portal](broken-reference))
 * **Timelocks**: A smart-contract that puts all transactions into a queue before they are committed onto the blockchain.
 * **Emergency DAO**: A community-owned multi-sig wallet that has the ability to veto any malicious votes.
 * **Pool Voter:** A voting contract that votes and determines how much MAHA goes to what gauge.

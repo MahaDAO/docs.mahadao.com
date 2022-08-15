@@ -16,7 +16,6 @@
   * [C3 - Consensus Hybrid](governance/proposal-classifications/c3-consensus-hybrid.md)
 * [Locking MAHA for NFTs](governance/locking-mechanism.md)
 * [Delegation & Voting Rewards](governance/delegation-and-voting-rewards.md)
-* [Voting Portal](governance/voting-portal.md)
 * [Pool Incentives](governance/pool-incentives/README.md)
   * [Uniswap V3 Staking](governance/pool-incentives/uniswap-v3-staking.md)
   * [Understanding Bribes](governance/pool-incentives/understanding-bribes.md)
