@@ -24,7 +24,7 @@ Delegation can work at a single level only. That is if `Alice` delegates voting 
 | Bob     | `300 MAHAX`            | `600 MAHAX`            | `300 MAHAX`              |
 | Charlie | `300 MAHAX`            | `300 MAHAX`            | `600 MAHAX`              |
 
-To achieve multiple levels of delegation we recommend building off-chain or periphery smart-contracts that interface with the current implementation.
+To achieve multiple levels of delegation we recommend building off-chain tools or periphery smart-contracts that interface with the current implementation.
 
 ## Voting Rewards
 

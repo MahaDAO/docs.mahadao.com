@@ -50,9 +50,13 @@ Unless staked, every `MAHAX` NFT has its voting power decay over time if it is n
 
 `MAHAX` NFTs unless staked have no important or functionality within the governance platform. These include benefits like earning fees, exercising voting power and providing legitimacy to a group of individuals.
 
-Once a NFT is staked, it cannot be moved to another wallet address and its voting power (`MAHAX` balance) is frozen. It cannot also be traded on third-party market places such as OpenSea. It can however be unstaked at any point in time.
+Once a NFT is staked:
 
-Unstaking a NFT allows the NFTs removes all the restrictions above, but at the same time unfreezes the voting power (MAHAX balance) which starts to decay over time.
+* It cannot be moved to another wallet address and its voting power (`MAHAX` balance) is frozen.
+* It cannot also be traded on third-party market places such as [OpenSea](https://opensea.io/).&#x20;
+* It can however be unstaked at any point in time.
+
+Unstaking a NFT allows the NFTs removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which starts to decay over time.
 
 To claim the underlying `MAHA` behind a NFT or to merge a NFT with another NFT, they both need to be unstaked.
 
@@ -68,3 +72,10 @@ When a NFT is merged the following steps take place:
 * The second NFT is updated with a lock duration that is longer of the two NFTs
 
 Merging NFTs creates scarcity of NFT pieces and more powerful NFTs that have more voting power than before.
+
+## Governance
+
+The MAHA NFT locker has various parameters that can be controlled by Governance:
+
+* **The minimum amount of MAHA required for a lock:** This is currently set at 99 MAHAX (or rather 100 MAHA locked for 4 years). Ideally if the cost of minting a NFT becomes higher, lowering the minimum mint floor will allow for more NFTs to be minted as the cost of minting a piece becomes lower.
+* **NFT minting privileges:** Currently only used for the migration of NTFs from the polygon, this function allows addresses/contracts to mint NFTs at will. Only to be used in rare scenarios.
