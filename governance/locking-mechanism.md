@@ -61,7 +61,7 @@ Once a NFT is staked:
 * It can be unstaked at any point in time.
 * It will start earning fees and can be used for governance, voting and boosting.
 
-Unstaking a NFT allows the NFTs removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which will start to decay over time.
+Unstaking a NFT removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which will start to decay over time.
 
 To claim the underlying `MAHA` behind a NFT or to merge a NFT with another NFT, they both need to be unstaked.
 
