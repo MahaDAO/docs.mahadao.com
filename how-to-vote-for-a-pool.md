@@ -27,7 +27,7 @@ _**NOTE:**_&#x20;
 
 **Step 5:** The **Cast Vote** button will be highlighted for a user only when the voting power is less than 100 percent. If it is anything more than the allowed percentage the user will not be able to vote.
 
-![ When the voting power selected by you is more than 100 percent you will be warned about the same and will not be allowed to cast your vote. ](.gitbook/assets/3.jpg)
+![ When the voting power selected by you is more than 100 percent you will be warned about the same and will not be allowed to cast your vote. ](<.gitbook/assets/3 (1).jpg>)
 
 
 

@@ -8,7 +8,7 @@ To start vesting you must have some `MAHA` locked in. For this purpose, you need
 
 **Step 2:** If you are a first-time user; you need to click on **Create a lock**.
 
-![Create a lock requires you to input an amount and select a time frame for the amount to be locked.](<.gitbook/assets/1 (2).jpg>)
+![Create a lock requires you to input an amount and select a time frame for the amount to be locked.](<.gitbook/assets/1 (2) (1).jpg>)
 
 
 
@@ -27,7 +27,7 @@ _**NOTE**: The time frame cannot exceed more than four years._&#x20;
 
 **Step 7:** Once you get a transaction approval regarding the `MAHA` being locked you have successfully opened a locker.&#x20;
 
-![The details about each locker opened by you is displayed on the home page along with the NFT ID's assigned to each locker. ](<.gitbook/assets/3 (1) (1).jpg>)
+![The details about each locker opened by you is displayed on the home page along with the NFT ID's assigned to each locker. ](<.gitbook/assets/3 (1) (1) (1).jpg>)
 
 {% hint style="info" %}
 If you lock more than 2500 MAHA they are eligible to create a DAO proposal. When you lock MAHA you get a certain amount of voting power that can be later used to vote for proposals.

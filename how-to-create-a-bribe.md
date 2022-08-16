@@ -18,7 +18,7 @@ _**NOTE:** The concept of the bribe works by the user depositing an amount large
 
 **Step 4:** Once you have clicked on **Deposit,** you need to input an amount more than the total bribe amount and click on **Deposit**.&#x20;
 
-![The user needs to input an amount that they want to input as a bribe.](<.gitbook/assets/3 (1).jpg>)
+![The user needs to input an amount that they want to input as a bribe.](<.gitbook/assets/3 (1) (1).jpg>)
 
 **Step 5:** Once you click on the **Deposit** and get a confirmation regarding the transaction, then the user has successfully completed the bribe process.&#x20;
 
