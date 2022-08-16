@@ -42,11 +42,11 @@ The below table showcases an example of how much MAHAX a person receives given 1
 
 One of the most important properties of a true democracy is the right of members to secede from the group. Transitioning of power is an important aspect of any future footed governance. Current participants need to give space for newer participants to come forward.&#x20;
 
-First-mover advantages within the MAHA ecosystem can often leads to governance structures that are centralized to early adopters which makes it harder for power to successful secede.&#x20;
+First-mover advantages within the `MAHA` ecosystem can lead to governance structures that are centralized to early adopters which makes it harder for power to successful secede.&#x20;
 
-Which is why having the voting power decay over time slowly is an important aspect in creating a future-footed governance.
+Which is why having the voting power decay slowly over time is an important aspect in creating a future-footed governance.
 
-Unless staked, every `MAHAX` NFT has its voting power decay over time if it is not participating in active governance. This creates an incentive for holders to not just stake their NFTs but also have voting power that secedes if unstaked.
+Unless staked, every `MAHAX` NFT has its voting power, decay over time if it is not participating in active governance. This creates an incentive for holders to not just stake their NFTs but also have voting power that secedes if unstaked.
 
 The end goal is to have a governance model that is fully decentralized, evenly spread out and allows room for new participants to join in.
 
