@@ -6,11 +6,11 @@ description: >-
 
 # Delegation & Voting Rewards
 
-Delegation is an important attribute to encourage a high voter participation. Delegation means that a voter (who ideally is inactive) transfers his/her voting power to another (more active) voter without losing the ownership of the NFT where the initial voting power comes from. Delegation also allows voters to revoke the voting power that they've delegated at any point in time.&#x20;
+Delegation is an important attribute in encouraging high voter participation. Delegation means that a voter (who ideally is inactive) transfers their voting power to another (more active) voter without losing the ownership of the NFT where the initial voting power comes from. Delegation also allows voters to revoke the voting power that they've delegated at any point in time.&#x20;
 
 It provides a safe and easy way for voters to lend their voting power to voters that share their best interests or is more active.
 
-_This in a way is similar to how an election is run in modern day democracies. Where voters vote for politicians who will take their votes to best represent their interests._
+_This is similar to how an election is run in modern-day democracies, where voters vote for politicians who will take their votes to represent their interests best._
 
 Delegation is built directly into the NFTs and is possible only if a user [stakes his MAHAX NFT](locking-mechanism.md#staking-nfts).&#x20;
 
@@ -24,7 +24,7 @@ Delegation can work at a single level only. That is, if `Alice` delegates voting
 | Bob     | `300 MAHAX`            | `600 MAHAX`            | `300 MAHAX`              |
 | Charlie | `300 MAHAX`            | `300 MAHAX`            | `600 MAHAX`              |
 
-To achieve multiple levels of delegation we recommend building off-chain tools or periphery smart-contracts that interface with the current implementation.
+To achieve multiple levels of delegation, we recommend building off-chain tools or periphery smart-contracts that interface with the current implementation.
 
 ## Voting Rewards
 

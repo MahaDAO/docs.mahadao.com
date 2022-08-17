@@ -9,4 +9,4 @@
 ![You get to select the time frame according to your preference. ](../../.gitbook/assets/8.jpg)
 
 \
-_**NOTE**: At any given point in time the lock period can be extended for a maximum period of four years._
+_**NOTE**: At any given point in time, the lock period can be extended for a maximum period of four years._

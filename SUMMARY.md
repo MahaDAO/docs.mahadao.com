@@ -35,3 +35,8 @@
 * [Products Overview](products/products-overview.md)
 * [ARTH Valuecoin](https://docs.arthcoin.com/)
 * [Voting Portal](https://www.tally.xyz/governance/eip155:1:0x50332193e7ef92aD1ED13cE826F87730aeAF4Fa9)
+
+## NFT Documentation
+
+* [Terms of Service](nft-documentation/terms-of-service.md)
+* [Rarity Model](nft-documentation/rarity-model.md)

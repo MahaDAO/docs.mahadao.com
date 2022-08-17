@@ -4,7 +4,7 @@ description: Allows for the creation of incentives to bribe voters.
 
 # How to Create a Bribe?
 
-The bribers are trying to influence the voters to decide in favor of their Liquidity Pool so that it gets a higher allocation of the rewards. In exchange, the voters are provided with another token.&#x20;
+Bribers try to influence the voters to decide in favor of their Liquidity Pool so that it gets a higher allocation of the rewards. In exchange, the voters are provided with another token.&#x20;
 
 **Step 1:** You need to visit [https://gov.mahadao.com/](https://gov.mahadao.com/) and navigate to the 'bribes' section on the left tab.&#x20;
 
@@ -12,7 +12,7 @@ The bribers are trying to influence the voters to decide in favor of their Liqui
 
 ![The user needs to select the pool they want to invest a bribe in. ](.gitbook/assets/1.jpg)
 
-**Step 3:** Once selected the pool you want to make the bribe for, you need to click on the **Deposit** button.&#x20;
+**Step 3:** Once you select the pool that you want to make the bribe for, you need to click on the **Deposit** button.&#x20;
 
 _**NOTE:** The concept of the bribe works by the user depositing an amount larger than the 'Total Bribe' amount for the pool selected. Suppose, for example, the total bribe amount of a pool is 783 `MAHA`. Then the next user who needs to bribe the voters for that pool needs to invest any amount more than 783 `MAHA`._&#x20;
 

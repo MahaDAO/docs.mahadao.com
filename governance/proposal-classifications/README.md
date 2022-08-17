@@ -9,8 +9,8 @@ To understand the various kinds of proposals that can get executed into the DAO,
 The checklist below is used to identify the appropriate classification and governance response;&#x20;
 
 * **CLASSIFICATION 1 - (C1):** The Proposal may impact any or all of the following:
-  * Nominated distribution of "Maha Emissions" via gauge voting
-  * Inclusion/removal of "Maha Emission Gauges" (Including Bribes)\
+  * Nominated distribution of "MAHA Emissions" via gauge voting
+  * Inclusion/removal of "MAHA Emission Gauges" (Including Bribes)\
 
 * **CLASSIFICATION 2 - (C2):** The Proposal may impact any or all of the following;&#x20;
   * Security and Functionality of Protocol/Ecosystem Contracts

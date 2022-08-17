@@ -6,7 +6,7 @@ description: >-
 
 # Boosting Pool Incentives
 
-In order to incentivize users to participate in governance, and additionally create stickiness for liquidity, we implement the following mechanism.&#x20;
+In order to incentivize users to participate in governance and additionally create stickiness for liquidity, we implement the following mechanism.&#x20;
 
 A user’s balance, counted in the gauge, gets boosted by users locking MAHA tokens in the [NFT Locker](locking-mechanism.md), depending on their MAHAX voting power.&#x20;
 

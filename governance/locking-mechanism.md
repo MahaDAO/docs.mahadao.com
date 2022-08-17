@@ -42,45 +42,45 @@ The below table showcases an example of how much MAHAX a person receives given 1
 
 One of the most important properties of a true democracy is the right of members to secede from the group. Transitioning of power is an important aspect of any future footed governance. Current participants need to give space for newer participants to come forward.&#x20;
 
-First-mover advantages within the `MAHA` ecosystem can lead to governance structures that are centralized to early adopters which makes it harder for power to successful secede.&#x20;
+First-mover advantages within the `MAHA` ecosystem can lead to governance structures centralized to early adopters, making it harder for power to secede successfully.&#x20;
 
-Which is why having the voting power decay slowly over time is an important aspect in creating a future-footed governance.
+This is why having the voting power decay slowly over time is important in creating future-footed governance.
 
 Unless staked, every `MAHAX` NFT has its voting power, decay over time if it is not participating in active governance. This creates an incentive for holders to not just stake their NFTs but also have voting power that secedes if unstaked.
 
-The end goal is to have a governance model that is fully decentralized, evenly spread out and allows room for new participants to join in.
+The end goal is to have a fully decentralized governance model that is evenly spread out and allows room for new participants to join in.
 
 ## Staking NFTs
 
-`MAHAX` NFTs unless staked have no importance or functionality within the governance platform. These include benefits like earning fees, exercising voting power, providing legitimacy to a group of individuals and so on.
+`MAHAX` NFTs unless staked, have no importance or functionality within the governance platform. These include benefits like earning fees, exercising voting power, providing legitimacy to a group of individuals, and so on.
 
-Once a NFT is staked:
+Once an NFT is staked:
 
-* It cannot be moved to another wallet address and its voting power (`MAHAX` balance) is frozen.
-* It cannot also be traded on third-party market places such as [OpenSea](https://opensea.io/).&#x20;
-* It can be unstaked at any point in time.
-* It will start earning fees and can be used for governance, voting and boosting.
+* It cannot be moved to another wallet address, and its voting power (`MAHAX` balance) is frozen
+* It cannot also be traded on third-party marketplaces such as [OpenSea](https://opensea.io/)
+* It can be unstaked at any point in time
+* It will start earning fees and can be used for governance, voting, and boosting
 
-Unstaking a NFT removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which will start to decay over time.
+Unstaking an NFT removes all the restrictions above, but at the same time unfreezes the voting power (`MAHAX` balance) which will start to decay over time.
 
-To claim the underlying `MAHA` behind a NFT or to merge a NFT with another NFT, they both need to be unstaked.
+To claim the underlying `MAHA` behind an NFT or to merge an NFT with another NFT, they both need to be unstaked.
 
 ## Merging NFTs
 
 `MAHAX` NFTs can be merged into one another, allowing for voting power to get combined and a greater `MAHAX` balance.
 
-When a NFT is merged the following steps take place:
+When an NFT has merged, the following steps take place:
 
-* A check is run if both NFTs are staked or not. Merging only happens if both NFTs are unstaked.
+* A check is run if both NFTs are staked or not. Merging happens only if both NFTs are unstaked
 * The first NFT is burnt
 * The second NFT is updated with the combined underlying `MAHA` balances for both NFTs
-* The second NFT is updated with a lock duration that is longer of the two NFTs
+* The second NFT is updated with a lock duration that is longer than the two NFTs
 
-Merging NFTs creates scarcity of NFT pieces and more powerful NFTs that have more voting power than before.
+Merging NFTs creates a scarcity of NFT pieces and more powerful NFTs with more voting power than before.
 
 ## Governance
 
 The `MAHAX NFT` locker has various parameters that can be controlled by Governance:
 
-* **The minimum amount of MAHA required for a lock:** This is currently set at `99 MAHAX` (or rather approximately `100 MAHA` locked for 4 years). If the cost of minting a NFT becomes higher, then ideally lowering the minimum mint floor will allow for more NFTs to be minted as the cost of minting a piece becomes lower.
-* **NFT minting privileges:** Currently only used for the migration of NTFs from the polygon, this function allows addresses/contracts to mint NFTs at will. Only to be used in rare scenarios.
+* **The minimum amount of MAHA required for a lock:** This is currently set at `99 MAHAX` (or rather approximately `100 MAHA` locked for 4 years). If the cost of minting an NFT becomes higher, then ideally, lowering the minimum mint floor will allow for more NFTs to be minted as the cost of minting a piece becomes lower.
+* **NFT minting privileges:** Currently only used for the migration of NFTs from the polygon, this function allows addresses/contracts to mint NFTs at will. Only to be used in rare scenarios.
