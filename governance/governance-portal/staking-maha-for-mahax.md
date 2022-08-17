@@ -14,10 +14,10 @@ description: Here we show step by step on how you can lock your MAHA for MAHAX.
 
 **Step 4:** In case a user wants to select a different time frame, they can accordingly make the changes. The time frame can vary from one week to 4 years, and the user can customize the time frame according to their requirements.
 
-**Step 5:** This final submission will confirm the lock on the number of tokens the user has locked and the changes will be reflected on the following home page.\
+**Step 5:** This final submission will confirm the lock on the number of tokens the user has locked and the changes will be reflected on the following home page.
 
+![You will have to lock the MAHA after you have approved the amount of MAHA you want to lock along with the time period.](<../../.gitbook/assets/4 (2).jpg>)
 
-![Confirm Lock](../../.gitbook/assets/lock-maha-confirmation.png)
+![The final confirmation before the lock is created. ](../../.gitbook/assets/5.jpg)
 
-![Updated locked MAHA ](../../.gitbook/assets/locked-maha.png)
-
+![The user gets all the details about the NFT that they have locked on the home page. ](../../.gitbook/assets/6.jpg)
