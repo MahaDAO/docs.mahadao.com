@@ -14,7 +14,7 @@ Every proposal before passed onto the governance portal should be discussed with
 
 Any proposal passed onto the governance portal without having been discussed at length by the community at first could have malicious intent and should get voted against by DAO members.&#x20;
 
-![The Tally interface where governance proposals are executed](../.gitbook/assets/image.png)
+![The Tally interface where governance proposals are executed](<../.gitbook/assets/image (19).png>)
 
 ## Emergency DAO
 

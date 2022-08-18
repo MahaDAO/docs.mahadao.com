@@ -13,7 +13,7 @@ The goal with this kind of mechanism is to create a fair and decentralized distr
 
 In most cases smaller holders will tend to lock their tokens for longer periods of time to get the same amount of voting power as whales who will tend to larger amounts of tokens but for lesser periods of time. This allows participants to have their voice recognized better by simply locking their tokens for longer periods of time.
 
-![A screenshot of the lock screen that allows a user to choose how much MAHA they'd like to lock, for how long and if they'd like to stake their NFT as well.](<../.gitbook/assets/image (4).png>)
+![A screenshot of the lock screen that allows a user to choose how much MAHA they'd like to lock, for how long and if they'd like to stake their NFT as well.](<../.gitbook/assets/image (4) (2).png>)
 
 To get a tutorial on how to lock your `MAHA`, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
 
@@ -36,7 +36,7 @@ The below table showcases an example of how much MAHAX a person receives given 1
 | `21.23 MAHAX`        | 1 month       |
 | `4.79 MAHAX`         | 1 week        |
 
-![A graph showcasing the MAHAX power (y-axis) across the number of days locked (x-axis) for 1000 MAHA](<../.gitbook/assets/image (1) (1).png>)
+![A graph showcasing the MAHAX power (y-axis) across the number of days locked (x-axis) for 1000 MAHA](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ## Voting power that decays over time
 
@@ -52,7 +52,9 @@ The end goal is to have a fully decentralized governance model that is evenly sp
 
 ## Staking NFTs
 
-`MAHAX` NFTs unless staked, have no importance or functionality within the governance platform. These include benefits like earning fees, exercising voting power, providing legitimacy to a group of individuals, and so on.
+![](<../.gitbook/assets/image (1).png>)
+
+`MAHAX` NFTs unless staked, have no functionality within the governance platform. These include benefits like earning fees, exercising voting power, providing legitimacy to a group of individuals, and so on.
 
 Once an NFT is staked:
 
@@ -65,7 +67,13 @@ Unstaking an NFT removes all the restrictions above, but at the same time unfree
 
 To claim the underlying `MAHA` behind an NFT or to merge an NFT with another NFT, they both need to be unstaked.
 
+{% hint style="info" %}
+When a MAHAX NFT lock is created, the user gets an option to decide if he/she wishes to also stake the NFT in the same transaction. By default this is enabled.
+{% endhint %}
+
 ## Merging NFTs
+
+![The merge screen that selects the NFTs that a user is trying to merge](<../.gitbook/assets/image (4).png>)
 
 `MAHAX` NFTs can be merged into one another, allowing for voting power to get combined and a greater `MAHAX` balance.
 

@@ -36,4 +36,4 @@ Yes. You should ideally aim to provide not just the most liquidity but also make
 
 ### If I have a staked a MAHAX NFT, does my APR get boosted?
 
-Yes. Based on the amount of `MAHAX` you hold, your staking APR can get boosted by up to 5x. For details on how this is calculated, visit [Boosting Pool Incentives](../boosting-staking-rewards.md).
+Yes. Based on the amount of `MAHAX` you hold, your staking APR can get boosted by up to 5x. For details on how this is calculated, visit [Boosting Pool Incentives](boosting-pools.md).

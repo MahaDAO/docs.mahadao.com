@@ -29,7 +29,7 @@ _The Proposal may impact any or all of the following_
 
 `C.2 Proposal types may utilize delegation, without requirement of a consensus pass as outlined in the follow chapter; "C.3 - Consensus Hybrid".`
 
-![MahaDAO Delegate System](<../../.gitbook/assets/image (2).png>)
+![MahaDAO Delegate System](<../../.gitbook/assets/image (2) (2).png>)
 
 In this classification, we're primarily focused on the security of the protocol, and the protection of our community. This demands an emphasis on being able to identify not only malicious risks but also unintended consequences. Ideally, we encourage both technical and strategic specialists to consider delegate nomination.&#x20;
 

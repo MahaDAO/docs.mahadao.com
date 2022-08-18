@@ -16,9 +16,9 @@ The model described in this section is designed takes inspiration from best prac
 
 Besides just securing the protocol, governance participants also get additional benefits such as:
 
-* [Voting and earning from pool incentives](pool-incentives/)
+* [Voting and earning from pool incentives](pool-voting/)
 * [Earning fees from the protocol](earning-fees.md)
-* [Boosting their farming rewards](boosting-staking-rewards.md)
+* [Boosting their farming rewards](pool-voting/boosting-pools.md)
 
 MahaDAO's governance has various components, each of them briefly explained below.
 
