@@ -6,9 +6,7 @@
 
 **Step 3:** You can withdraw your `MAHA` by clicking on the **Withdraw** button.&#x20;
 
-
-
 _**NOTE**: You will get the withdrawal option only once the lock period is over._&#x20;
 
-![Withdraw button](../../.gitbook/assets/Dekstop.png)
+![](../../.gitbook/assets/7.jpg)
 
