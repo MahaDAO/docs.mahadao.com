@@ -27,7 +27,6 @@
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
   * [How to Create a Bribe?](how-to-create-a-bribe.md)
   * [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
-  * [How to Create a Lock?](how-to-create-a-lock.md)
   * [Unstake NFT](governance/governance-portal/unstake-nft.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
 
