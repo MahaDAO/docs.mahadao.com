@@ -7,7 +7,7 @@ description: >-
 
 # Introduction
 
-MahaDAO is a community-powered, decentralized organization on a mission to empower billions with a stable economy through the world’s first valuecoin,[`ARTH`](https://docs.arthcoin.com/).
+MahaDAO is a community-powered, decentralized organization on a mission to empower billions with a stable economy through the world’s first valuecoin, [`ARTH`](https://arth.mahadao.com/#/loans/all-loans).
 
 To do this, MahaDAO uses two tokens to achieve this vision - the governance token [MAHA](the-maha-token/overview.md), and the valuecoin [`ARTH`](https://docs.arthcoin.com/).&#x20;
 
