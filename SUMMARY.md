@@ -25,7 +25,7 @@
   * [Locking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Extending Lock for Already Locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
   * [Withdrawing MAHAX for MAHA](governance/governance-portal/withdrawing-mahax-for-maha.md)
-  * [How to Create a Bribe?](how-to-create-a-bribe.md)
+  * [How to vote for your pool with a pool incentive?](governance/governance-portal/how-to-vote-for-your-pool-with-a-pool-incentive.md)
   * [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
   * [Unstaking a MAHAX NFT](governance/governance-portal/unstaking-a-mahax-nft.md)
 * [Earning Fees & Rewards](governance/earning-fees.md)
