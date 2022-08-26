@@ -21,6 +21,7 @@
   * [Uniswap V3 Staking](governance/pool-voting/uniswap-v3-staking.md)
   * [Pool Incentives](governance/pool-voting/pool-incentives.md)
   * [Boosting Pools](governance/pool-voting/boosting-pools.md)
+* [Earning Fees & Rewards](governance/earning-fees.md)
 * [Portal Tutorials](governance/governance-portal/README.md)
   * [Locking MAHA for MAHAX](governance/governance-portal/staking-maha-for-mahax.md)
   * [Extending Lock for Already Locked MAHAX](governance/governance-portal/extending-lock-for-already-locked-mahax.md)
@@ -28,10 +29,11 @@
   * [How to vote for your pool with a pool incentive?](governance/governance-portal/how-to-vote-for-your-pool-with-a-pool-incentive.md)
   * [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
   * [Unstaking a MAHAX NFT](governance/governance-portal/unstaking-a-mahax-nft.md)
-* [Earning Fees & Rewards](governance/earning-fees.md)
+* [Deployed Address](governance/deployed-address.md)
 
 ## Products & Services <a href="#products" id="products"></a>
 
 * [Products Overview](products/products-overview.md)
 * [ARTH Valuecoin](https://docs.arthcoin.com/)
-* [Voting Portal](https://www.tally.xyz/governance/eip155:1:0x50332193e7ef92aD1ED13cE826F87730aeAF4Fa9)
+* [Governance Portal](https://gov.mahadao.com/)
+* [Voting Portal](https://www.tally.xyz/governance/eip155:1:0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5)

@@ -4,6 +4,10 @@ description: This section talks about the locking mechanism behind the MAHAX NFT
 
 # Locking MAHA for NFTs
 
+{% hint style="info" %}
+Locking `MAHA` is handled by the locker contract which is currently deployed at [0xbdd8f4daf71c2cb16cce7e54bb81ef3cfcf5aacb](https://etherscan.io/address/0xbdd8f4daf71c2cb16cce7e54bb81ef3cfcf5aacb)
+{% endhint %}
+
 `MAHAX` is a representation of the voting power a user gets when they lock their `MAHA`. It is calculated using two metrics:
 
 * How long is the `MAHA` locked for?
@@ -25,7 +29,7 @@ $$
 Amount_{mahax} = (Amount_{maha} * days) / (365 * 4)
 $$
 
-The below table showcases an example of how much MAHAX a person receives given 1000 MAHA that is locked across various intervals of time. However note that a user can choose any interval between 2 weeks to 4 years.
+The below table showcases an example of how much `MAHAX` a person receives given `1000 MAHA` that is locked across various intervals of time. However note that a user can choose any interval between `2 weeks` to `4 years`.
 
 | For 1000 MAHA locked | Lock Duration |
 | -------------------- | ------------- |
@@ -52,7 +56,11 @@ The end goal is to have a fully decentralized governance model that is evenly sp
 
 ## Staking NFTs
 
-![](<../.gitbook/assets/image (1).png>)
+{% hint style="info" %}
+Staking MAHAX NFTs is handled by the [Staker](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/MAHAXStaker.sol) Contract which is currently deployed at [0x608917f8392634428ec71c6766f3ec3f5cc8f421](https://etherscan.io/address/0x608917f8392634428ec71c6766f3ec3f5cc8f421)
+{% endhint %}
+
+![](<../.gitbook/assets/image (1) (3).png>)
 
 `MAHAX` NFTs unless staked, have no functionality within the governance platform. These include benefits like earning fees, exercising voting power, providing legitimacy to a group of individuals, and so on.
 
@@ -68,7 +76,7 @@ Unstaking an NFT removes all the restrictions above, but at the same time unfree
 To claim the underlying `MAHA` behind an NFT or to merge an NFT with another NFT, they both need to be unstaked.
 
 {% hint style="info" %}
-When a MAHAX NFT lock is created, the user gets an option to decide if he/she wishes to also stake the NFT in the same transaction. By default this is enabled.
+When a `MAHAX` NFT lock is created, the user gets an option to decide if he/she wishes to also stake the NFT in the same transaction. By default this is enabled.
 {% endhint %}
 
 ## Merging NFTs

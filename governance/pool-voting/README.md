@@ -6,6 +6,10 @@ description: >-
 
 # Pool Voting
 
+{% hint style="info" %}
+Pool Voting is handled by the [BaseV2Voter](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/voter/BaseV2Voter.sol) contract which is deployed at [0xfbbe448d38231c298e9a2251bc0c567543e2cca6](https://etherscan.io/address/0xfbbe448d38231c298e9a2251bc0c567543e2cca6)
+{% endhint %}
+
 A certain percentage of the `MAHA` inflation is directed to users who provide liquidity within the protocol.
 
 This usage is measured via "`Gauge`" contracts. The [Gauge Voting Contract](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/voter/BaseV2Voter.sol) maintains a list of gauges and the amount of `MAHAX` votes each gauge has received. Each pool has an individual liquidity gauge.

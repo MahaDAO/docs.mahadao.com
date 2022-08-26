@@ -6,6 +6,10 @@ description: >-
 
 # Delegation & Voting Rewards
 
+{% hint style="info" %}
+Delegation is handled by the [Staker](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/MAHAXStaker.sol) Contract which is currently deployed at [0x608917f8392634428ec71c6766f3ec3f5cc8f421](https://etherscan.io/address/0x608917f8392634428ec71c6766f3ec3f5cc8f421)
+{% endhint %}
+
 Delegation is an important attribute in encouraging high voter participation. Delegation means that a voter (who ideally is inactive) transfers their voting power to another (more active) voter without losing the ownership of the NFT where the initial voting power comes from. Delegation also allows voters to revoke the voting power that they've delegated at any point in time.&#x20;
 
 It provides a safe and easy way for voters to lend their voting power to voters that share their best interests or is more active.
