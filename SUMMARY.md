@@ -30,6 +30,7 @@
   * [How to Vote for a Pool?](how-to-vote-for-a-pool.md)
   * [Unstaking a MAHAX NFT](governance/governance-portal/unstaking-a-mahax-nft.md)
 * [Deployed Address](governance/deployed-address.md)
+* [Forums](https://discuss.mahadao.com/)
 
 ## Products & Services <a href="#products" id="products"></a>
 
