@@ -21,3 +21,9 @@ If no liquidity stakers have any `MAHAX`, then the `MAHA` emissions will simply 
 However, if a user [locks enough MAHA](../locking-mechanism.md), they are able to boost their `MAHA` rewards by a factor of 5 (reducing it slightly for all users who are not doing that).
 
 Since [voting power decreases with time](broken-reference), it is favorable for users to apply a boost and do no further actions until they lock more tokens. However, once the lock expires, anyone can “kick” the user by creating a checkpoint for that user and, essentially, resetting the user to no boost if they have no voting power at that point already.
+
+## FAQs
+
+### How much MAHAX do I need to get the maximum boost?
+
+While the maximum boost is depended on the total `MAHAX` supply. You don't need to have a large `MAHAX` lock to get the maximum boost. You can still get the maximum boost if you have the largest `MAHAX` lock amongst all the holder.

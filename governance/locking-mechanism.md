@@ -21,7 +21,7 @@ In most cases smaller holders will tend to lock their tokens for longer periods 
 
 To get a tutorial on how to lock your `MAHA`, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x747a93e76bd8e2f2f680874cbf1e1b4c9526f243acc0f3d0d5e40c5379792182">https://etherscan.io/tx/0x747a93e76bd8e2f2f680874cbf1e1b4c9526f243acc0f3d0d5e40c5379792182</a> This is a sample transaction that takes MAHA from a user and mints a MAHAX NFT. The user also get staked voting power.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x747a93e76bd8e2f2f680874cbf1e1b4c9526f243acc0f3d0d5e40c5379792182">https://etherscan.io/tx/0x747a93e76bd8e2f2f680874cbf1e1b4c9526f243acc0f3d0d5e40c5379792182</a> This is a sample transaction that takes MAHA from a user and mints a MAHAX NFT. The user also get staked voting power.</p></figcaption></figure>
 
 ## How is MAHAX calculated?
 
@@ -42,7 +42,7 @@ The below table showcases an example of how much `MAHAX` a person receives given
 | `21.23 MAHAX`        | 1 month       |
 | `4.79 MAHAX`         | 1 week        |
 
-![A graph showcasing the MAHAX power (y-axis) across the number of days locked (x-axis) for 1000 MAHA](<../.gitbook/assets/image (1) (1) (1).png>)
+![A graph showcasing the MAHAX power (y-axis) across the number of days locked (x-axis) for 1000 MAHA](<../.gitbook/assets/image (1) (1) (1) (2).png>)
 
 ## Voting power that decays over time
 
@@ -98,7 +98,7 @@ When an NFT has merged, the following steps take place:
 
 Merging NFTs creates more powerful NFTs with a net combined voting power.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0xf499e96a8364b877224cc7918336af94253be4feef1e51f0dfede8957cf5c9e5">https://etherscan.io/tx/0xf499e96a8364b877224cc7918336af94253be4feef1e51f0dfede8957cf5c9e5</a> A NFT being merged into another NFT</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0xf499e96a8364b877224cc7918336af94253be4feef1e51f0dfede8957cf5c9e5">https://etherscan.io/tx/0xf499e96a8364b877224cc7918336af94253be4feef1e51f0dfede8957cf5c9e5</a> A NFT being merged into another NFT</p></figcaption></figure>
 
 ## Governance
 
@@ -106,3 +106,25 @@ The `MAHAX NFT` locker has various parameters that can be controlled by Governan
 
 * **The minimum amount of MAHA required for a lock:** This is currently set at `99 MAHAX` (or rather approximately `100 MAHA` locked for 4 years). If the cost of minting an NFT becomes higher, then ideally, lowering the minimum mint floor will allow for more NFTs to be minted as the cost of minting a piece becomes lower.
 * **NFT minting privileges:** Currently only used for the migration of NFTs from the polygon, this function allows addresses/contracts to mint NFTs at will. Only to be used in rare scenarios.
+
+## FAQs
+
+### Can I make multiple locks using a single wallet?
+
+Yes, you can make as many locks as want as long as the lock meets the minimum locking criteria (as of writing the minimum lock criteria is set at `100 MAHAX`).
+
+### What happens if my lock expires?
+
+If your lock expires, then your voting power goes to 0. However your NFT does not get burnt unless you decide to do so.
+
+### Do I lose my voting power over time?
+
+Yes, MAHAX is a continuously decreasing value over time however in most cases your NFT you would need to be staked which freezes your voting power to the point at which it was staked at.&#x20;
+
+This voting power is recalculated if you either unstake, extend your lock or lock more `MAHA`.
+
+### What happens if a NFT is staked but it is also listed on a NFT marketplace like Opensea?
+
+NFTs can get kicked from staking if it is listed on marketplaces such as OpenSea. Because NFTs cannot be transferred when they are staked, a listing on OpenSea won't get executed because the transaction would fail.
+
+However this can cause an unwanted floor price manipulation in these marketplaces. Which is why there is a `banFromStake(...)` function that gets triggered to kick NFTs from being staked which are listed on marketplaces like Opensea so that the sale can actually happen on the platform.

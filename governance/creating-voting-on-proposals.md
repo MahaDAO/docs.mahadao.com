@@ -18,7 +18,7 @@ Every proposal before passed onto the governance portal should be discussed with
 
 Any proposal passed onto the governance portal without having been discussed at length by the community at first could have malicious intent and should get voted against by DAO members.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>An example of a live vote on Tally, where MAHAX NFT voters came together and voted to initialize the protocol </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>An example of a live vote on Tally, where MAHAX NFT voters came together and voted to initialize the protocol </p></figcaption></figure>
 
 {% embed url="https://www.tally.xyz/governance/eip155:1:0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5" %}
 The MahaDAO tally webpage
@@ -50,7 +50,7 @@ The Emergency DAO will get dissolved once the protocol becomes sufficiently dece
 The Timelock where all proposal execution parameters are executed is currently deployed at [0xd9333e02a4d85611d0f0498b858b2ae3c29de6fb](https://etherscan.io/address/0xd9333e02a4d85611d0f0498b858b2ae3c29de6fb#code) with a minimum delay of `12 days` for every action.&#x20;
 {% endhint %}
 
-An important aspect of governance is ensuring that all actions are time-locked so as to allow the community enough time to propose and vote against (or veto) a proposal before it gets executed.
+An important aspect of governance is ensuring that all actions are time-locked so as to allow the community enough time to review and veto a malicious proposal before it gets executed.
 
 With a `12 day` timelock and a `4 day` voting period, this gives the community enough timeframe to veto a vote before it becomes active. This becomes especially relevant when the Emergency DAO is dissolved and there is no way to veto existing proposals.
 
@@ -67,3 +67,17 @@ The governance portal itself has various parameters that can be changed via a vo
 * **Vote Delay:** The amount of time where a vote can get canceled by the proposer before it goes live. This is currently set at `1 day`.
 * **Voting Period:** The amount of time where a vote is live and is voted upon by participants. This is currently set at `4 days`.
 * **Timelock Period**: The minimum amount of time delay a successfully voted proposal is kept in the Timelock before it is executed. This is set at `12 days`.
+
+## FAQs
+
+### What happens if a proposal fails?
+
+If a proposal fails to get the minimum required votes (or fails to meet the quorum), it will simply not get executed. However the proposer can choose to resubmit the proposal again for a vote. It all depends on the `MAHAX` voters.
+
+### Why can't I vote if I just acquired some voting power?
+
+When a proposal is live for voting, the voting power you had at the time of the proposal going live is used to count your votes. Not what you have at that point in time.
+
+This is done to ensure that double voting does not happen by allow people to transfer their votes to another wallet once they've already voted.
+
+So ideally you should make sure to acquire voting power before a proposal goes live for voting.

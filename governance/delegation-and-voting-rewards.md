@@ -18,9 +18,9 @@ _This is similar to how an election is run in modern-day democracies, where vote
 
 Delegation is built directly into the NFTs and is possible only if a user [stakes his MAHAX NFT](locking-mechanism.md#staking-nfts).&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa">https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa</a> An example transaction of a voter delegating his voting power to another address.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa">https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa</a> An example transaction of a voter delegating his voting power to another address.</p></figcaption></figure>
 
-### Levels of Delegation
+## Levels of Delegation
 
 Delegation can work at a single level only. That is, if `Alice` delegates voting power to `Bob`, and `Bob` delegates voting power to `Charlie`. Then `Charlie` does not get the voting power of both `Alice` and `Bob`. The below table explains the scenario:
 
@@ -47,3 +47,18 @@ This example explains a little more in detail. Assume `Alice` delegates her voti
 | Everyone Else | `9000 MAHAX` | `9000 MAHAX`                  | `900 MAHA`                            |
 
 _Voting Rewards are currently calculated off-chain using_ [_merkle proofs_](https://www.webopedia.com/definitions/merkle-proof/) _to maintain lower gas costs. Future implements will execute on-chain in a completely decentralized manner._&#x20;
+
+## FAQs
+
+### Can I delegate to someone and can that person delegate to another person?
+
+Yes. Anybody can delegate their voting power to anyone. However they can only delegate the voting power that they own, not what has been delegated to them.
+
+### Can I delegate half of my voting power to someone?
+
+No. At this moment, delegation is either 0 or 100%. That you can only delegate all your voting powers to one person.
+
+### Can I delegate my governance voting power and my pool voting power separately?
+
+No. At this stage, when you delegate your voting power, your delegate will get rights to both governance proposals and to pool voting gauges.
+

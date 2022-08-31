@@ -16,10 +16,14 @@ Any token can be deposited as an incentive for `MAHAX NFT` holders. However to c
 
 ## FAQs
 
-### Will I still receive bribe rewards if I have delegated my voting power?
+### Will I still receive pool incentives if I have delegated my voting power?
 
 While we do encourage inactive participants to delegate their voting power to more active participants, the distribution of rewards as of now cannot be delegated if the votes have been delegated.
 
 That is, if you have delegated your voting power to a delegate and that delegate votes for a pool that has an active bribe, all rewards go to the delegate instead to you. It is up to the delegate to distribute the bribes pro-actively to you.
 
 _(Future implementations of governance will find ways to distribute bribes properly to users who have delegated their power)._
+
+### Can anyone post a pool incentive to the protocol?
+
+Yes. However each pool incentive token needs to be whitelisted before it is deposited as a pool incentive for a particular pool. Whitelisting happens via governance by calling the `whitelist(...)` function in the `GaugeVoter` contract.
