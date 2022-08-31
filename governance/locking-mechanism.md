@@ -21,6 +21,8 @@ In most cases smaller holders will tend to lock their tokens for longer periods 
 
 To get a tutorial on how to lock your `MAHA`, visit the [Governance Portal Tutorials](governance-portal/staking-maha-for-mahax.md).
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x747a93e76bd8e2f2f680874cbf1e1b4c9526f243acc0f3d0d5e40c5379792182">https://etherscan.io/tx/0x747a93e76bd8e2f2f680874cbf1e1b4c9526f243acc0f3d0d5e40c5379792182</a> This is a sample transaction that takes MAHA from a user and mints a MAHAX NFT. The user also get staked voting power.</p></figcaption></figure>
+
 ## How is MAHAX calculated?
 
 MAHAX is calculated using a simple formula that takes into account time and number of tokens locked.
@@ -75,13 +77,15 @@ Unstaking an NFT removes all the restrictions above, but at the same time unfree
 
 To claim the underlying `MAHA` behind an NFT or to merge an NFT with another NFT, they both need to be unstaked.
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x11e86040764638448500643da41448d96b50eb6241bb79d2b82cb2abcceb1ab0">https://etherscan.io/tx/0x11e86040764638448500643da41448d96b50eb6241bb79d2b82cb2abcceb1ab0</a> A sample transaction where a user stakes his NFT and gets voting power (MAHAXvp) for it</p></figcaption></figure>
+
 {% hint style="info" %}
 When a `MAHAX` NFT lock is created, the user gets an option to decide if he/she wishes to also stake the NFT in the same transaction. By default this is enabled.
 {% endhint %}
 
 ## Merging NFTs
 
-![The merge screen that selects the NFTs that a user is trying to merge](<../.gitbook/assets/image (4).png>)
+![The merge screen that selects the NFTs that a user is trying to merge](<../.gitbook/assets/image (4) (3).png>)
 
 `MAHAX` NFTs can be merged into one another, allowing for voting power to get combined and a greater `MAHAX` balance.
 
@@ -92,7 +96,9 @@ When an NFT has merged, the following steps take place:
 * The second NFT is updated with the combined underlying `MAHA` balances for both NFTs
 * The second NFT is updated with a lock duration that is longer than the two NFTs
 
-Merging NFTs creates a scarcity of NFT pieces and more powerful NFTs with more voting power than before.
+Merging NFTs creates more powerful NFTs with a net combined voting power.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0xf499e96a8364b877224cc7918336af94253be4feef1e51f0dfede8957cf5c9e5">https://etherscan.io/tx/0xf499e96a8364b877224cc7918336af94253be4feef1e51f0dfede8957cf5c9e5</a> A NFT being merged into another NFT</p></figcaption></figure>
 
 ## Governance
 

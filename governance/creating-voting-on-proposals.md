@@ -18,13 +18,15 @@ Every proposal before passed onto the governance portal should be discussed with
 
 Any proposal passed onto the governance portal without having been discussed at length by the community at first could have malicious intent and should get voted against by DAO members.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>An example of a live vote on Tally, where MAHAX NFT voters came together and voted to initialize the protocol </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>An example of a live vote on Tally, where MAHAX NFT voters came together and voted to initialize the protocol </p></figcaption></figure>
 
 {% embed url="https://www.tally.xyz/governance/eip155:1:0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5" %}
 The MahaDAO tally webpage
 {% endembed %}
 
 Once a proposal is discussed at length by the community, an on-chain proposal is created using Tally's frontend, allowing for DAO members to start voting on the proposal.
+
+[https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92](https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92) This i
 
 ## Emergency DAO
 
@@ -50,9 +52,9 @@ The Timelock where all proposal execution parameters are executed is currently d
 
 An important aspect of governance is ensuring that all actions are time-locked so as to allow the community enough time to propose and vote against (or veto) a proposal before it gets executed.
 
-With a 12 day timelock and a 4 day voting period, this gives the community enough timeframe to veto a vote before it becomes active. This becomes especially relevant when the Emergency DAO is dissolved and there is no way to veto existing proposals.
+With a `12 day` timelock and a `4 day` voting period, this gives the community enough timeframe to veto a vote before it becomes active. This becomes especially relevant when the Emergency DAO is dissolved and there is no way to veto existing proposals.
 
-The reason for having a timelock is to ensure that bad-actors who manage to acquire enough voting power to approve a proposal get discovered by having their actions go through a 12 day delay.&#x20;
+The reason for having a timelock is to ensure that bad-actors who manage to acquire enough voting power to approve a proposal get discovered by having their actions go through a `12 day` delay.&#x20;
 
 _(To avoid a situation similar to the_ [_Beanstalk h_ack](https://cointelegraph.com/news/beanstalk-farms-loses-182m-in-defi-governance-exploit)_)_
 
@@ -60,8 +62,8 @@ _(To avoid a situation similar to the_ [_Beanstalk h_ack](https://cointelegraph.
 
 The governance portal itself has various parameters that can be changed via a vote. This includes:
 
-* **Proposal Threshold:** The amount of consensus needed for a proposal to pass. This is currently set at 60%
-* **Minimum Balance for Creation of a Proposal:** The minimum balance a wallet needs for it to create a proposal. This is currently set at 250 `MAHAX`.
-* **Vote Delay:** The amount of time where a vote can get canceled by the proposer before it goes live. This is currently set at 1 day.
-* **Voting Period:** The amount of time where a vote is live and is voted upon by participants. This is currently set at 4 days.
-* **Timelock Period**: The amount of time a successfully voted proposal is kept in the Timelock before it is executed. This is set at 12 days.
+* **Proposal Threshold:** The amount of consensus needed for a proposal to pass. This is currently set at `50,000 MAHAX.`
+* **Minimum Balance for Creation of a Proposal:** The minimum balance a wallet needs for it to create a proposal. This is currently set at `250 MAHAX`.
+* **Vote Delay:** The amount of time where a vote can get canceled by the proposer before it goes live. This is currently set at `1 day`.
+* **Voting Period:** The amount of time where a vote is live and is voted upon by participants. This is currently set at `4 days`.
+* **Timelock Period**: The minimum amount of time delay a successfully voted proposal is kept in the Timelock before it is executed. This is set at `12 days`.

@@ -8,7 +8,7 @@ The `MAHA` token is a limited supply token with no more than 10 million tokens t
 
 Furthermore, the supply of `MAHA` is stretched out across a period of 10 years to ensure that token holders are as distributed and decentralized as possible. No one entity should be capable of controlling more than 1% of the supply over the course of the next few years.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Over 67% of the MAHA token's supply is allocated towards community and growth related activities.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Over 67% of the MAHA token's supply is allocated towards community and growth related activities.</p></figcaption></figure>
 
 On December 17th, 2020, MahaDAO conducted its very first private sale and IDO, releasing approximately 8% of the supply into circulation.
 
