@@ -8,7 +8,7 @@ description: This section explains how to create proposals and how to vote on th
 Creating Proposals, Voting and Executing Proposals are handled by the [`Governor`](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/MAHAXGovernor.sol) contract which is deployed at [0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5](https://etherscan.io/address/0xffec018583152ab5f056c5323f1f68b701bf1bc5)
 {% endhint %}
 
-Creating and voting on proposals is currently handled by [Tally](https://www.tally.xyz/governance/eip155:1:0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5), a frontend platform for DAO looking to manage their governance. Tally provides a dashboard, interfaces for creating proposals, and an interface to vote on them as well.
+Creating and voting on proposals is currently handled by [Tally](https://www.tally.xyz/governance/eip155:1:0x90fbe384A03baDa9d439f83E453a50e982cE36F3), a frontend platform for DAO looking to manage their governance. Tally provides a dashboard, interfaces for creating proposals, and an interface to vote on them as well.
 
 A user who intends to create a proposal must have a minimum balance of `250 MAHAX` with them (this can be changed by governance). And should ideally conduct a discussion with the community by creating a thread on [discuss.mahadao.com](https://discuss.mahadao.com/) under the proposal's category on what the proposal will execute upon.
 
@@ -20,11 +20,11 @@ Any proposal passed onto the governance portal without having been discussed at 
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>An example of a live vote on Tally, where MAHAX NFT voters came together and voted to initialize the protocol </p></figcaption></figure>
 
-{% embed url="https://www.tally.xyz/governance/eip155:1:0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5" %}
+{% embed url="https://www.tally.xyz/governance/eip155:1:0x90fbe384A03baDa9d439f83E453a50e982cE36F3" %}
 The MahaDAO tally webpage
 {% endembed %}
 
-Once a proposal is discussed at length by the community, an on-chain proposal is created using Tally's frontend, allowing for DAO members to start voting on the proposal.
+Once a proposal is discussed at length by the community, an on-chain proposal is created using Tally's frontend, allowing DAO members to start voting on the proposal.
 
 [https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92](https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92) This i
 
@@ -54,7 +54,7 @@ An important aspect of governance is ensuring that all actions are time-locked s
 
 With a `12 day` timelock and a `4 day` voting period, this gives the community enough timeframe to veto a vote before it becomes active. This becomes especially relevant when the Emergency DAO is dissolved and there is no way to veto existing proposals.
 
-The reason for having a timelock is to ensure that bad-actors who manage to acquire enough voting power to approve a proposal get discovered by having their actions go through a `12 day` delay.&#x20;
+The reason for having a timelock is to ensure those bad actors who manage to acquire enough voting power to approve a proposal get discovered by having their actions go through a `12 day` delay.&#x20;
 
 _(To avoid a situation similar to the_ [_Beanstalk h_ack](https://cointelegraph.com/news/beanstalk-farms-loses-182m-in-defi-governance-exploit)_)_
 
@@ -72,12 +72,12 @@ The governance portal itself has various parameters that can be changed via a vo
 
 ### What happens if a proposal fails?
 
-If a proposal fails to get the minimum required votes (or fails to meet the quorum), it will simply not get executed. However the proposer can choose to resubmit the proposal again for a vote. It all depends on the `MAHAX` voters.
+If a proposal fails to get the minimum required votes (or fails to meet the quorum), it will simply not get executed. However, the proposer can choose to resubmit the proposal again for a vote. It all depends on the `MAHAX` voters.
 
 ### Why can't I vote if I just acquired some voting power?
 
 When a proposal is live for voting, the voting power you had at the time of the proposal going live is used to count your votes. Not what you have at that point in time.
 
-This is done to ensure that double voting does not happen by allow people to transfer their votes to another wallet once they've already voted.
+This is done to ensure that double voting does not happen by allowing people to transfer their votes to another wallet once they've already voted.
 
 So ideally you should make sure to acquire voting power before a proposal goes live for voting.
