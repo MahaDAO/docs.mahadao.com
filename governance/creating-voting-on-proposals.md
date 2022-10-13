@@ -26,7 +26,7 @@ The MahaDAO tally webpage
 
 Once a proposal is discussed at length by the community, an on-chain proposal is created using Tally's frontend, allowing DAO members to start voting on the proposal.
 
-[https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92](https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92) This i
+[https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92](https://etherscan.io/tx/0x5e58da73355a2acbeb795ad3bfd212d2d458378ad6ce1d90de1798e4ddf90f92) This is an example of the first proposal and vote for the MahaDAO governance portal.&#x20;
 
 ## Emergency DAO
 
