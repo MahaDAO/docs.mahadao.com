@@ -10,7 +10,7 @@ This table contains a list of the core addresses deployed from the [https://gith
 
 | Contract Name      | Deployed Addres                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
-| MAHA Token         | [0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)        |
+| MAHA Token         | [0x745407c86df8db893011912d3ab28e68b62e49b0](https://etherscan.io/token/0x745407c86df8db893011912d3ab28e68b62e49b0)        |
 | ARTH Token         | [0x8cc0f052fff7ead7f2edcccac895502e884a8a71](https://etherscan.io/token/0x8cc0f052fff7ead7f2edcccac895502e884a8a71)        |
 | TimelockController | [0xd9333e02a4d85611d0f0498b858b2ae3c29de6fb](https://etherscan.io/address/0xd9333e02a4d85611d0f0498b858b2ae3c29de6fb#code) |
 | MAHAXGovernor      | [0xffec018583152ab5f056c5323f1f68b701bf1bc5](https://etherscan.io/address/0xffec018583152ab5f056c5323f1f68b701bf1bc5)      |

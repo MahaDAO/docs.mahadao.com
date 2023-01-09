@@ -25,7 +25,7 @@ Bridged version of the token can be accessed by using [AnySwap](https://anyswap.
 
 |                     | Address                                                                                                                |
 | ------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Ethereum (Main)     | [0xb4d930279552397bba2ee473229f89ec245bc365](https://etherscan.io/token/0xb4d930279552397bba2ee473229f89ec245bc365)    |
+| Ethereum (Main)     | [0x745407c86df8db893011912d3ab28e68b62e49b0](https://etherscan.io/token/0x745407c86df8db893011912d3ab28e68b62e49b0)    |
 | Polygon             | [0xedd6ca8a4202d4a36611e2fff109648c4863ae19](https://polygonscan.com/token/0xedd6ca8a4202d4a36611e2fff109648c4863ae19) |
 | Binance Smart Chain | [0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b](https://bscscan.com/token/0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b)     |
 
