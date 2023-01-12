@@ -22,6 +22,8 @@ Tokens are released into circulation through a linear distribution to ensure tha
 
 _(It is estimated that by the year 3 or 4, the token distribution would be spread out as evenly as possible so that no single entity can control more than 1% of the MAHA supply)._
 
+_Post 10 years, the annual inflation rate drops to 2% per year._
+
 ## Month by Month Breakdown
 
 For those who'd like to take precise numbers on how much `MAHA` will get added into the circulation, month by month; an excel sheet (linked [here](https://docs.google.com/spreadsheets/d/1MY3\_\_\_VHDXJc-I4mTNPFQghmVCUo4gONT882QlCSuX4/edit?usp=sharing)) has been created, which goes into depth on how many new tokens get added into circulation.
