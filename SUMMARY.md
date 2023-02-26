@@ -38,3 +38,8 @@
 * [ARTH Valuecoin](https://docs.arthcoin.com/)
 * [Governance Portal](https://gov.mahadao.com/)
 * [Voting Portal](https://www.tally.xyz/governance/eip155:1:0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5)
+
+## Miscellaneous
+
+* [Revenue Share](miscellaneous/revenue-share.md)
+* [Automated Liquidity](miscellaneous/automated-liquidity.md)

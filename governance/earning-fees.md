@@ -6,6 +6,10 @@ description: >-
 
 # Earning Fees & Rewards
 
+{% hint style="info" %}
+To understand sources of revenue and how they get distributed, read the ["Revenue Share"](../miscellaneous/revenue-share.md) section.
+{% endhint %}
+
 To incentivize participants to stake in the MahaDAO ecosystem, the governance portal allows stakers to claim fees based on their user activity.
 
 Some fees can be earned by being passive participants in the ecosystem, whereas some fees require more active participation from DAO members.
@@ -35,9 +39,9 @@ _To see a list of contract that distribute fees, see_ [_Deployed Addresses_](dep
 
 ### How Fees are Earned & Distributed
 
-| Kind                      | How they are earned?                                                                   | How they are distributed?                                                                                |
-| ------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Inflation Rewards         | By simply having a MAHAX NFT. All NFTs accumulate rewards over time.                   | From the rewards page under the "Protocol Fees" section. NFTs must be staked to claim inflation rewards. |
-| Protocol Fees             | Same as Inflation Rewards                                                              | Same as Inflation Rewards                                                                                |
-| Governance Voting Rewards | By participating in the governance portal, creating proposals and voting on them.      | From the rewards page under the "Governance Voting Rewards" section.                                     |
-| Pool Incentives           | By participating the Pool Voting page and voting for pools with active pool incentives | From the rewards page under the "Pool Voting Rewards" section.                                           |
+| Kind                      | How they are earned?                                                                               | How they are distributed?                                                                                |
+| ------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Inflation Rewards         | By simply having a MAHAX NFT. All NFTs accumulate rewards over time.                               | From the rewards page under the "Protocol Fees" section. NFTs must be staked to claim inflation rewards. |
+| Protocol Fees             | Same as Inflation Rewards. More information at [Revenue Share](../miscellaneous/revenue-share.md). | Same as Inflation Rewards. More information at [Revenue Share](../miscellaneous/revenue-share.md).       |
+| Governance Voting Rewards | By participating in the governance portal, creating proposals and voting on them.                  | From the rewards page under the "Governance Voting Rewards" section.                                     |
+| Pool Incentives           | By participating the Pool Voting page and voting for pools with active pool incentives             | From the rewards page under the "Pool Voting Rewards" section.                                           |
