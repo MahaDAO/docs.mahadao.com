@@ -41,5 +41,6 @@
 
 ## Miscellaneous
 
+* [Automations](miscellaneous/automations.md)
 * [Revenue Share](miscellaneous/revenue-share.md)
 * [Automated Liquidity](miscellaneous/automated-liquidity.md)
