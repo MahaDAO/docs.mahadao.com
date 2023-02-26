@@ -25,7 +25,7 @@ To get a deeper idea of the various sources of revenue, we have prepared a Dune 
 
 ### How Revenue Gets Distributed
 
-Once revenue gets collected from the `FeeSplitter` contract it then gets sent onto various different sources to grow the protocol.
+Once revenue gets collected into the `FeeSplitter` contract it then gets sent onto various different sources to grow the protocol.
 
 | Recipient                                                                                                 | Allocation | Comments                                                                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
