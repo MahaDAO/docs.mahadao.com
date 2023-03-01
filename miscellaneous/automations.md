@@ -6,9 +6,9 @@ description: >-
 
 # Automations
 
-Automations help maintain the entire ecosystem stay completely decentralized without the need of human intervention.&#x20;
+Automations help the maintenance of the entire ecosystem to stay completely decentralized without the need for human intervention.&#x20;
 
-The following keepers perform various maintenance activities such as updating pricefeeds, deposit staking rewards etc... on a daily, monthly or weekly basis.&#x20;
+The following keepers perform various maintenance activities, such as updating price feeds, deposit staking rewards, etc... on a daily, monthly, or weekly basis.&#x20;
 
 These automations are mainly deployed using [Chainlink automations](https://automation.chain.link/mainnet) which require `LINK` tokens to execute these operations.
 
@@ -21,6 +21,6 @@ These automations are mainly deployed using [Chainlink automations](https://auto
 | **StakingReward Keeper**        | Deposits the staking rewards into the various distributor contracts for `MAHA` stakers.                  | [Chainlink](https://automation.chain.link/mainnet/41266333116245221905699183984714327620810494154220963165674006901939269314215) - [Etherscan](https://etherscan.io/address/0x2E8978Ae41ec867a0eB5dAf38a4E8b62858DbFCb) -[Source](https://github.com/MahaDAO/chainlink-keepers/blob/master/contracts/StakingRewardsKeeper.sol)          | Weekly                                       |
 | **MAHA Emissions Keeper**       | Sends the `MAHA` tokens from the monthly emissions to the various beneficiaries                          | [Chainlink](https://automation.chain.link/mainnet/100677908923339746482037180250497929693616624651083220566107247329239608938595) - [Etherscan](https://etherscan.io/address/0xd3408050f18024E9412311A3aFf8B8294f083f67) -[Source](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/splitters/MAHASplitKeeper.sol) | Monthly                                      |
 
-Source code for the various keepers can be found in the links above. We also maintain a repository that contains the deployment code for the above keepers.
+The source code for the various keepers can be found in the links above. We also maintain a repository that contains the deployment code for the above keepers.
 
 {% embed url="https://github.com/MahaDAO/chainlink-keepers" %}
