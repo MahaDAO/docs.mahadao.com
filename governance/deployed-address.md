@@ -33,3 +33,13 @@ The table contains a list of periphery addresses such as fee distributors, gauge
 | ARTH/WETH Uni V3 Bribe | [0x8F362e16A74c2EB564bfbF24DC73bd5CE37D9063](https://etherscan.io/address/0x8f362e16a74c2eb564bfbf24dc73bd5ce37d9063) |
 | MAHA Fee Distributor   | [0x5094B4C40E8d7c9a7522349AFCE1032237e35f20](https://etherscan.io/address/0x5094b4c40e8d7c9a7522349afce1032237e35f20) |
 | SCLP Fee Distributor   | [0xBcc8b09D85fabd90BDA773cA762C341cfaBc3e2B](https://etherscan.io/address/0xbcc8b09d85fabd90bda773ca762c341cfabc3e2b) |
+
+## Layer 2 Addresses
+
+The table contains a list of addresses of ARTH and MAHA across various other chains.
+
+| Token | Network             | Deployed Address                                                                                                    |
+| ----- | ------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| MAHA  | Arbitrum One        | [0xeb99748e91afca94a6289db3b02e7ef4a8f0a22d](https://arbiscan.io/token/0xeb99748e91afca94a6289db3b02e7ef4a8f0a22d)  |
+| MAHA  | Binance Smart Chain | [0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b](https://bscscan.com/token/0xce86f7fcd3b40791f63b86c3ea3b8b355ce2685b)  |
+| MAHA  | Ethereum            | [0x745407c86df8db893011912d3ab28e68b62e49b0](https://etherscan.io/token/0x745407c86df8db893011912d3ab28e68b62e49b0) |
