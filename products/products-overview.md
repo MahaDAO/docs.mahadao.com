@@ -2,7 +2,7 @@
 description: This section talks about the various products of the MahaDAO
 ---
 
-# Overview
+# Products Overview
 
 ## ARTH Valuecoin
 
@@ -20,5 +20,7 @@ You can visit the portal at [gov.mahadao.com](https://gov.mahadao.com/) with tut
 
 ## Lending Protocol
 
-The lending protocol is the third and currently upcoming product of the MahaDAO which will be used to create demand for the ARTH protocol in a sustainable way.
+The lending protocol is the third product of the MahaDAO which will be used to create demand for the ARTH protocol in a sustainable way.
+
+The protocol is currently live at [https://mahalend.com/](https://mahalend.com/)
 
