@@ -37,7 +37,7 @@
 * [Products Overview](products/products-overview.md)
 * [ARTH Valuecoin](https://docs.arthcoin.com/)
 * [Governance Portal](https://gov.mahadao.com/)
-* [Voting Portal](https://www.tally.xyz/governance/eip155:1:0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5)
+* [Voting Portal](https://www.tally.xyz/gov/mahadao)
 
 ## Miscellaneous
 

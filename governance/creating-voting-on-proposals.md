@@ -5,10 +5,10 @@ description: This section explains how to create proposals and how to vote on th
 # Creating/Voting on Proposals
 
 {% hint style="info" %}
-Creating Proposals, Voting and Executing Proposals are handled by the [`Governor`](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/MAHAXGovernor.sol) contract which is deployed at [0xFfEC018583152aB5f056c5323f1f68b701bF1Bc5](https://etherscan.io/address/0xffec018583152ab5f056c5323f1f68b701bf1bc5)
+Creating Proposals, Voting and Executing Proposals are handled by the [`Governor`](https://github.com/MahaDAO/governance-contracts/blob/master/contracts/MAHAXGovernor.sol) contract which is deployed at [0xe7d23c2b3e9148c46cec796f018842ab72d5867f](https://etherscan.io/address/0xe7d23c2b3e9148c46cec796f018842ab72d5867f)
 {% endhint %}
 
-Creating and voting on proposals is currently handled by [Tally](https://www.tally.xyz/governance/eip155:1:0x90fbe384A03baDa9d439f83E453a50e982cE36F3), a frontend platform for DAO looking to manage their governance. Tally provides a dashboard, interfaces for creating proposals, and an interface to vote on them as well.
+Creating and voting on proposals is currently handled by [Tally](https://www.tally.xyz/gov/mahadao), a frontend platform for DAO looking to manage their governance. Tally provides a dashboard, interfaces for creating proposals, and an interface to vote on them as well.
 
 A user who intends to create a proposal must have a minimum balance of `250 MAHAX` with them (this can be changed by governance). And should ideally conduct a discussion with the community by creating a thread on [discuss.mahadao.com](https://discuss.mahadao.com/) under the proposal's category on what the proposal will execute upon.
 
@@ -47,12 +47,12 @@ The Emergency DAO will get dissolved once the protocol becomes sufficiently dece
 ## Timelock
 
 {% hint style="info" %}
-The Timelock where all proposal execution parameters are executed is currently deployed at [0xd9333e02a4d85611d0f0498b858b2ae3c29de6fb](https://etherscan.io/address/0xd9333e02a4d85611d0f0498b858b2ae3c29de6fb#code) with a minimum delay of `12 days` for every action.&#x20;
+The Timelock where all proposal execution parameters are executed is currently deployed at [0x43c958AFFe41D44F0a02aE177b591E93c86AdbEa](https://etherscan.io/address/0x43c958affe41d44f0a02ae177b591e93c86adbea) with a minimum delay of `12 days` for every action.&#x20;
 {% endhint %}
 
 An important aspect of governance is ensuring that all actions are time-locked so as to allow the community enough time to review and veto a malicious proposal before it gets executed.
 
-With a `12 day` timelock and a `4 day` voting period, this gives the community enough timeframe to veto a vote before it becomes active. This becomes especially relevant when the Emergency DAO is dissolved and there is no way to veto existing proposals.
+With a `14 day` timelock and a `7 day` voting period, this gives the community enough timeframe to veto a vote before it becomes active. This becomes especially relevant when the Emergency DAO is dissolved and there is no way to veto existing proposals.
 
 The reason for having a timelock is to ensure those bad actors who manage to acquire enough voting power to approve a proposal get discovered by having their actions go through a `12 day` delay.&#x20;
 
@@ -62,11 +62,11 @@ _(To avoid a situation similar to the_ [_Beanstalk h_ack](https://cointelegraph.
 
 The governance portal itself has various parameters that can be changed via a vote. This includes:
 
-* **Proposal Threshold:** The amount of consensus needed for a proposal to pass. This is currently set at `50,000 MAHAX.`
+* **Proposal Threshold:** The amount of consensus needed for a proposal to pass. This is currently set at `100,000 MAHAX.`
 * **Minimum Balance for Creation of a Proposal:** The minimum balance a wallet needs for it to create a proposal. This is currently set at `250 MAHAX`.
 * **Vote Delay:** The amount of time where a vote can get canceled by the proposer before it goes live. This is currently set at `1 day`.
-* **Voting Period:** The amount of time where a vote is live and is voted upon by participants. This is currently set at `4 days`.
-* **Timelock Period**: The minimum amount of time delay a successfully voted proposal is kept in the Timelock before it is executed. This is set at `12 days`.
+* **Voting Period:** The amount of time where a vote is live and is voted upon by participants. This is currently set at `7 days`.
+* **Timelock Period**: The minimum amount of time delay a successfully voted proposal is kept in the Timelock before it is executed. This is set at `14 days`.
 
 ## FAQs
 
