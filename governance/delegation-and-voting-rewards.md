@@ -18,7 +18,7 @@ _This is similar to how an election is run in modern-day democracies, where vote
 
 Delegation is built directly into the NFTs and is possible only if a user [stakes his MAHAX NFT](locking-mechanism.md#staking-nfts).&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa">https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa</a> An example transaction of a voter delegating his voting power to another address.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa">https://etherscan.io/tx/0x93c5b601ef265151b7594e8cfaca09d3ca3e59d9f375a8866a8daef223c50bfa</a> An example transaction of a voter delegating his voting power to another address.</p></figcaption></figure>
 
 ## Levels of Delegation
 

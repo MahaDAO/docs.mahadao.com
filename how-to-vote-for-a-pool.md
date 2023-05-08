@@ -33,6 +33,6 @@ _**NOTE:**_&#x20;
 
 ![The confirm vote pop up will come up so that you can verify the details and click on confirm. ](.gitbook/assets/vote2.jpg)
 
-****
+
 
 **Step 8:** You need to click on **Confirm,** and that completes the process of casting votes.&#x20;

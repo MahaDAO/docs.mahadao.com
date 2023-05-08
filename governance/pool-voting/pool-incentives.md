@@ -10,7 +10,7 @@ description: >-
 
 With `Pool Incentives`, `MAHAX NFT` holders are given token rewards by Incentivizers who pay out token rewards for a particular pool.
 
-![The pool incentive page where users looking to incentivize MAHA NFT holders will deposit their rewards.](<../../.gitbook/assets/image (5) (2).png>)
+![The pool incentive page where users looking to incentivize MAHA NFT holders will deposit their rewards.](<../../.gitbook/assets/image (5).png>)
 
 Any token can be deposited as an incentive for `MAHAX NFT` holders. However to create a `Pool Incentive` for a new pool, it first needs to be whitelisted and then added into the BaseVoter contract via [Governance](../creating-voting-on-proposals.md).&#x20;
 

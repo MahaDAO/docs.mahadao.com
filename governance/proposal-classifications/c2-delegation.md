@@ -33,18 +33,12 @@ _The Proposal may impact any or all of the following_
 
 In this classification, we're primarily focused on the security of the protocol, and the protection of our community. This demands an emphasis on being able to identify not only malicious risks but also unintended consequences. Ideally, we encourage both technical and strategic specialists to consider delegate nomination.&#x20;
 
-* <mark style="color:blue;">Technical Proposals</mark>\ <mark style="color:blue;"></mark>This refers to proposals that are attached with executable code or contract that will interact with the MahaDAO Protocol and/or ecosystem. \
+* <mark style="color:blue;">Technical Proposals</mark>\
+  This refers to proposals that are attached with executable code or contract that will interact with the MahaDAO Protocol and/or ecosystem. \
 
-* <mark style="color:blue;">Partnership and Service integrations</mark>\ <mark style="color:blue;"></mark>As we have witnessed many exploits and hacks around bridges and oracles, we have included this proposal type as high risk and of technical specialization.&#x20;
+* <mark style="color:blue;">Partnership and Service integrations</mark>\
+  As we have witnessed many exploits and hacks around bridges and oracles, we have included this proposal type as high risk and of technical specialization.&#x20;
 
-### Safety Check
 
-If the DAO fails to protect the protocol from any malicious governance attack, then we have in place a 'Safety Check' that will ensure the protocol and community remains protected and secure. \
-\
-_**The 'Safety Check' is limited to the prevention of malicious proposals executing; it can not be used for an affirmative purpose to support a proposal.**_ This backup security feature will be operated by anonymous individuals; this is to ensure their protection and privacy, whilst eliminating the opportunity to solicit preferences.
-
-### Grace Period
-
-Once a submitted proposal has passed a vote, it will either observe a 7 or 30-day 'grace period' before execution. It is during this grace period that the proposal will be thoroughly evaluated for any malicious attack. If a threat is deemed present, the 'Safety Check' will be used to Veto the Proposal. In the unlikely event of this occurrence, a full disclosure report will be made available; detailing the prevented threat.   &#x20;
 
 \

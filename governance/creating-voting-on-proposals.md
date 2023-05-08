@@ -18,7 +18,7 @@ Every proposal before passed onto the governance portal should be discussed with
 
 Any proposal passed onto the governance portal without having been discussed at length by the community at first could have malicious intent and should get voted against by DAO members.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>An example of a live vote on Tally, where MAHAX NFT voters came together and voted to initialize the protocol </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>An example of a live vote on Tally, where MAHAX NFT voters came together and voted to initialize the protocol </p></figcaption></figure>
 
 {% embed url="https://www.tally.xyz/governance/eip155:1:0x90fbe384A03baDa9d439f83E453a50e982cE36F3" %}
 The MahaDAO tally webpage
