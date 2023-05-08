@@ -5,7 +5,7 @@ description: This section talks about the locking mechanism behind the MAHAX NFT
 # Locking MAHA for NFTs
 
 {% hint style="info" %}
-Locking `MAHA` is handled by the locker contract which is currently deployed at [0xbdd8f4daf71c2cb16cce7e54bb81ef3cfcf5aacb](https://etherscan.io/address/0xbdd8f4daf71c2cb16cce7e54bb81ef3cfcf5aacb)
+Locking `MAHA` is handled by the locker contract, which is currently deployed at [0xbdd8f4daf71c2cb16cce7e54bb81ef3cfcf5aacb](https://etherscan.io/address/0xbdd8f4daf71c2cb16cce7e54bb81ef3cfcf5aacb)
 {% endhint %}
 
 `MAHAX` is a representation of the voting power a user gets when they lock their `MAHA`. It is calculated using two metrics:
@@ -13,9 +13,9 @@ Locking `MAHA` is handled by the locker contract which is currently deployed at 
 * How long is the `MAHA` locked for?
 * How much `MAHA` is locked?
 
-The goal with this kind of mechanism is to create a fair and decentralized distribution for voting power that gives as much as power for the common man as compared to a whale.&#x20;
+The goal of this kind of mechanism is to create a fair and decentralized distribution of voting power that gives as much power to the common man as compared to a whale.&#x20;
 
-In most cases smaller holders will tend to lock their tokens for longer periods of time to get the same amount of voting power as whales who will tend to larger amounts of tokens but for lesser periods of time. This allows participants to have their voice recognized better by simply locking their tokens for longer periods of time.
+In most cases, smaller holders will tend to lock their tokens for longer periods of time to get the same amount of voting power as whales, who will tend to larger amounts of tokens but for lesser periods of time. This allows participants to have their voices recognized better by simply locking their tokens for longer periods of time.
 
 ![A screenshot of the lock screen that allows a user to choose how much MAHA they'd like to lock, for how long and if they'd like to stake their NFT as well.](<../.gitbook/assets/image (4) (2).png>)
 
@@ -25,13 +25,13 @@ To get a tutorial on how to lock your `MAHA`, visit the [Governance Portal Tutor
 
 ## How is MAHAX calculated?
 
-MAHAX is calculated using a simple formula that takes into account time and number of tokens locked.
+MAHAX is calculated using a simple formula that takes into account time and the number of tokens locked.
 
 $$
 Amount_{mahax} = (Amount_{maha} * days) / (365 * 4)
 $$
 
-The below table showcases an example of how much `MAHAX` a person receives given `1000 MAHA` that is locked across various intervals of time. However note that a user can choose any interval between `2 weeks` to `4 years`.
+The below table showcases an example of how much `MAHAX` a person receives, given `1000 MAHA` that is locked across various intervals of time. However note that a user can choose any interval between `2 weeks` to `4 years`.
 
 | For 1000 MAHA locked | Lock Duration |
 | -------------------- | ------------- |
